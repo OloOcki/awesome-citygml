@@ -21,7 +21,7 @@ Please feel free to contribute!
 - [USA](#USA)
 - [Poland](#Poland)
 - [Singapore](#Singapore)
-- [The Netherlands](#TheNetherlands)
+- [The Netherlands](#Netherlands)
 
 ## Canada
 -
@@ -53,7 +53,7 @@ Please feel free to contribute!
 
 ## Singapore
 
-## TheNetherlands
+## Netherlands
 
 
   
