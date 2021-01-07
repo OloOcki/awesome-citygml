@@ -1,4 +1,4 @@
-# Awesome CityGML :cityscape:
+# :cityscape: Awesome CityGML :cityscape:
 The ultimate list of open source CityGML 2.0 city models
 
 Please feel free to contribute! 
