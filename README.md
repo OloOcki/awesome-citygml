@@ -1,5 +1,5 @@
 # :cityscape: Awesome CityGML :cityscape:
-The ultimate list of open source CityGML 2.0 city models
+The ultimate list of open source CityGML 2.0 semantic city models (few similar) 
 
 Please feel free to contribute! 
 
@@ -39,7 +39,8 @@ Please feel free to contribute!
 -
 
 ## Australia
--
+
+- **Adelaide** 
 
 ## Belgium
 -
