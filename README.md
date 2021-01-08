@@ -20,20 +20,50 @@ Please feel free to contribute!
 
 # List of Countries
 
+- :australia: [Australia](#Australia)
+- :austria: [Austria](#Austria)
+- :belgium: [Belgium](#Belgium)
 - :canada: [Canada](#Canada)
+- :finland: [Finland](#Finland)
+- :france: [France](#France)
 - :de: [Germany](#Germany)
+- :luxembourg: [Luxembourg](#Luxembourg)
+- :netherlands: [The Netherlands](#Netherlands)
+- :uk: [UK](#UK)
 - :us: [USA](#USA)
 - :poland: [Poland](#Poland)
 - :singapore: [Singapore](#Singapore)
-- :netherlands: [The Netherlands](#Netherlands)
+- :switzerland: [Switzerland](#Switzerland)
+
+## Austria
+-
+
+## Australia
+-
+
+## Belgium
+-
 
 ## Canada
 -
 
+## Finland
+-
+
+## France
+-
+
 ## Germany
-- 
+-
 
+## Luxembourg
+-
 
+## Netherlands
+-
+
+## UK
+-
 
 ## USA
 
@@ -63,8 +93,12 @@ Please feel free to contribute!
 
 
 ## Singapore
+-
 
-## Netherlands
+## Switzerland
+-
+
+
 
 
   
