@@ -28,7 +28,7 @@ Please feel free to contribute!
 - :fr: [France](#France)
 - :de: [Germany](#Germany)
 - :luxembourg: [Luxembourg](#Luxembourg)
-- :netherlands: [The Netherlands](#Netherlands)
+- :netherlands: [Netherlands](#Netherlands)
 - :uk: [UK](#UK)
 - :us: [USA](#USA)
 - :poland: [Poland](#Poland)
