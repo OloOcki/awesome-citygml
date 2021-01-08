@@ -25,7 +25,7 @@ Please feel free to contribute!
 - :belgium: [Belgium](#Belgium)
 - :canada: [Canada](#Canada)
 - :finland: [Finland](#Finland)
-- :france: [France](#France)
+- :fr: [France](#France)
 - :de: [Germany](#Germany)
 - :luxembourg: [Luxembourg](#Luxembourg)
 - :netherlands: [The Netherlands](#Netherlands)
