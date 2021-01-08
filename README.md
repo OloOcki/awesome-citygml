@@ -57,7 +57,7 @@ Please feel free to contribute!
 
 [[Download - go to Data for download -> BDOT data packages -> 3D models of buildings](https://mapy.geoportal.gov.pl/imap/Imgp_2.html?gpmap=gp0)] [[Visualisation](https://mapy.geoportal.gov.pl/imap/Imgp_2.html?gpmap=imap3d)] [[More](http://www.gugik.gov.pl/aktualnosci/2020/22.07.2019-wszystkie-modele-budynkow-3d-w-standardzie-lod1-opublikowane)] 
 
-- **Poznan** Download through the map or on website (buildings) :house: :evergreen_tree: :national_park: :mailbox_with_no_mail: :bricks: :one: :two: :three:
+- **Poznan** Download through the map (use Widget menu -> Export widget) or on website (only for buildings) :house: :evergreen_tree: :national_park: :mailbox_with_no_mail: :bricks: :one: :two: :three:
 
 [[Download](http://sip.poznan.pl/sip/dz/get_budynki/id_rap/101/v_lod3/1)] [[Visualisation](http://sip.poznan.pl/model3d/#/legend)] [[More](http://sip.poznan.pl/sip/)] 
 
