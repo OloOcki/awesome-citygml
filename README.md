@@ -37,7 +37,7 @@ Please feel free to contribute!
 
 ## USA
 
-- **USA** the whole USA teritory in LoD1 with more than 125 million buildings :house: :one:
+- **USA** the whole USA teritory in LoD1 with more than 125 million buildings separated by state  :house: :one:
 
 [[Download](https://github.com/opencitymodel/opencitymodel)] [[More](https://github.com/opencitymodel/opencitymodel)] 
 
@@ -52,6 +52,10 @@ Please feel free to contribute!
 
 
 ## Poland
+
+- **Poland** Buildings for the whole Poland in LoD1 and +-half of Poland in LoD2 :house: :one: :two:
+
+[[Download - go to Data for download -> BDOT data packages -> 3D models of buildings](https://mapy.geoportal.gov.pl/imap/Imgp_2.html?gpmap=gp0)] [[Visualisation](https://mapy.geoportal.gov.pl/imap/Imgp_2.html?gpmap=imap3d)] [[More](http://www.gugik.gov.pl/aktualnosci/2020/22.07.2019-wszystkie-modele-budynkow-3d-w-standardzie-lod1-opublikowane)] 
 
 - **Poznan** Download through the map or on website (buildings) :house: :evergreen_tree: :national_park: :mailbox_with_no_mail: :bricks: :one: :two: :three:
 
