@@ -24,7 +24,7 @@ Please feel free to contribute!
 - :singapore: [Singapore](#Singapore)
 - :netherlands: [The Netherlands](#Netherlands)
 
-## :canada: Canada
+## Canada :canada:
 -
 
 ## Germany
@@ -54,7 +54,7 @@ Please feel free to contribute!
 
 ## Singapore
 
-## :netherlands: Netherlands
+## Netherlands :netherlands:
 
 
   
