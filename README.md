@@ -7,6 +7,7 @@ Please feel free to contribute!
 
 - Building: :house:
 - Street space: :car:
+- Vegetation: :evergreen_tree:
 - Terrain: :national_park:
 - City Furniture: :mailbox_with_no_mail:
 - Textures: :bricks:
@@ -52,7 +53,8 @@ Please feel free to contribute!
 
 ## Poland
 
-- **Poznan** :house: :bricks: :one: :two: :three:
+- **Poznan** Download through the map or on website (buildings) :house: :evergreen_tree: :national_park: :mailbox_with_no_mail: :bricks: :one: :two: :three:
+
 [[Download](http://sip.poznan.pl/sip/dz/get_budynki/id_rap/101/v_lod3/1)] [[Visualisation](http://sip.poznan.pl/model3d/#/legend)] [[More](http://sip.poznan.pl/sip/)] 
 
 
