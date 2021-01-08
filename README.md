@@ -7,6 +7,7 @@ Please feel free to contribute!
 
 - Building: :house:
 - Street space: :car:
+- Textures: 
 - LoD 1: :one:
 - LoD 2: :two:
 - LoD 3: :three:
@@ -16,14 +17,14 @@ Please feel free to contribute!
 
 # List of Countries
 
-- [Canada](#Canada)
-- [Germany](#Germany)
-- [USA](#USA)
-- [Poland](#Poland)
-- [Singapore](#Singapore)
-- [The Netherlands](#Netherlands)
+- :canada: [Canada](#Canada)
+- :de: [Germany](#Germany)
+- :us: [USA](#USA)
+- :poland: [Poland](#Poland)
+- :singapore: [Singapore](#Singapore)
+- :netherlands: [The Netherlands](#Netherlands)
 
-## Canada
+## :canada: Canada
 -
 
 ## Germany
@@ -53,7 +54,7 @@ Please feel free to contribute!
 
 ## Singapore
 
-## Netherlands
+## :netherlands: Netherlands
 
 
   
