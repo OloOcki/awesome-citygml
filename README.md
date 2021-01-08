@@ -7,7 +7,9 @@ Please feel free to contribute!
 
 - Building: :house:
 - Street space: :car:
-- Textures: 
+- Terrain: :national_park:
+- City Furniture: :mailbox_with_no_mail:
+- Textures: :bricks:
 - LoD 1: :one:
 - LoD 2: :two:
 - LoD 3: :three:
@@ -24,7 +26,7 @@ Please feel free to contribute!
 - :singapore: [Singapore](#Singapore)
 - :netherlands: [The Netherlands](#Netherlands)
 
-## Canada :canada:
+## Canada
 -
 
 ## Germany
@@ -49,12 +51,14 @@ Please feel free to contribute!
 
 
 ## Poland
--
+
+- **Poznan** :house: :bricks: :one: :two: :three:
+[[Download](http://sip.poznan.pl/sip/dz/get_budynki/id_rap/101/v_lod3/1)] [[Visualisation](http://sip.poznan.pl/model3d/#/legend)] [[More](http://sip.poznan.pl/sip/)] 
 
 
 ## Singapore
 
-## Netherlands :netherlands:
+## Netherlands
 
 
   
