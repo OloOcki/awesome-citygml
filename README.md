@@ -72,7 +72,13 @@ Please feel free to contribute or write to olaf.wysocki@tum.de!
 [[Download](https://datastore.brussels/web/urbis-download)] [[More](https://urbisdownload-backend.datastore.brussels/rest/documentation?language=EN)] 
 
 ## Canada
--
+
+- **Montreal** terrain and buildings in various formats also ALS dataset available
+
+[:national_park:] [:house:] [:bricks:] [:two:] 
+
+[[Download](https://donnees.montreal.ca/ville-de-montreal/maquette-numerique-plateau-mont-royal-batiments-lod2-avec-textures)] [[More](https://donnees.montreal.ca/collections/environnement-ressources-naturelles-energie)] 
+
 
 ## Finland
 
@@ -214,18 +220,30 @@ https://map.geoportail.lu/theme/main?version=3&zoom=17.77189888003778&X=685434&Y
 
 [[Download](https://mapy.geoportal.gov.pl/imap/Imgp_2.html?gpmap=gp0)] [[Visualisation](https://mapy.geoportal.gov.pl/imap/Imgp_2.html?gpmap=imap3d)] [[More](http://www.gugik.gov.pl/aktualnosci/2020/22.07.2019-wszystkie-modele-budynkow-3d-w-standardzie-lod1-opublikowane)] 
 
-- **Poznan** Download through the map (use Widget menu -> Export widget) or on website (only for buildings) 
+- **Poznan** Download through the map (use Widget menu -> Export widget) or on website (only for buildings)
+
 [:house:] [:evergreen_tree:] [:national_park:] [:mailbox_with_no_mail:] [:bricks:] [:one:] [:two:] [:three:]
 
 [[Download](http://sip.poznan.pl/sip/dz/get_budynki/id_rap/101/v_lod3/1)] [[Visualisation](http://sip.poznan.pl/model3d/#/legend)] [[More](http://sip.poznan.pl/sip/)] 
 
 
 ## Singapore
--
+
+- **Singapore** Public housing (HDB) buildings in LoD1 available in CityJSON and OBJ formats
+
+[:house:] [:one:] 
+
+[[Download](https://github.com/ualsg/hdb3d-data)] [[More](https://github.com/ualsg/hdb3d-data)] 
+
 
 ## Switzerland
--
 
+- **Zurich** buildings available for the city of Zurich
+
+[:house:] [:one:] [:two:]
+
+
+[[Download](https://data.stadt-zuerich.ch/dataset?q=&tags=3d-stadtmodell)] [[More](https://www.stadt-zuerich.ch/geodaten/)] 
 
 
 
