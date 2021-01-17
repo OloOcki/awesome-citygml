@@ -39,7 +39,7 @@ Please feel free to contribute or write to olaf.wysocki@tum.de!
 - :singapore: [Singapore](#Singapore)
 - :switzerland: [Switzerland](#Switzerland)
 
-- :triangular_flag_on_post: [SynthetiCities](#SynthetiCities)
+- :triangular_flag_on_post: [Syntheti(C)ities](#Syntheti(C)ities)
 
 ## Austria
 
@@ -246,5 +246,12 @@ https://map.geoportail.lu/theme/main?version=3&zoom=17.77189888003778&X=685434&Y
 [[Download](https://data.stadt-zuerich.ch/dataset?q=&tags=3d-stadtmodell)] [[More](https://www.stadt-zuerich.ch/geodaten/)] 
 
 
+## Syntheti(C)ities
+
+- **Random3Dcity** samples of generated buildings in LoD 1,2,3 and variations of these. The modeling engine is published as open-source code to enable further buildings' generation
+
+[:house:] [:one:] [:two:] [:three:] [:1234:]
+
+[[Download](https://filipbiljecki.com/code/Random3Dcity.html)] [[More](https://github.com/tudelft3d/Random3Dcity)] 
 
   
