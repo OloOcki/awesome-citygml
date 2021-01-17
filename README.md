@@ -42,6 +42,7 @@ Please feel free to contribute or write to olaf.wysocki@tum.de!
 - :triangular_flag_on_post: [Syntheti(C)ities](#Syntheti(C)ities)
 
 ## Austria
+:austria:
 
 - **Linz** 3D buildings of the city of Linz available in LoD2
 
