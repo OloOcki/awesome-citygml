@@ -51,8 +51,9 @@ Please feel free to contribute or write to olaf.wysocki@tum.de!
 
 [[Download](https://data.sa.gov.au/data/dataset/3d-model)] [[More](https://indaily.com.au/news/business/2018/02/16/aussie-firm-beats-french-tech-giant-build-3d-model-adelaide/)] 
 
-## Austria
-### :austria:
+
+## Austria   :austria:
+
 
 - **Linz** 3D buildings of the city of Linz available in LoD2
 
