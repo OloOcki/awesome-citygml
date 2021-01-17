@@ -25,7 +25,7 @@ Please feel free to contribute or write to olaf.wysocki@tum.de!
 # List of Countries
 
 - :australia: [Australia](#Australia)
-- :austria: [Austria](#Austria)
+- :austria: [Austria](#Austria   :austria:)
 - :belgium: [Belgium](#Belgium)
 - :canada: [Canada](#Canada)
 - :finland: [Finland](#Finland)
