@@ -1,5 +1,5 @@
 # :cityscape: Awesome CityGML :cityscape:
-The ultimate list of open source CityGML 2.0 semantic city models. Albeit great effort of several institutions (e.g., [TU Delft](https://3d.bk.tudelft.nl/opendata/opencities/)) the list of open datasets for cities/regions is incomplete. It is believed that empowering the community will solve the problem!
+The ultimate list of open source CityGML semantic city models. Albeit great effort of several institutions (e.g., [TU Delft](https://3d.bk.tudelft.nl/opendata/opencities/)) the list of open datasets for cities/regions is still incomplete. It is believed that empowering the community will solve the problem!
 
   
 
