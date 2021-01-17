@@ -39,7 +39,7 @@ Please feel free to contribute or write to olaf.wysocki@tum.de!
 - :singapore: [Singapore](#Singapore)
 - :switzerland: [Switzerland](#Switzerland)
 
-- :triangular_flag_on_post: [SynthetiCities](#SynthetiCities) SynthetiCities
+- :triangular_flag_on_post: [SynthetiCities](#SynthetiCities)
 
 ## Austria
 -
@@ -68,19 +68,21 @@ Please feel free to contribute or write to olaf.wysocki@tum.de!
 
 ## France
 
-- **Bordeaux** :large_orange_diamond: city of Bordeaux in 3DS format  
+- **Bordeaux** :large_orange_diamond: city of Bordeaux in 3DS format
+
 [:house:] [:bricks:] [:two:]
 
 [[Download](https://opendata.bordeaux-metropole.fr/explore/dataset/bati3d/information/)] [[More](https://opendata.bordeaux-metropole.fr/explore/dataset/bati3d/information/)] 
 
 ## Germany
 
-- **Berlin** the model of German capital also has mesh available  
+- **Berlin** the model of German capital also has mesh available
 [:house:] [:bricks:] [:two:]
 
 [[Download](https://www.businesslocationcenter.de/berlin3d-downloadportal/?lang=en#/export)] [[Visualisation](https://www.3dcitydb.org/3dcitydb-web-map/1.7/3dwebclient/index.html?title=Berlin_Demo&batchSize=1&latitude=52.517479728958044&longitude=13.411141287558161&height=534.3099172951087&heading=345.2992773976952&pitch=-44.26228062802528&roll=359.933888621294&layer_0=url%3Dhttps%253A%252F%252Fwww.3dcitydb.org%252F3dcitydb%252Ffileadmin%252Fmydata%252FBerlin_Demo%252FBerlin_Buildings_rgbTexture_ScaleFactor_0.3%252FBerlin_Buildings_rgbTexture_collada_MasterJSON.json%26name%3DBrlin_Buildings_rgbTexture%26active%3Dtrue%26spreadsheetUrl%3Dhttps%253A%252F%252Fwww.google.com%252Ffusiontables%252FDataSource%253Fdocid%253D19cuclDgIHMqrRQyBwLEztMLeGzP83IBWfEtKQA3B%2526pli%253D1%2523rows%253Aid%253D1%26cityobjectsJsonUrl%3D%26minLodPixels%3D100%26maxLodPixels%3D1.7976931348623157e%252B308%26maxSizeOfCachedTiles%3D200%26maxCountOfVisibleTiles%3D200)] [[More](https://www.businesslocationcenter.de/en/economic-atlas/download-portal/)] 
 
 - **Dresden** the model of City of Dresden with LoD1, 2 and 3 models (for architectural models) together with city furniture and vegetation
+
 [:house:] [:evergreen_tree:] [:national_park:] [:mailbox_with_no_mail:] [:bricks:] [:one:] [:two:] [:three:]
 
 
@@ -91,7 +93,40 @@ Please feel free to contribute or write to olaf.wysocki@tum.de!
 -
 
 ## Netherlands
--
+
+- **Amsterdam** part of the dataset prepared for Dutch cities in various formats encompassing miscellaneous landscape models, buildings etc. with 330k objects
+
+[:house:] [:evergreen_tree:] [:national_park:] [:one:] 
+
+[[Download](https://3d.bk.tudelft.nl/opendata/3dfier/)] [[More](https://3d.bk.tudelft.nl/opendata/3dfier/)] 
+
+- **Delft** part of the dataset prepared for Dutch cities in various formats encompassing miscellaneous landscape models, buildings etc.
+
+[:house:] [:evergreen_tree:] [:national_park:] [:one:] 
+
+[[Download](https://3d.bk.tudelft.nl/opendata/3dfier/)] [[More](https://3d.bk.tudelft.nl/opendata/3dfier/)] 
+
+- **Leiden** :large_orange_diamond: part of the dataset prepared for Dutch cities in various formats encompassing miscellaneous landscape models, buildings etc. only in the OBJ format
+
+[:house:] [:evergreen_tree:] [:national_park:] [:one:] 
+
+[[Download](https://3d.bk.tudelft.nl/opendata/3dfier/)] [[More](https://3d.bk.tudelft.nl/opendata/3dfier/)] 
+
+
+- **Rotterdam** part of the dataset prepared for Dutch cities in various formats encompassing miscellaneous landscape models, buildings etc. 
+
+[:house:] [:evergreen_tree:] [:national_park:] [:one:] 
+
+[[Download](https://3d.bk.tudelft.nl/opendata/3dfier/)] [[More](https://3d.bk.tudelft.nl/opendata/3dfier/)] 
+
+
+- **Zwolle** :large_orange_diamond: part of the dataset prepared for Dutch cities in various formats encompassing miscellaneous landscape models, buildings etc. only in the OBJ format
+
+[:house:] [:evergreen_tree:] [:national_park:] [:one:] 
+
+[[Download](https://3d.bk.tudelft.nl/opendata/3dfier/)] [[More](https://3d.bk.tudelft.nl/opendata/3dfier/)] 
+
+
 
 ## UK
 
