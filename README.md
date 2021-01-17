@@ -42,7 +42,15 @@ Please feel free to contribute or write to olaf.wysocki@tum.de!
 - :triangular_flag_on_post: [SynthetiCities](#SynthetiCities)
 
 ## Austria
--
+
+- **Linz** 3D buildings of the city of Linz available in LoD2
+
+[:house:] [:bricks:] [:two:] 
+
+[[Download](http://geo.data.linz.gv.at/katalog/geodata/3d_geo_daten_lod2/)] [[Visualisation](https://3d.linz.at/)] [[More](https://www.linz.at/stadtentwicklung/linz3d.php)] 
+
+
+
 
 ## Australia
 
@@ -52,6 +60,9 @@ Please feel free to contribute or write to olaf.wysocki@tum.de!
 
 [[Download](https://data.sa.gov.au/data/dataset/3d-model)] [[More](https://indaily.com.au/news/business/2018/02/16/aussie-firm-beats-french-tech-giant-build-3d-model-adelaide/)] 
 
+
+
+[[Download](https://data.sa.gov.au/data/dataset/3d-model)] [[More](https://www.geelongaustralia.com.au/smartcity/article/item/8d7a4d7922f2240.aspx)] 
 
 ## Belgium
 
@@ -64,7 +75,21 @@ Please feel free to contribute or write to olaf.wysocki@tum.de!
 -
 
 ## Finland
--
+
+- **Espoo** various of data consisting of water bodies, roads, land use, relief, vegetation and buildings
+
+[:house:][:car:] [:evergreen_tree:] [:national_park:] [:mailbox_with_no_mail:] [:bricks:] [:one:] [:two:] [:three:]
+
+
+[[Download](https://kartat.espoo.fi/3d/services_en.html)] [[Visualisation](https://www.youtube.com/watch?v=b0Rwphtuspk&feature=emb_logo)] [[More](https://kartat.espoo.fi/3d/citymodel_en.html)] 
+
+
+- **Helsinki** has a semantic model and a reality mesh model
+
+[:house:] [:bricks:] [:one:] [:two:]
+
+[[Download](https://kartta.hel.fi/3d/#/)] [[Visualisation](https://kartta.hel.fi/3d/#/)] [[More](https://hri.fi/data/en_GB/dataset/helsingin-3d-kaupunkimalli)] 
+
 
 ## France
 
@@ -88,9 +113,25 @@ Please feel free to contribute or write to olaf.wysocki@tum.de!
 
 [[Download](https://www.dresden.de/de/leben/stadtportrait/statistik/geoinformationen/3-d-modell.php?shortcut=3D)] [[Visualisation](https://www.arcgis.com/apps/webappviewer3d/index.html?id=dee16b6fc5c843459b0e773325d92dea)] [[More](https://www.dresden.de/de/leben/stadtportrait/statistik/geoinformationen/3-d-modell.php?shortcut=3D)] 
 
+- **Hamburg** 3D models of the city of Hamburg in LoD1 & LoD2
+[:house:][:one:][:two:]
+
+[[Download](https://suche.transparenz.hamburg.de/dataset/3d-stadtmodell-lod2-de-hamburg2)] [[Visualisation](https://geoportal-hamburg.de/geo-online/)] [[More](http://transparenz.hamburg.de/das-transparenzportal/)] 
+
+
 
 ## Luxembourg
--
+
+- **Luxembourg** 3D models for the state of Luxembourg. The sample of LoD2 download for the city of Diekirch and Bastendorf. The LoD2 state-wide creation is pending
+
+[:house:][:one:][:two:]
+
+
+[[DownloadLod2Sample](https://data.public.lu/en/datasets/5cf4e1230f7fb0030af0771a/)] [[DownloadLod1](https://data.public.lu/en/datasets/5cecd25a4384b06ad27e5c58/)] [[Visualisation](
+https://map.geoportail.lu/theme/main?version=3&zoom=17.77189888003778&X=685434&Y=6423250&lang=fr&layers=&opacities=&bgLayer=basemap_2015_global&3d_enabled=true&3d_lon=6.15736&3d_lat=49.86686&3d_elevation=1000&3d_heading=360.000&3d_pitch=-90.000&rotation=0)] [[More](https://data.public.lu/en/datasets/5cf4e1230f7fb0030af0771a/)] 
+
+
+
 
 ## Netherlands
 
