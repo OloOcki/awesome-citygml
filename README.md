@@ -10,7 +10,7 @@ Please feel free to contribute or write to olaf.wysocki@tum.de!
 - Building: :house:
 - Street space: :car:
 - Vegetation: :evergreen_tree:
-- Terrain: :national_park:
+- Terrain: :mount_fuji:
 - City Furniture: :mailbox_with_no_mail:
 - Textures: :bricks:
 - LoD 1: :one:
@@ -47,7 +47,7 @@ Please feel free to contribute or write to olaf.wysocki@tum.de!
 
 - **Adelaide** :large_orange_diamond: datasets prepared for the immediate utilisation in Unreal Engine and CAD software (FBX, Skp etc.) but also in Esri Multipatch format
 
-[:national_park:] [:house:] [:bricks:] [:one:] [:two:] [:1234:] 
+[:mount_fuji:] [:house:] [:bricks:] [:one:] [:two:] [:1234:] 
 
 [[Download](https://data.sa.gov.au/data/dataset/3d-model)] [[More](https://indaily.com.au/news/business/2018/02/16/aussie-firm-beats-french-tech-giant-build-3d-model-adelaide/)] 
 
@@ -74,7 +74,7 @@ Please feel free to contribute or write to olaf.wysocki@tum.de!
 
 - **Montreal** terrain and buildings in various formats also ALS dataset available
 
-[:national_park:] [:house:] [:bricks:] [:two:] 
+[:mount_fuji:] [:house:] [:bricks:] [:two:] 
 
 [[Download](https://donnees.montreal.ca/ville-de-montreal/maquette-numerique-plateau-mont-royal-batiments-lod2-avec-textures)] [[More](https://donnees.montreal.ca/collections/environnement-ressources-naturelles-energie)] 
 
@@ -83,7 +83,7 @@ Please feel free to contribute or write to olaf.wysocki@tum.de!
 
 - **Espoo** various of data consisting of water bodies, roads, land use, relief, vegetation and buildings
 
-[:house:][:car:] [:evergreen_tree:] [:national_park:] [:mailbox_with_no_mail:] [:bricks:] [:one:] [:two:] [:three:]
+[:house:][:car:] [:evergreen_tree:] [:mount_fuji:] [:mailbox_with_no_mail:] [:bricks:] [:one:] [:two:] [:three:]
 
 
 [[Download](https://kartat.espoo.fi/3d/services_en.html)] [[Visualisation](https://www.youtube.com/watch?v=b0Rwphtuspk&feature=emb_logo)] [[More](https://kartat.espoo.fi/3d/citymodel_en.html)] 
@@ -114,7 +114,7 @@ Please feel free to contribute or write to olaf.wysocki@tum.de!
 
 - **Dresden** the model of City of Dresden with LoD1, 2 and 3 models (for architectural models) together with city furniture and vegetation
 
-[:house:] [:evergreen_tree:] [:national_park:] [:mailbox_with_no_mail:] [:bricks:] [:one:] [:two:] [:three:]
+[:house:] [:evergreen_tree:] [:mount_fuji:] [:mailbox_with_no_mail:] [:bricks:] [:one:] [:two:] [:three:]
 
 
 [[Download](https://www.dresden.de/de/leben/stadtportrait/statistik/geoinformationen/3-d-modell.php?shortcut=3D)] [[Visualisation](https://www.arcgis.com/apps/webappviewer3d/index.html?id=dee16b6fc5c843459b0e773325d92dea)] [[More](https://www.dresden.de/de/leben/stadtportrait/statistik/geoinformationen/3-d-modell.php?shortcut=3D)] 
@@ -149,33 +149,33 @@ https://map.geoportail.lu/theme/main?version=3&zoom=17.77189888003778&X=685434&Y
 
 - **Amsterdam** part of the dataset prepared for Dutch cities in various formats encompassing miscellaneous landscape models, buildings etc. with 330k objects
 
-[:house:] [:evergreen_tree:] [:national_park:] [:one:] 
+[:house:] [:evergreen_tree:] [:mount_fuji:] [:one:] 
 
 [[Download](https://3d.bk.tudelft.nl/opendata/3dfier/)] [[More](https://3d.bk.tudelft.nl/opendata/3dfier/)] 
 
 - **Delft** part of the dataset prepared for Dutch cities in various formats encompassing miscellaneous landscape models, buildings etc.
 
-[:house:] [:evergreen_tree:] [:national_park:] [:one:] 
+[:house:] [:evergreen_tree:] [:mount_fuji:] [:one:] 
 
 [[Download](https://3d.bk.tudelft.nl/opendata/3dfier/)] [[More](https://3d.bk.tudelft.nl/opendata/3dfier/)] 
 
 - **Leiden** :large_orange_diamond: part of the dataset prepared for Dutch cities in various formats encompassing miscellaneous landscape models, buildings etc. only in the OBJ format
 
-[:house:] [:evergreen_tree:] [:national_park:] [:one:] 
+[:house:] [:evergreen_tree:] [:mount_fuji:] [:one:] 
 
 [[Download](https://3d.bk.tudelft.nl/opendata/3dfier/)] [[More](https://3d.bk.tudelft.nl/opendata/3dfier/)] 
 
 
 - **Rotterdam** part of the dataset prepared for Dutch cities in various formats encompassing miscellaneous landscape models, buildings etc. 
 
-[:house:] [:evergreen_tree:] [:national_park:] [:one:] 
+[:house:] [:evergreen_tree:] [:mount_fuji:] [:one:] 
 
 [[Download](https://3d.bk.tudelft.nl/opendata/3dfier/)] [[More](https://3d.bk.tudelft.nl/opendata/3dfier/)] 
 
 
 - **Zwolle** :large_orange_diamond: part of the dataset prepared for Dutch cities in various formats encompassing miscellaneous landscape models, buildings etc. only in the OBJ format
 
-[:house:] [:evergreen_tree:] [:national_park:] [:one:] 
+[:house:] [:evergreen_tree:] [:mount_fuji:] [:one:] 
 
 [[Download](https://3d.bk.tudelft.nl/opendata/3dfier/)] [[More](https://3d.bk.tudelft.nl/opendata/3dfier/)] 
 
@@ -185,7 +185,7 @@ https://map.geoportail.lu/theme/main?version=3&zoom=17.77189888003778&X=685434&Y
 
 - **Cambridge** :large_orange_diamond: dataset of the city of Cambridge with CAD models of buildings and terrain. Esri Multipatch also available
 
-[:national_park:] [:house:] [:one:]
+[:mount_fuji:] [:house:] [:one:]
 
 [[Download](https://www.cambridgema.gov/GIS/3D/3ddata/3ddatadownloadmap)] [[More](https://www.cambridgema.gov/GIS/3D/3ddata)] 
 
@@ -200,7 +200,7 @@ https://map.geoportail.lu/theme/main?version=3&zoom=17.77189888003778&X=685434&Y
 
 - **Boston** :large_orange_diamond: the city of Boston in CAD-like formats and the Esri Multipatch format
 
-[:national_park:] [:house:] [:one:] [:two:] [:1234:] 
+[:mount_fuji:] [:house:] [:one:] [:two:] [:1234:] 
 
 [[Download](http://www.bostonplans.org/3d-data-maps/3d-smart-model/3d-data-download)] [[Visualisation](https://boston.maps.arcgis.com/apps/webappviewer3d/index.html?id=cf3415dea19d480caa71eb5dbdce185f)] [[More](http://www.bostonplans.org/3d-data-maps/3d-smart-model/about-3d)] 
 
@@ -235,7 +235,7 @@ https://map.geoportail.lu/theme/main?version=3&zoom=17.77189888003778&X=685434&Y
 
 - **Poznan** Download through the map (use Widget menu -> Export widget) or on website (only for buildings)
 
-[:house:] [:evergreen_tree:] [:national_park:] [:mailbox_with_no_mail:] [:bricks:] [:one:] [:two:] [:three:]
+[:house:] [:evergreen_tree:] [:mount_fuji:] [:mailbox_with_no_mail:] [:bricks:] [:one:] [:two:] [:three:]
 
 [[Download](http://sip.poznan.pl/sip/dz/get_budynki/id_rap/101/v_lod3/1)] [[Visualisation](http://sip.poznan.pl/model3d/#/legend)] [[More](http://sip.poznan.pl/sip/)] 
 
