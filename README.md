@@ -11,7 +11,7 @@ Please feel free to contribute or write to olaf.wysocki@tum.de!
 - Street space: :car:
 - Vegetation: :evergreen_tree:
 - Terrain: :mount_fuji:
-- City Furniture: :mailbox_with_no_mail:
+- City Furniture: :vertical_traffic_light:
 - Textures: :bricks:
 - LoD 1: :one:
 - LoD 2: :two:
@@ -83,7 +83,7 @@ Please feel free to contribute or write to olaf.wysocki@tum.de!
 
 - **Espoo** various of data consisting of water bodies, roads, land use, relief, vegetation and buildings
 
-[:house:][:car:] [:evergreen_tree:] [:mount_fuji:] [:mailbox_with_no_mail:] [:bricks:] [:one:] [:two:] [:three:]
+[:house:][:car:] [:evergreen_tree:] [:mount_fuji:] [:vertical_traffic_light:] [:bricks:] [:one:] [:two:] [:three:]
 
 
 [[Download](https://kartat.espoo.fi/3d/services_en.html)] [[Visualisation](https://www.youtube.com/watch?v=b0Rwphtuspk&feature=emb_logo)] [[More](https://kartat.espoo.fi/3d/citymodel_en.html)] 
@@ -114,7 +114,7 @@ Please feel free to contribute or write to olaf.wysocki@tum.de!
 
 - **Dresden** the model of City of Dresden with LoD1, 2 and 3 models (for architectural models) together with city furniture and vegetation
 
-[:house:] [:evergreen_tree:] [:mount_fuji:] [:mailbox_with_no_mail:] [:bricks:] [:one:] [:two:] [:three:]
+[:house:] [:evergreen_tree:] [:mount_fuji:] [:vertical_traffic_light:] [:bricks:] [:one:] [:two:] [:three:]
 
 
 [[Download](https://www.dresden.de/de/leben/stadtportrait/statistik/geoinformationen/3-d-modell.php?shortcut=3D)] [[Visualisation](https://www.arcgis.com/apps/webappviewer3d/index.html?id=dee16b6fc5c843459b0e773325d92dea)] [[More](https://www.dresden.de/de/leben/stadtportrait/statistik/geoinformationen/3-d-modell.php?shortcut=3D)] 
@@ -235,7 +235,7 @@ https://map.geoportail.lu/theme/main?version=3&zoom=17.77189888003778&X=685434&Y
 
 - **Poznan** Download through the map (use Widget menu -> Export widget) or on website (only for buildings)
 
-[:house:] [:evergreen_tree:] [:mount_fuji:] [:mailbox_with_no_mail:] [:bricks:] [:one:] [:two:] [:three:]
+[:house:] [:evergreen_tree:] [:mount_fuji:] [:vertical_traffic_light:] [:bricks:] [:one:] [:two:] [:three:]
 
 [[Download](http://sip.poznan.pl/sip/dz/get_budynki/id_rap/101/v_lod3/1)] [[Visualisation](http://sip.poznan.pl/model3d/#/legend)] [[More](http://sip.poznan.pl/sip/)] 
 
