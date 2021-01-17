@@ -41,16 +41,6 @@ Please feel free to contribute or write to olaf.wysocki@tum.de!
 
 - :triangular_flag_on_post: [Syntheti(C)ities](#Syntheti(C)ities)
 
-## Austria
-:austria:
-
-- **Linz** 3D buildings of the city of Linz available in LoD2
-
-[:house:] [:bricks:] [:two:] 
-
-[[Download](http://geo.data.linz.gv.at/katalog/geodata/3d_geo_daten_lod2/)] [[Visualisation](https://3d.linz.at/)] [[More](https://www.linz.at/stadtentwicklung/linz3d.php)] 
-
-
 
 
 ## Australia
@@ -60,6 +50,16 @@ Please feel free to contribute or write to olaf.wysocki@tum.de!
 [:national_park:] [:house:] [:bricks:] [:one:] [:two:] [:1234:] 
 
 [[Download](https://data.sa.gov.au/data/dataset/3d-model)] [[More](https://indaily.com.au/news/business/2018/02/16/aussie-firm-beats-french-tech-giant-build-3d-model-adelaide/)] 
+
+## Austria
+### :austria:
+
+- **Linz** 3D buildings of the city of Linz available in LoD2
+
+[:house:] [:bricks:] [:two:] 
+
+[[Download](http://geo.data.linz.gv.at/katalog/geodata/3d_geo_daten_lod2/)] [[Visualisation](https://3d.linz.at/)] [[More](https://www.linz.at/stadtentwicklung/linz3d.php)] 
+
 
 
 
