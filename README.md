@@ -62,10 +62,6 @@ Please feel free to contribute or write to olaf.wysocki@tum.de!
 [[Download](http://geo.data.linz.gv.at/katalog/geodata/3d_geo_daten_lod2/)] [[Visualisation](https://3d.linz.at/)] [[More](https://www.linz.at/stadtentwicklung/linz3d.php)] 
 
 
-
-
-[[Download](https://data.sa.gov.au/data/dataset/3d-model)] [[More](https://www.geelongaustralia.com.au/smartcity/article/item/8d7a4d7922f2240.aspx)] 
-
 ## Belgium
 
 - **Brussels** various datasets not only in CityGML standard
