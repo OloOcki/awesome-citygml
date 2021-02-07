@@ -235,7 +235,7 @@ https://map.geoportail.lu/theme/main?version=3&zoom=17.77189888003778&X=685434&Y
 
 [[Download](https://mapy.geoportal.gov.pl/imap/Imgp_2.html?gpmap=gp0)] [[Visualisation](https://mapy.geoportal.gov.pl/imap/Imgp_2.html?gpmap=imap3d)] [[More](http://www.gugik.gov.pl/aktualnosci/2020/22.07.2019-wszystkie-modele-budynkow-3d-w-standardzie-lod1-opublikowane)] 
 
-- **Poznan** Download through the map (use Widget menu -> Export widget) or on website (only for buildings)
+- **Poznan** City of Poznan with various semantic datasets. Download using the map (use Widget menu -> Export widget) or on website (only for buildings)
 
 [:house:] [:evergreen_tree:] [:mount_fuji:] [:vertical_traffic_light:] [:bricks:] [:one:] [:two:] [:three:]
 
