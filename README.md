@@ -1,11 +1,13 @@
 # :cityscape: Awesome CityGML :cityscape:
-The ultimate list of open source CityGML semantic city models. Albeit great effort of several institutions (e.g., [TU Delft](https://3d.bk.tudelft.nl/opendata/opencities/)) the list of open datasets for cities/regions is still incomplete. It is believed that empowering the community will solve the problem!
+The ultimate list of open source semantic city models especially focused on [CityGML](https://www.ogc.org/standards/citygml). Albeit great effort of several institutions (e.g., [TU Delft](https://3d.bk.tudelft.nl/opendata/opencities/)) the list of open datasets for cities/regions is still incomplete. It is believed that empowering the community will solve the problem!
 
   
 
 Please feel free to contribute or write to olaf.wysocki@tum.de! 
 
 # Tags
+
+Follow the tags to discover what is inside the dataset!
 
 - Building: :house:
 - Street space: :car:
@@ -19,7 +21,7 @@ Please feel free to contribute or write to olaf.wysocki@tum.de!
 - LoD 4: :four:
 - Mixed LoDs: :1234:
 
-**Attention!** In order to encompass cities that publish their 3D models as open datasets though not in CityGML standard they are marked by :large_orange_diamond:
+**Attention!** Units that publish their 3D models as open datasets but not in the CityGML standard are marked by :large_orange_diamond:
 
 
 # List of Countries
@@ -39,7 +41,7 @@ Please feel free to contribute or write to olaf.wysocki@tum.de!
 - :singapore: [Singapore](#Singapore)
 - :switzerland: [Switzerland](#Switzerland)
 
-- :triangular_flag_on_post: [Syntheti(C)ities](#Syntheti(C)ities)
+- :triangular_flag_on_post: [ArtificialCities](#ArtificialCities)
 
 
 
@@ -259,7 +261,7 @@ https://map.geoportail.lu/theme/main?version=3&zoom=17.77189888003778&X=685434&Y
 [[Download](https://data.stadt-zuerich.ch/dataset?q=&tags=3d-stadtmodell)] [[More](https://www.stadt-zuerich.ch/geodaten/)] 
 
 
-## Syntheti(C)ities
+## ArtificialCities
 
 - **Random3Dcity** samples of generated buildings in LoD 1,2,3 and variations of these. The modeling engine is published as open-source code to enable further buildings' generation
 
