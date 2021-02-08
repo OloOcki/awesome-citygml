@@ -1,7 +1,7 @@
 ![](https://github.com/OloOcki/awesome-citygml/blob/main/img/awesomeGif.gif)
 
 # :cityscape: Awesome CityGML :cityscape:
-The ultimate list of open source semantic city models especially focused on [CityGML](https://www.ogc.org/standards/citygml). Albeit great effort of several institutions (e.g., [TU Delft](https://3d.bk.tudelft.nl/opendata/opencities/)) the list of open datasets for cities/regions is still incomplete. It is believed that empowering the community will solve the problem!
+The ultimate list of open source semantic city models. Albeit great effort of several institutions (e.g., [TU Delft list](https://3d.bk.tudelft.nl/opendata/opencities/) & [Contribute](https://github.com/tudelft3d/website/blob/main/_data/opendatacities.yml)) the list of open datasets for cities/regions is still incomplete. It is believed that empowering the *awesome* -tag community will solve the problem! 
 
   
 Please feel free to contribute or write to olaf.wysocki@tum.de! 
