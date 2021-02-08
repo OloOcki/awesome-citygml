@@ -220,7 +220,7 @@ https://map.geoportail.lu/theme/main?version=3&zoom=17.77189888003778&X=685434&Y
 
 [[Download](https://maps.nyc.gov/download/3dmodel/DA_WISE_GML.zip)] [[Visualisation](https://cesiumjs.org/NewYork/index.html?view=-74.01881302800247%2C40.69114333714821%2C753.2406554180401%2C21.27879878293835%2C-21.34390550872465%2C0.0716951918898415)] [[More](https://github.com/CityOfNewYork/nyc-geo-metadata/blob/master/Metadata/Metadata_3DBuildingModel.md)] 
 
-- **New York City** TUM 
+- **New York City** Technical University of Munich (TUM)
 
 [:house:] [:car:] [:one:] [:two:] [:1234:] 
 
