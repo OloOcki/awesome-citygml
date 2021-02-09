@@ -149,6 +149,12 @@ https://data.grandlyon.com/jeux-de-donnees/maquettes-3d-texturees-2018-communes-
 
 [[Download LoD1](https://www.opengeodata.nrw.de/produkte/geobasis/3dg/lod1_gml/)] [[Download LoD2](https://www.opengeodata.nrw.de/produkte/geobasis/3dg/lod2_gml/)] [[More](https://www.opengeodata.nrw.de/produkte/geobasis/)]
 
+- **Sachsen** various datasets of Saxony including LoD1 and LoD2 building models
+
+[:house:][:mount_fuji:][:one:][:two:]
+
+[[Download LoD1](https://www.geodaten.sachsen.de/downloadbereich-3d-stadtmodell-lod1-4642.html)] [[Download LoD2](https://www.geodaten.sachsen.de/downloadbereich-3d-stadtmodell-lod2-4644.html)] [[More](https://www.geodaten.sachsen.de/digitale-hoehenmodelle-3994.html)]
+
 - **Thüringen** 3D building models of the complete state of Thuringia in LoD1 as well as LoD2
 
 [:house:][:one:][:two:]
