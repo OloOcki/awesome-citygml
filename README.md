@@ -106,7 +106,14 @@ Follow the tags to discover what is inside the dataset!
 
 [:house:] [:bricks:] [:two:]
 
-[[Download](https://opendata.bordeaux-metropole.fr/explore/dataset/bati3d/information/)] [[More](https://opendata.bordeaux-metropole.fr/explore/dataset/bati3d/information/)] 
+[[Download](https://opendata.bordeaux-metropole.fr/explore/dataset/bati3d/information/)] [[More](https://opendata.bordeaux-metropole.fr/explore/dataset/bati3d/information/)]
+
+- **Lyon** has a semantic model and also historic datasets from 2009, 2012 and 2015
+
+[:house:] [:bricks:] [:two:]
+
+[[Download](
+https://data.grandlyon.com/jeux-de-donnees/maquettes-3d-texturees-2018-communes-metropole-lyon/donnees)] [[Download Historic](https://zenodo.org/record/3611354#.YCFqPS0xm-o)]
 
 ## Germany
 
@@ -129,7 +136,7 @@ Follow the tags to discover what is inside the dataset!
 
 [[Download](https://suche.transparenz.hamburg.de/dataset/3d-stadtmodell-lod2-de-hamburg2)] [[Visualisation](https://geoportal-hamburg.de/geo-online/)] [[More](http://transparenz.hamburg.de/das-transparenzportal/)] 
 
-- **Ingolstadt** 3D models of the city of Ingolstadt in SketchUp and CityGML in Lod3
+- **Ingolstadt** 3D models of the city of Ingolstadt in SketchUp and CityGML in LoD3
 
 [:house:][:bricks:][:three:]
 
