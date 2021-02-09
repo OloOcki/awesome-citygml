@@ -106,7 +106,14 @@ Follow the tags to discover what is inside the dataset!
 
 [:house:] [:bricks:] [:two:]
 
-[[Download](https://opendata.bordeaux-metropole.fr/explore/dataset/bati3d/information/)] [[More](https://opendata.bordeaux-metropole.fr/explore/dataset/bati3d/information/)] 
+[[Download](https://opendata.bordeaux-metropole.fr/explore/dataset/bati3d/information/)] [[More](https://opendata.bordeaux-metropole.fr/explore/dataset/bati3d/information/)]
+
+- **Lyon** has a semantic model and also historic datasets from 2009, 2012 and 2015
+
+[:house:] [:bricks:] [:two:]
+
+[[Download](
+https://data.grandlyon.com/jeux-de-donnees/maquettes-3d-texturees-2018-communes-metropole-lyon/donnees)] [[Download Historic](https://zenodo.org/record/3611354#.YCFqPS0xm-o)]
 
 ## Germany
 
@@ -115,6 +122,13 @@ Follow the tags to discover what is inside the dataset!
 [:house:] [:bricks:] [:two:]
 
 [[Download](https://www.businesslocationcenter.de/berlin3d-downloadportal/?lang=en#/export)] [[Visualisation](https://www.3dcitydb.org/3dcitydb-web-map/1.7/3dwebclient/index.html?title=Berlin_Demo&batchSize=1&latitude=52.517479728958044&longitude=13.411141287558161&height=534.3099172951087&heading=345.2992773976952&pitch=-44.26228062802528&roll=359.933888621294&layer_0=url%3Dhttps%253A%252F%252Fwww.3dcitydb.org%252F3dcitydb%252Ffileadmin%252Fmydata%252FBerlin_Demo%252FBerlin_Buildings_rgbTexture_ScaleFactor_0.3%252FBerlin_Buildings_rgbTexture_collada_MasterJSON.json%26name%3DBrlin_Buildings_rgbTexture%26active%3Dtrue%26spreadsheetUrl%3Dhttps%253A%252F%252Fwww.google.com%252Ffusiontables%252FDataSource%253Fdocid%253D19cuclDgIHMqrRQyBwLEztMLeGzP83IBWfEtKQA3B%2526pli%253D1%2523rows%253Aid%253D1%26cityobjectsJsonUrl%3D%26minLodPixels%3D100%26maxLodPixels%3D1.7976931348623157e%252B308%26maxSizeOfCachedTiles%3D200%26maxCountOfVisibleTiles%3D200)] [[More](https://www.businesslocationcenter.de/en/economic-atlas/download-portal/)] 
+
+- **Brandenburg** various datasets of Brandenburg including LoD1 and LoD2 building models
+
+[:house:][:mount_fuji:][:one:][:two:]
+
+[[Download LoD1](https://data.geobasis-bb.de/geobasis/daten/3d_gebaeude/lod1_gml/)] [[Download LoD2](https://data.geobasis-bb.de/geobasis/daten/3d_gebaeude/lod2_gml/)] [[More](https://data.geobasis-bb.de/geobasis/daten/)]
+
 
 - **Dresden** the model of City of Dresden with LoD1, 2 and 3 models (for architectural models) together with city furniture and vegetation
 
@@ -129,12 +143,31 @@ Follow the tags to discover what is inside the dataset!
 
 [[Download](https://suche.transparenz.hamburg.de/dataset/3d-stadtmodell-lod2-de-hamburg2)] [[Visualisation](https://geoportal-hamburg.de/geo-online/)] [[More](http://transparenz.hamburg.de/das-transparenzportal/)] 
 
-- **Ingolstadt** 3D models of the city of Ingolstadt in SketchUp and CityGML in Lod3
+- **Ingolstadt** 3D models of the city of Ingolstadt in SketchUp and CityGML in LoD3
 
 [:house:][:bricks:][:three:]
 
 
 [[Download](https://github.com/savein/lod3-road-space-models/releases)] [[Visualisation](https://www.3dcitydb.net/3dcitydb-web-map/1.6.1/3dwebclient/?title=Ingolstadt_CityGML_LoD3_Demo&shadows=false&terrainShadows=0&latitude=48.763071515133625&longitude=11.423003822631317&height=229.99322145532363&heading=169.30240914057862&pitch=-44.62859662691198&roll=0.0496187584706029&layer_0=url%3Dhttps%253A%252F%252Fwww.3dcitydb.net%252F3dcitydb%252Ffileadmin%252Fpublic%252F3dwebclientprojects%252Fingolstadt%252Fingolstadt_lod3%252Fkml_ingolstadt_trafficareas%252Fkml_ingolstadt_trafficareas_collada_MasterJSON.json%26name%3DIngolstadt_CityGML_TrafficArea%26layerDataType%3DCOLLADA%252FKML%252FglTF%26layerProxy%3Dfalse%26layerClampToGround%3Dfalse%26gltfVersion%3D2.0%26active%3Dtrue%26spreadsheetUrl%3D%26thematicDataSource%3DGoogleSheets%26tableType%3DHorizontal%26cityobjectsJsonUrl%3D%26minLodPixels%3D0%26maxLodPixels%3D1.7976931348623157e%252B308%26maxSizeOfCachedTiles%3D200%26maxCountOfVisibleTiles%3D200&layer_1=url%3Dhttps%253A%252F%252Fwww.3dcitydb.net%252F3dcitydb%252Ffileadmin%252Fpublic%252F3dwebclientprojects%252Fingolstadt%252Fingolstadt_lod3%252Fkml_ingolstadt_auxiliarytrafficareas%252Fkml_ingolstadt_auxiliarytrafficareas_collada_MasterJSON.json%26name%3DIngolstadt_CityGML_AuxiliaryTrafficArea%26layerDataType%3DCOLLADA%252FKML%252FglTF%26layerProxy%3Dfalse%26layerClampToGround%3Dfalse%26gltfVersion%3D2.0%26active%3Dtrue%26spreadsheetUrl%3D%26thematicDataSource%3DGoogleSheets%26tableType%3DHorizontal%26cityobjectsJsonUrl%3D%26minLodPixels%3D0%26maxLodPixels%3D1.7976931348623157e%252B308%26maxSizeOfCachedTiles%3D200%26maxCountOfVisibleTiles%3D200&layer_2=url%3Dhttps%253A%252F%252Fwww.3dcitydb.net%252F3dcitydb%252Ffileadmin%252Fpublic%252F3dwebclientprojects%252Fingolstadt%252Fingolstadt_lod3%252Fkml_ingolstadt_building_lod3%252Fkml_ingolstadt_building_lod3_collada_MasterJSON.json%26name%3DIngolstadt_CityGML_Building_LoD3%26layerDataType%3DCOLLADA%252FKML%252FglTF%26layerProxy%3Dfalse%26layerClampToGround%3Dfalse%26gltfVersion%3D2.0%26active%3Dtrue%26spreadsheetUrl%3D%26thematicDataSource%3DGoogleSheets%26tableType%3DHorizontal%26cityobjectsJsonUrl%3D%26minLodPixels%3D0%26maxLodPixels%3D1.7976931348623157e%252B308%26maxSizeOfCachedTiles%3D200%26maxCountOfVisibleTiles%3D200&layer_3=url%3Dhttps%253A%252F%252Fwww.3dcitydb.net%252F3dcitydb%252Ffileadmin%252Fpublic%252F3dwebclientprojects%252Fingolstadt%252Fingolstadt_lod3%252Fkml_ingolstadt_sections%252Fkml_ingolstadt_sections_collada_MasterJSON.json%26name%3DIngolstadt_CityGML_Section%26layerDataType%3DCOLLADA%252FKML%252FglTF%26layerProxy%3Dfalse%26layerClampToGround%3Dfalse%26gltfVersion%3D2.0%26active%3Dfalse%26spreadsheetUrl%3D%26thematicDataSource%3DGoogleSheets%26tableType%3DHorizontal%26cityobjectsJsonUrl%3D%26minLodPixels%3D0%26maxLodPixels%3D1.7976931348623157e%252B308%26maxSizeOfCachedTiles%3D200%26maxCountOfVisibleTiles%3D200&layer_4=url%3Dhttps%253A%252F%252Fwww.3dcitydb.net%252F3dcitydb%252Ffileadmin%252Fpublic%252F3dwebclientprojects%252Fingolstadt%252Fingolstadt_lod3%252Fkml_ingolstadt_intersection%252Fkml_ingolstadt_intersection_collada_MasterJSON.json%26name%3DIngolstadt_CityGML_Intersection%26layerDataType%3DCOLLADA%252FKML%252FglTF%26layerProxy%3Dfalse%26layerClampToGround%3Dfalse%26gltfVersion%3D2.0%26active%3Dfalse%26spreadsheetUrl%3D%26thematicDataSource%3DGoogleSheets%26tableType%3DHorizontal%26cityobjectsJsonUrl%3D%26minLodPixels%3D0%26maxLodPixels%3D1.7976931348623157e%252B308%26maxSizeOfCachedTiles%3D200%26maxCountOfVisibleTiles%3D200&splashWindow=url%3Dsplash%252FSplashWindow.html%26showOnStart%3Dfalse)] [[More](https://github.com/savein/lod3-road-space-models)] 
+
+- **Nordrhein-Westfalen** various datasets of North Rhine-Westphalia including LoD1 and LoD2 building models
+
+[:house:][:mount_fuji:][:one:][:two:]
+
+[[Download LoD1](https://www.opengeodata.nrw.de/produkte/geobasis/3dg/lod1_gml/)] [[Download LoD2](https://www.opengeodata.nrw.de/produkte/geobasis/3dg/lod2_gml/)] [[More](https://www.opengeodata.nrw.de/produkte/geobasis/)]
+
+- **Sachsen** various datasets of Saxony including LoD1 and LoD2 building models
+
+[:house:][:mount_fuji:][:one:][:two:]
+
+[[Download LoD1](https://www.geodaten.sachsen.de/downloadbereich-3d-stadtmodell-lod1-4642.html)] [[Download LoD2](https://www.geodaten.sachsen.de/downloadbereich-3d-stadtmodell-lod2-4644.html)] [[More](https://www.geodaten.sachsen.de/digitale-hoehenmodelle-3994.html)]
+
+- **Thüringen** 3D building models of the complete state of Thuringia in LoD1 as well as LoD2
+
+[:house:][:one:][:two:]
+
+[[Download](https://www.geoportal-th.de/de-de/downloadbereiche/downloadoffenegeodatenth%C3%BCringen/download3dgeb%C3%A4ude.aspx)] [[Visualisation](
+https://geoportal5.geoportal-th.de/wega-3d/)] [[More](https://www.geoportal-th.de/de-de/Themen/3D)]
 
 ## Luxembourg
 
