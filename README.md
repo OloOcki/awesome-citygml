@@ -6,6 +6,11 @@ The ultimate list of open source semantic city models. Albeit great effort of se
   
 Please feel free to contribute or write to olaf.wysocki@tum.de! 
 
+# Stats
+
+Last update: 10/02/2021
+
+:one::four: countries +:one: artificial! **||** :three::four: regions/cities +:one: artificial! 
 
 # Tags
 
@@ -46,11 +51,7 @@ Follow the tags to discover what is inside the dataset!
 
 - :triangular_flag_on_post: [ArtificialCities](#ArtificialCities)
 
-# Stats
 
-Last update: 10/02/2021
-
-:one::four: countries +:one: artificial! **||** :three::four: regions/cities +:one: artificial! 
 
 ## Australia
 
