@@ -48,7 +48,7 @@ Follow the tags to discover what is inside the dataset!
 # Stats
 
 Last update: 10/02/2021
-- :one::four: countries +:one: artificial! **||** :three::four: regions/cities +:one: artificial! 
+:one::four: countries +:one: artificial! **||** :three::four: regions/cities +:one: artificial! 
 
 ## Australia
 
