@@ -22,6 +22,7 @@ Follow the tags to discover what is inside the dataset!
 - LoD 3: :three:
 - LoD 4: :four:
 - Mixed LoDs: :1234:
+- Historical data: :hourglass_flowing_sand:   
 
 **Attention!** Units that publish their 3D models as open datasets but not in the CityGML standard are marked by :large_orange_diamond:
 
@@ -48,6 +49,7 @@ Follow the tags to discover what is inside the dataset!
 # Stats
 
 Last update: 10/02/2021
+
 :one::four: countries +:one: artificial! **||** :three::four: regions/cities +:one: artificial! 
 
 ## Australia
@@ -118,7 +120,7 @@ Last update: 10/02/2021
 
 - **Lyon** has a semantic model and also historic datasets from 2009, 2012 and 2015
 
-[:house:] [:bricks:] [:two:]
+[:house:] [:bricks:] [:two:] [:hourglass_flowing_sand:]
 
 [[Download](
 https://data.grandlyon.com/jeux-de-donnees/maquettes-3d-texturees-2018-communes-metropole-lyon/donnees)] [[Download Historic](https://zenodo.org/record/3611354#.YCFqPS0xm-o)]
