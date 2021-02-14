@@ -241,7 +241,7 @@ https://map.geoportail.lu/theme/main?version=3&zoom=17.77189888003778&X=685434&Y
 
 [:house:] [:two:]
 
-[[Download](https://poly.google.com/view/2QqTgkkloVI)][[Visualisation](https://poly.google.com/view/2QqTgkkloVI)] [[More](https://www.accucities.com/products/)] 
+[[Download](https://poly.google.com/view/2QqTgkkloVI)][[Visualisation](https://poly.google.com/view/2QqTgkkloVI)] [[More](https://www.accucities.com/new-3d-london-samples-cover-full-square-kilometer/)] 
 
 ## USA
 
