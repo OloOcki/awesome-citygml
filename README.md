@@ -8,9 +8,9 @@ Please feel free to contribute or write to olaf.wysocki@tum.de!
 
 # Stats
 
-Last update: 10/02/2021
+Last update: 14/02/2021
 
-:one::four: countries +:one: artificial! **||** :three::four: regions/cities +:one: artificial! 
+:one::five: countries +:one: artificial! **||** :three::six: regions/cities +:one: artificial! 
 
 # Tags
 
@@ -41,6 +41,7 @@ Follow the tags to discover what is inside the dataset!
 - :finland: [Finland](#Finland)
 - :fr: [France](#France)
 - :de: [Germany](#Germany)
+- :ireland: [Ireland](#Ireland)
 - :luxembourg: [Luxembourg](#Luxembourg)
 - :netherlands: [Netherlands](#Netherlands)
 - :uk: [UK](#UK)
@@ -191,7 +192,13 @@ https://geoportal5.geoportal-th.de/wega-3d/)] [[More](https://www.geoportal-th.d
 https://map.geoportail.lu/theme/main?version=3&zoom=17.77189888003778&X=685434&Y=6423250&lang=fr&layers=&opacities=&bgLayer=basemap_2015_global&3d_enabled=true&3d_lon=6.15736&3d_lat=49.86686&3d_elevation=1000&3d_heading=360.000&3d_pitch=-90.000&rotation=0)] [[More](https://data.public.lu/en/datasets/5cf4e1230f7fb0030af0771a/)] 
 
 
+## Ireland
 
+- **Dublin** :large_orange_diamond: 500 x 500 meters of Dublin in CAD (AutoCad DWG, FBX and SKP)
+
+[:house:][:two:][:car:]
+
+[[Download](https://poly.google.com/view/1H7Ew3x32sC)] [[Visualisation](https://poly.google.com/view/1H7Ew3x32sC)] [[More](https://www.accucities.com/product/free-3d-dublin-city-model-sample/)] 
 
 ## Netherlands
 
