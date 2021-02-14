@@ -237,6 +237,11 @@ https://map.geoportail.lu/theme/main?version=3&zoom=17.77189888003778&X=685434&Y
 
 [[Download](https://www.cambridgema.gov/GIS/3D/3ddata/3ddatadownloadmap)] [[More](https://www.cambridgema.gov/GIS/3D/3ddata)] 
 
+- **London** :large_orange_diamond: 1000 x 1000 m of London city centre. CAD models obtained from aerial imagery (15 cm accuracy) with roof structure of LoD2 buildings (LoD 3 concerns only roof structure (more or fewer details))
+
+[:house:] [:two:]
+
+[[Download](https://poly.google.com/view/2QqTgkkloVI)][[Visualisation](https://poly.google.com/view/2QqTgkkloVI)] [[More](https://www.accucities.com/products/)] 
 
 ## USA
 
