@@ -227,6 +227,12 @@ https://map.geoportail.lu/theme/main?version=3&zoom=17.77189888003778&X=685434&Y
 [[Download](https://3d.bk.tudelft.nl/opendata/3dfier/)] [[More](https://3d.bk.tudelft.nl/opendata/3dfier/)] 
 
 
+- **Rotterdam** within the 3D viewer, objects and complete areas can be selected for download in various formats including CityGML
+
+[:house:]  [:car:] [:evergreen_tree:] [:mount_fuji:] [:one:] [:two:]
+
+[[Download](https://www.3drotterdam.nl/#/export)] [[Visualization](https://www.3drotterdam.nl)] 
+
 - **Rotterdam** part of the dataset prepared for Dutch cities in various formats encompassing miscellaneous landscape models, buildings etc. 
 
 [:house:] [:evergreen_tree:] [:mount_fuji:] [:one:] 
