@@ -1,7 +1,7 @@
 ![](https://github.com/OloOcki/awesome-citygml/blob/main/img/awesomeGif.gif)
 
 # :cityscape: Awesome CityGML :cityscape:
-The ultimate list of open source semantic city models. Albeit great effort of several institutions (e.g., [TU Delft list](https://3d.bk.tudelft.nl/opendata/opencities/) & [Contribute](https://github.com/tudelft3d/website/blob/main/_data/opendatacities.yml)) the list of open datasets for cities/regions is still incomplete. It is believed that empowering the *awesome* -tag community will solve the problem! 
+The ultimate list of open source semantic city models. Albeit great effort of several institutions (e.g., [CityGML Wiki](https://www.citygmlwiki.org/index.php?title=Open_Data_Initiatives), [TU Delft](https://3d.bk.tudelft.nl/opendata/opencities/), [Towards Data Science](https://towardsdatascience.com/open-source-3d-semantical-building-models-in-2020-f47c91f6cd97)) the list of open datasets for cities/regions is still incomplete. It is believed that empowering the *awesome* -tag community will solve the problem! 
 
   
 Please feel free to contribute or write to olaf.wysocki@tum.de! 
@@ -153,7 +153,13 @@ https://data.grandlyon.com/jeux-de-donnees/maquettes-3d-texturees-2018-communes-
 
 [:house:][:one:][:two:]
 
-[[Download](https://suche.transparenz.hamburg.de/dataset/3d-stadtmodell-lod2-de-hamburg2)] [[Visualisation](https://geoportal-hamburg.de/geo-online/)] [[More](http://transparenz.hamburg.de/das-transparenzportal/)] 
+[[Download](https://suche.transparenz.hamburg.de/dataset/3d-stadtmodell-lod2-de-hamburg2)] [[Visualisation](https://geoportal-hamburg.de/geo-online/)] [[More](http://transparenz.hamburg.de/das-transparenzportal/)]
+
+- **Hannover** 3D building models of the city of Hannover in CityGML and in DWG
+
+[:house:][:one:][:two:]
+
+[[Download](https://www.hannover.de/Leben-in-der-Region-Hannover/Verwaltungen-Kommunen/Die-Verwaltung-der-Landeshauptstadt-Hannover/Dezernate-und-Fachbereiche-der-LHH/Stadtentwicklung-und-Bauen/Fachbereich-Planen-und-Stadtentwicklung/Geoinformation/Open-GeoData/3D-Stadtmodell-und-Gel%C3%A4ndemodell/Digitales-3D-Stadtmodell)]
 
 - **Ingolstadt** 3D models of the city of Ingolstadt in SketchUp and CityGML in LoD3
 
