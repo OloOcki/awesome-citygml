@@ -149,7 +149,7 @@ https://data.grandlyon.com/jeux-de-donnees/maquettes-3d-texturees-2018-communes-
 [[Download LoD1](https://data.geobasis-bb.de/geobasis/daten/3d_gebaeude/lod1_gml/)] [[Download LoD2](https://data.geobasis-bb.de/geobasis/daten/3d_gebaeude/lod2_gml/)] [[More](https://data.geobasis-bb.de/geobasis/daten/)]
 
 
-- **Dresden** the model of City of Dresden with LoD1, 2 and 3 models (for architectural models) together with city furniture and vegetation
+- **Dresden** the model of City of Dresden with LoD1, 2 and 3 models (for architectural models) together with city furniture and vegetation. Note only for private usage! 
 
 [:house:] [:evergreen_tree:] [:mount_fuji:] [:vertical_traffic_light:] [:bricks:] [:one:] [:two:] [:three:]
 
