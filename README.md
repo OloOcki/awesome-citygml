@@ -104,9 +104,9 @@ Follow the tags to discover what is inside the dataset!
 
 ## Finland
 
-- **Espoo** various of data consisting of water bodies, roads, land use, relief, vegetation and buildings
+- **Espoo** various of data consisting of water bodies, roads, land use, relief, vegetation and buildings. Note that LoD3 does not cosists of windows, doors etc. but rather marks texturing (see More for detailed explanation).
 
-[:house:][:car:] [:evergreen_tree:] [:mount_fuji:] [:vertical_traffic_light:] [:bricks:] [:one:] [:two:] [:three:]
+[:house:][:car:] [:evergreen_tree:] [:mount_fuji:] [:vertical_traffic_light:] [:bricks:] [:one:] [:two:] [:three:] [:1234:]
 
 
 [[Download](https://kartat.espoo.fi/3d/services_en.html)] [[Visualisation](https://www.youtube.com/watch?v=b0Rwphtuspk&feature=emb_logo)] [[More](https://kartat.espoo.fi/3d/citymodel_en.html)] 
