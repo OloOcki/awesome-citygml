@@ -8,7 +8,7 @@ Please feel free to contribute or write to olaf.wysocki@tum.de!
 
 # Stats
 
-Last update: 17/02/2021
+Last update: 01/03/2021
 
 :one::five: countries +:one: artificial! **||** :three::eight: regions/cities +:one: artificial! 
 
