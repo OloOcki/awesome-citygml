@@ -10,7 +10,7 @@ Please feel free to contribute or write to olaf.wysocki@tum.de!
 
 Last update: 17/02/2021
 
-:one::five: countries +:one: artificial! **||** :three::nine: regions/cities +:one: artificial! 
+:one::five: countries +:one: artificial! **||** :three::eight: regions/cities +:one: artificial! 
 
 # Tags
 
