@@ -10,7 +10,7 @@ Please feel free to contribute or write to olaf.wysocki@tum.de!
 
 Last update: 01/03/2021
 
-:one::five: countries +:one: artificial! **||** :three::eight: regions/cities +:one: artificial! 
+:one::five: countries +:one: artificial! **||** :three::nine: regions/cities +:one: artificial! 
 
 # Tags
 
@@ -327,6 +327,13 @@ https://map.geoportail.lu/theme/main?version=3&zoom=17.77189888003778&X=685434&Y
 
 
 ## Switzerland
+
+- **Switzerland** buildings for the whole Switzerland in LoD2 in various formats. Also DEM available and other 3D related features (see More)
+
+[:house:][:two:]
+
+[[Download](https://www.swisstopo.admin.ch/en/geodata/landscape/buildings3d2.html#technische_details)] [[Visualisation](https://map.geo.admin.ch/?lang=en&topic=ech&bgLayer=ch.swisstopo.pixelkarte-farbe&layers=ch.swisstopo.swissnames3d&lon=7.43291&lat=46.93555&elevation=1494&heading=360.000&pitch=-39.803)] [[More](https://www.swisstopo.admin.ch/en/geodata/landscape.html)]
+
 
 - **Zurich** buildings available for the city of Zurich
 
