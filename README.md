@@ -29,7 +29,7 @@ Follow the tags to discover what is inside the dataset!
 - Mixed LoDs: :1234:
 - Historical data: :hourglass_flowing_sand:   
 
-**Attention!** Units that publish their 3D models as open datasets but not in the CityGML standard are marked by :large_orange_diamond:
+**Attention!** Units that publish their 3D models as open datasets but not in the CityGML-like standard (aka. semantic city models) are marked by :large_orange_diamond:
 
 
 # List of Countries
