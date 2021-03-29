@@ -8,9 +8,9 @@ Please feel free to contribute or write to olaf.wysocki@tum.de!
 
 # Stats
 
-Last update: 01/03/2021
+Last update: 29/03/2021
 
-:one::five: countries +:one: artificial! **||** :three::nine: regions/cities +:one: artificial! 
+:one::five: countries +:one: artificial! **||** :four::zero: regions/cities +:one: artificial! 
 
 # Tags
 
@@ -225,6 +225,12 @@ https://map.geoportail.lu/theme/main?version=3&zoom=17.77189888003778&X=685434&Y
 [:house:] [:evergreen_tree:] [:mount_fuji:] [:one:] 
 
 [[Download](https://3d.bk.tudelft.nl/opendata/3dfier/)] [[More](https://3d.bk.tudelft.nl/opendata/3dfier/)] 
+
+- **Netherlands** buildings for the whole Netherlands area in LoD 2 (2.2) and 1 (1.2, 1.3) in various formats CityJSON, OBJ. Also WMS and WFS available. 
+
+[:house:] [:one:] [:two:] [:1234:]
+
+[[Download](https://3dbag.nl/en/download?tid=2935)] [[Visualisation](https://3dbag.nl/en/viewer?rdx=85073.22782230275&rdy=446642.89253613894&ox=0&oy=640.9158831539698&oz=655.8770066159777)]  [[More](https://docs.3dbag.nl/en/)] 
 
 
 - **Rotterdam** within the 3D viewer, objects and complete areas can be selected for download in various formats including CityGML
