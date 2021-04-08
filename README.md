@@ -10,7 +10,7 @@ Please feel free to contribute or write to olaf.wysocki@tum.de!
 
 Last update: 29/03/2021
 
-:one::five: countries +:one: artificial! **||** :four::zero: regions/cities +:one: artificial! 
+:one::six: countries +:one: artificial! **||** :four::one: regions/cities +:one: artificial! 
 
 # Tags
 
@@ -42,6 +42,7 @@ Follow the tags to discover what is inside the dataset!
 - <img src='https://github.com/madebybowtie/FlagKit/blob/master/Assets/PNG/FR@2x.png?raw=true' width='21' height='15'> [France](#France)
 - <img src='https://github.com/madebybowtie/FlagKit/blob/master/Assets/PNG/DE@2x.png?raw=true' width='21' height='15'>  [Germany](#Germany)
 - <img src='https://github.com/madebybowtie/FlagKit/blob/master/Assets/PNG/IE@2x.png?raw=true' width='21' height='15'>  [Ireland](#Ireland)
+- <img src='https://github.com/madebybowtie/FlagKit/blob/master/Assets/PNG/JP@2x.png?raw=true' width='21' height='15'>  [Japan](#Japan)
 - <img src='https://github.com/madebybowtie/FlagKit/blob/master/Assets/PNG/LU@2x.png?raw=true' width='21' height='15'>  [Luxembourg](#Luxembourg)
 - <img src='https://github.com/madebybowtie/FlagKit/blob/master/Assets/PNG/NL@2x.png?raw=true' width='21' height='15'>  [Netherlands](#Netherlands)
 - <img src='https://github.com/madebybowtie/FlagKit/blob/master/Assets/PNG/GB@2x.png?raw=true' width='21' height='15'>  [UK](#UK)
@@ -187,6 +188,22 @@ https://data.grandlyon.com/jeux-de-donnees/maquettes-3d-texturees-2018-communes-
 [[Download](https://www.geoportal-th.de/de-de/downloadbereiche/downloadoffenegeodatenth%C3%BCringen/download3dgeb%C3%A4ude.aspx)] [[Visualisation](
 https://geoportal5.geoportal-th.de/wega-3d/)] [[More](https://www.geoportal-th.de/de-de/Themen/3D)]
 
+## Japan
+
+- **Tokyo** 3D building models in LoD1 (23 wards) and LoD2 (11 wards)
+
+[:house:][:car:][:one:][:two:]
+
+[[Download (translation)](https://translate.google.com/translate?hl=&sl=ja&tl=en&u=https%3A%2F%2Fwww.geospatial.jp%2Fckan%2Fdataset%2Fplateau-tokyo23ku-citygml-2020&sandbox=1)] [[Download]](https://www.geospatial.jp/ckan/dataset/plateau-tokyo23ku-citygml-2020)
+
+## Ireland
+
+- **Dublin** :large_orange_diamond: 500 x 500 meters of Dublin in CAD (AutoCad DWG, FBX and SKP)
+
+[:house:][:two:][:car:]
+
+[[Download](https://poly.google.com/view/1H7Ew3x32sC)] [[Visualisation](https://poly.google.com/view/1H7Ew3x32sC)] [[More](https://www.accucities.com/product/free-3d-dublin-city-model-sample/)] 
+
 ## Luxembourg
 
 - **Luxembourg** 3D models for the state of Luxembourg. The sample of LoD2 download for the city of Diekirch and Bastendorf. The LoD2 state-wide creation is pending
@@ -196,15 +213,6 @@ https://geoportal5.geoportal-th.de/wega-3d/)] [[More](https://www.geoportal-th.d
 
 [[DownloadLod2Sample](https://data.public.lu/en/datasets/5cf4e1230f7fb0030af0771a/)] [[DownloadLod1](https://data.public.lu/en/datasets/5cecd25a4384b06ad27e5c58/)] [[Visualisation](
 https://map.geoportail.lu/theme/main?version=3&zoom=17.77189888003778&X=685434&Y=6423250&lang=fr&layers=&opacities=&bgLayer=basemap_2015_global&3d_enabled=true&3d_lon=6.15736&3d_lat=49.86686&3d_elevation=1000&3d_heading=360.000&3d_pitch=-90.000&rotation=0)] [[More](https://data.public.lu/en/datasets/5cf4e1230f7fb0030af0771a/)] 
-
-
-## Ireland
-
-- **Dublin** :large_orange_diamond: 500 x 500 meters of Dublin in CAD (AutoCad DWG, FBX and SKP)
-
-[:house:][:two:][:car:]
-
-[[Download](https://poly.google.com/view/1H7Ew3x32sC)] [[Visualisation](https://poly.google.com/view/1H7Ew3x32sC)] [[More](https://www.accucities.com/product/free-3d-dublin-city-model-sample/)] 
 
 ## Netherlands
 
