@@ -10,7 +10,7 @@ Please feel free to contribute or write to olaf.wysocki@tum.de!
 
 Last update: 09/04/2021
 
-:one::six: countries +:one: artificial! **||** :four::two: regions/cities +:one: artificial! 
+:one::seven: countries +:one: artificial! **||** :four:3️⃣: regions/cities +:one: artificial! 
 
 # Tags
 
@@ -38,6 +38,7 @@ Follow the tags to discover what is inside the dataset!
 - <img src='https://github.com/madebybowtie/FlagKit/blob/master/Assets/PNG/AT@2x.png?raw=true' width='21' height='15'> [Austria](#Austria)
 - <img src='https://github.com/madebybowtie/FlagKit/blob/master/Assets/PNG/BE@2x.png?raw=true' width='21' height='15'> [Belgium](#Belgium)
 - <img src='https://github.com/madebybowtie/FlagKit/blob/master/Assets/PNG/CA%402x.png?raw=true' width='21' height='15'> [Canada](#Canada)
+- <img src='https://github.com/madebybowtie/FlagKit/blob/master/Assets/PNG/EE%402x.png?raw=true' width='21' height='15'> [Estonia](#Estonia)
 - <img src='https://github.com/madebybowtie/FlagKit/blob/master/Assets/PNG/FI%402x.png?raw=true' width='21' height='15'> [Finland](#Finland)
 - <img src='https://github.com/madebybowtie/FlagKit/blob/master/Assets/PNG/FR@2x.png?raw=true' width='21' height='15'> [France](#France)
 - <img src='https://github.com/madebybowtie/FlagKit/blob/master/Assets/PNG/DE@2x.png?raw=true' width='21' height='15'>  [Germany](#Germany)
@@ -102,6 +103,14 @@ Follow the tags to discover what is inside the dataset!
 
 [[Download](https://donnees.montreal.ca/ville-de-montreal/maquette-numerique-plateau-mont-royal-batiments-lod2-avec-textures)] [[More](https://donnees.montreal.ca/collections/environnement-ressources-naturelles-energie)] 
 
+## Estonia
+
+- **Estonia** building models in LoD1 and LoD2 in various formats as well as DTM and DSM
+
+[:mount_fuji:] [:house:] [:bricks:] [:one:] [:two:] 
+
+
+[[Download](https://geoportaal.maaamet.ee/eng/Download-3D-data-p837.html)] [[More](https://geoportaal.maaamet.ee/eng/Spatial-Data/Geo3D/3D-Data-p836.html)] 
 
 ## Finland
 
