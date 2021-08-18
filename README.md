@@ -8,9 +8,9 @@ Please feel free to contribute or write to olaf.wysocki@tum.de!
 
 # Stats
 
-Last update: 09/04/2021
+Last update: 18/08/2021
 
-:one::seven: countries +:one: artificial! **||** :four::four: regions/cities +:one: artificial! 
+:one::seven: countries +:one: artificial! **||** :five::zero: regions/cities +:one: artificial! 
 
 # Tags
 
@@ -205,12 +205,47 @@ https://geoportal5.geoportal-th.de/wega-3d/)] [[More](https://www.geoportal-th.d
 
 ## Japan
 
-- **Japan** more than 10mil 3D building models in LoD1 and LoD2
+- **Hokota** 3D building models in LoD 1 and 2 (more LoD1 buildings than 2), roads and planning areas
 
-[:house:][:one:][:two:]
+[:house:][:car:][:one:][:two:][:mount_fuji:][:bricks:]
 
+[[Download](https://www.geospatial.jp/ckan/dataset/plateau-08234-hokota-shi-2020)] [[Metadata](https://gic-plateau.s3.ap-northeast-1.amazonaws.com/2020/attributedata.xlsx)][[More](https://www.geospatial.jp/ckan/dataset/plateau)]
 
-[[Download](https://www.geospatial.jp/ckan/dataset/plateau)] [[More](https://www.mlit.go.jp/plateau/)]
+- **Iwaki** 3D building models in LoD 1 and 2 (more LoD1 buildings than 2), roads and planning areas
+
+[:house:][:car:][:one:][:two:][:mount_fuji:][:bricks:]
+
+[[Download](https://www.geospatial.jp/ckan/dataset/plateau-07204-iwaki-shi-2020)] [[Metadata](https://gic-plateau.s3.ap-northeast-1.amazonaws.com/2020/attributedata.xlsx)][[More](https://www.geospatial.jp/ckan/dataset/plateau)]
+
+- **Kiryu** 3D building models in LoD 1 and 2 (more LoD1 buildings than 2), roads and planning areas
+
+[:house:][:car:][:one:][:two:][:mount_fuji:][:bricks:]
+
+[[Download](https://www.geospatial.jp/ckan/dataset/plateau-10203-kiryu-shi-2020)] [[Metadata](https://gic-plateau.s3.ap-northeast-1.amazonaws.com/2020/attributedata.xlsx)][[More](https://www.geospatial.jp/ckan/dataset/plateau)]
+
+- **Koriyama** 3D building models in LoD 1 and 2 (more LoD1 buildings than 2), roads and planning areas
+
+[:house:][:car:][:one:][:two:][:mount_fuji:][:bricks:]
+
+[[Download](https://www.geospatial.jp/ckan/dataset/plateau-07203-koriyama-city-2020)] [[Metadata](https://gic-plateau.s3.ap-northeast-1.amazonaws.com/2020/attributedata.xlsx)][[More](https://www.geospatial.jp/ckan/dataset/plateau)]
+
+- **Utsunomiya** 3D building models in LoD 1 and 2 (more LoD1 buildings than 2), roads and planning areas
+
+[:house:][:car:][:one:][:two:][:mount_fuji:][:bricks:]
+
+[[Download](https://www.geospatial.jp/ckan/dataset/plateau-09201-utsunomiya-shi-2020)] [[Metadata](https://gic-plateau.s3.ap-northeast-1.amazonaws.com/2020/attributedata.xlsx)][[More](https://www.geospatial.jp/ckan/dataset/plateau)]
+
+- **Sapporo** 3D building models in LoD 1 and 2 (more LoD1 buildings than 2), roads and planning areas
+
+[:house:][:car:][:one:][:two:][:mount_fuji:][:bricks:]
+
+[[Download](https://www.geospatial.jp/ckan/dataset/plateau-01100-sapporo-shi-2020)] [[Metadata](https://gic-plateau.s3.ap-northeast-1.amazonaws.com/2020/attributedata.xlsx)][[More](https://www.geospatial.jp/ckan/dataset/plateau)]
+
+- **Shirakawa** 3D building models in LoD 1 and 2 (more LoD1 buildings than 2), roads and planning areas
+
+[:house:][:car:][:one:][:two:][:mount_fuji:][:bricks:]
+
+[[Download](https://www.geospatial.jp/ckan/dataset/plateau-07205-shirakawa-shi-2020)] [[Metadata](https://gic-plateau.s3.ap-northeast-1.amazonaws.com/2020/attributedata.xlsx)][[More](https://www.geospatial.jp/ckan/dataset/plateau)]
 
 - **Tokyo** 3D building models in LoD1 (23 wards) and LoD2 (11 wards)
 
