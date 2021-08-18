@@ -10,7 +10,7 @@ Please feel free to contribute or write to olaf.wysocki@tum.de!
 
 Last update: 09/04/2021
 
-:one::seven: countries +:one: artificial! **||** :four:3️⃣: regions/cities +:one: artificial! 
+:one::seven: countries +:one: artificial! **||** :four::four: regions/cities +:one: artificial! 
 
 # Tags
 
@@ -204,6 +204,13 @@ https://data.grandlyon.com/jeux-de-donnees/maquettes-3d-texturees-2018-communes-
 https://geoportal5.geoportal-th.de/wega-3d/)] [[More](https://www.geoportal-th.de/de-de/Themen/3D)]
 
 ## Japan
+
+- **Japan** more than 10mil 3D building models in LoD1 and LoD2
+
+[:house:][:one:][:two:]
+
+
+[[Download](https://www.geospatial.jp/ckan/dataset/plateau)] [[More](https://www.mlit.go.jp/plateau/)]
 
 - **Tokyo** 3D building models in LoD1 (23 wards) and LoD2 (11 wards)
 
