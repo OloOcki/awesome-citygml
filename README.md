@@ -10,7 +10,7 @@ Please feel free to contribute or write to olaf.wysocki@tum.de!
 
 Last update: 18/08/2021
 
-:one::seven: countries +:one: artificial! **||** :five::zero: regions/cities +:one: artificial! 
+:one::seven: countries +:one: artificial! **||** :five::one: regions/cities +:one: artificial! 
 
 # Tags
 
@@ -158,6 +158,11 @@ https://data.grandlyon.com/jeux-de-donnees/maquettes-3d-texturees-2018-communes-
 
 [[Download LoD1](https://data.geobasis-bb.de/geobasis/daten/3d_gebaeude/lod1_gml/)] [[Download LoD2](https://data.geobasis-bb.de/geobasis/daten/3d_gebaeude/lod2_gml/)] [[More](https://data.geobasis-bb.de/geobasis/daten/)]
 
+- **Freiburg** 3D building model of the entire City of Freiburg
+
+[:house:][:one:][:two:]
+
+[[Download LoD1](https://www.govdata.de/web/guest/daten/-/details/3d-stadtmodell-freiburg-lod1)] [[Download LoD2](https://www.govdata.de/daten/-/details/3d-stadtmodell-freiburg-lod2)]
 
 - **Hamburg** 3D models of the city of Hamburg in LoD1 & LoD2
 
@@ -203,11 +208,6 @@ https://data.grandlyon.com/jeux-de-donnees/maquettes-3d-texturees-2018-communes-
 [[Download](https://www.geoportal-th.de/de-de/downloadbereiche/downloadoffenegeodatenth%C3%BCringen/download3dgeb%C3%A4ude.aspx)] [[Visualisation](
 https://geoportal5.geoportal-th.de/wega-3d/)] [[More](https://www.geoportal-th.de/de-de/Themen/3D)]
 
-- **Freiburg** 3D building model of the entire City of Freiburg
-
-[:house:][:one:][:two:]
-
-[[Download LoD1](https://www.govdata.de/web/guest/daten/-/details/3d-stadtmodell-freiburg-lod1)] [[Download LoD2](https://www.govdata.de/daten/-/details/3d-stadtmodell-freiburg-lod2)]
 
 ## Japan
 
