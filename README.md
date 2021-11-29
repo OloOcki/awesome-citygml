@@ -203,6 +203,12 @@ https://data.grandlyon.com/jeux-de-donnees/maquettes-3d-texturees-2018-communes-
 [[Download](https://www.geoportal-th.de/de-de/downloadbereiche/downloadoffenegeodatenth%C3%BCringen/download3dgeb%C3%A4ude.aspx)] [[Visualisation](
 https://geoportal5.geoportal-th.de/wega-3d/)] [[More](https://www.geoportal-th.de/de-de/Themen/3D)]
 
+- **Freiburg** 3D building model of the entire City of Freiburg
+
+[:house:][:one:][:two:]
+
+[[Download LoD1](https://www.govdata.de/web/guest/daten/-/details/3d-stadtmodell-freiburg-lod1)] [[Download LoD2](https://www.govdata.de/daten/-/details/3d-stadtmodell-freiburg-lod2)]
+
 ## Japan
 
 - **Hokota** 3D building models in LoD 1 and 2 (more LoD1 buildings than 2), roads and planning areas
