@@ -162,7 +162,9 @@ https://data.grandlyon.com/jeux-de-donnees/maquettes-3d-texturees-2018-communes-
 
 [:house:][:one:][:two:]
 
-[[Download LoD1](https://www.govdata.de/web/guest/daten/-/details/3d-stadtmodell-freiburg-lod1)] [[Download LoD2](https://www.govdata.de/daten/-/details/3d-stadtmodell-freiburg-lod2)]
+[[Download LoD1](https://www.govdata.de/web/guest/daten/-/details/3d-stadtmodell-freiburg-lod1)] [[Download LoD2](https://www.govdata.de/daten/-/details/3d-stadtmodell-freiburg-lod2)][[Visualisation](https://3d.freiburg.de/#/)] [[More](https://metadaten.geoportal-bw.de/geonetwork/srv/api/records/164ceef4-6c67-4763-8100-c5799a2ea6d8)]
+
+
 
 - **Hamburg** 3D models of the city of Hamburg in LoD1 & LoD2
 
