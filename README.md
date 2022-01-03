@@ -8,9 +8,9 @@ Please feel free to contribute or write to olaf.wysocki@tum.de!
 
 # Stats
 
-Last update: 29/11/2021
+Last update: 03/01/2022
 
-:one::seven: countries +:one: artificial! **||** :five::one: regions/cities +:one: artificial! 
+:one::seven: countries +:one: artificial! **||** :five::two: regions/cities +:one: artificial! 
 
 # Tags
 
@@ -94,6 +94,12 @@ Follow the tags to discover what is inside the dataset!
 [:house:] [:two:] 
 
 [[Download](https://datastore.brussels/web/urbis-download)] [[More](https://urbisdownload-backend.datastore.brussels/rest/documentation?language=EN)] 
+
+- **Namur** textured LoD2 buildings and examples of [[citadel and bridges](https://data.namur.be/explore/dataset/namur-3d-citadelle-et-ponts/table/)]  for city of Namur in CityGML and Skp format
+
+[:house:] [:two:] 
+
+[[Download](https://data.namur.be/explore/dataset/namur-3d-batiments-textures-par-dalle-de-200m/table/?location=14,50.46467,4.8669&basemap=jawg.streets&dataChart=eyJxdWVyaWVzIjpbeyJjb25maWciOnsiZGF0YXNldCI6Im5hbXVyLTNkLWJhdGltZW50cy10ZXh0dXJlcy1wYXItZGFsbGUtZGUtMjAwbSIsIm9wdGlvbnMiOnt9fSwiY2hhcnRzIjpbeyJhbGlnbk1vbnRoIjp0cnVlLCJ0eXBlIjoiY29sdW1uIiwiZnVuYyI6IkNPVU5UIiwic2NpZW50aWZpY0Rpc3BsYXkiOnRydWUsImNvbG9yIjoiIzAxMUY0OSJ9XSwieEF4aXMiOiJub20iLCJtYXhwb2ludHMiOjUwLCJzb3J0IjoiIn1dLCJ0aW1lc2NhbGUiOiIiLCJkaXNwbGF5TGVnZW5kIjp0cnVlLCJhbGlnbk1vbnRoIjp0cnVlfQ%3D%3D)] [[Visualisation](https://data.namur.be/explore/dataset/namur-3d-batiments-textures-par-dalle-de-200m/map/?location=14,50.46467,4.8669&basemap=jawg.streets&dataChart=eyJxdWVyaWVzIjpbeyJjb25maWciOnsiZGF0YXNldCI6Im5hbXVyLTNkLWJhdGltZW50cy10ZXh0dXJlcy1wYXItZGFsbGUtZGUtMjAwbSIsIm9wdGlvbnMiOnt9fSwiY2hhcnRzIjpbeyJhbGlnbk1vbnRoIjp0cnVlLCJ0eXBlIjoiY29sdW1uIiwiZnVuYyI6IkNPVU5UIiwic2NpZW50aWZpY0Rpc3BsYXkiOnRydWUsImNvbG9yIjoiIzAxMUY0OSJ9XSwieEF4aXMiOiJub20iLCJtYXhwb2ludHMiOjUwLCJzb3J0IjoiIn1dLCJ0aW1lc2NhbGUiOiIiLCJkaXNwbGF5TGVnZW5kIjp0cnVlLCJhbGlnbk1vbnRoIjp0cnVlfQ%3D%3D)]  [[More](https://data.namur.be/explore/dataset/namur-3d-batiments-textures-par-dalle-de-200m/information/?location=14,50.46467,4.8669&basemap=jawg.streets&dataChart=eyJxdWVyaWVzIjpbeyJjb25maWciOnsiZGF0YXNldCI6Im5hbXVyLTNkLWJhdGltZW50cy10ZXh0dXJlcy1wYXItZGFsbGUtZGUtMjAwbSIsIm9wdGlvbnMiOnt9fSwiY2hhcnRzIjpbeyJhbGlnbk1vbnRoIjp0cnVlLCJ0eXBlIjoiY29sdW1uIiwiZnVuYyI6IkNPVU5UIiwic2NpZW50aWZpY0Rpc3BsYXkiOnRydWUsImNvbG9yIjoiIzAxMUY0OSJ9XSwieEF4aXMiOiJub20iLCJtYXhwb2ludHMiOjUwLCJzb3J0IjoiIn1dLCJ0aW1lc2NhbGUiOiIiLCJkaXNwbGF5TGVnZW5kIjp0cnVlLCJhbGlnbk1vbnRoIjp0cnVlfQ%3D%3D)] 
 
 ## Canada
 
