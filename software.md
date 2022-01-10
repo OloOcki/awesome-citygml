@@ -1,4 +1,4 @@
-![](https://github.com/OloOcki/awesome-citygml/blob/main/img/awesomeGif.gif)
+![!! Awesome CityGML !!](https://github.com/OloOcki/awesome-citygml/blob/main/img/awesomeGif.gif)
 
 # :cityscape: Awesome CityGML Software :cityscape:
 
@@ -6,7 +6,7 @@ This list contains software supporting CityGML (open source and also proprietary
 For more lists please refer to the [freeware](https://www.citygmlwiki.org/index.php/Freeware)
  and [commercial](https://www.citygmlwiki.org/index.php/Commercial_Software) software pages of the CityGML wiki.
 
-Please feel free to contribute or write to olaf.wysocki@tum.de! 
+Please feel free to contribute or write to olaf.wysocki@tum.de!
 
 ## Viewers
 
@@ -32,6 +32,10 @@ Please feel free to contribute or write to olaf.wysocki@tum.de!
 
 [[Code](https://github.com/3dcitydb/importer-exporter)]
 
+- **GeoRocket** High-performance data store for geospatial files (ready for the cloud). Supports CityGML, GML, GeoJSON, and more.
+
+[[Website](https://georocket.io/)]
+
 ## Tools
 
 - **citygml-tools** command line utility that bundles several operations (e.g. validation, appearance removal) for processing CityGML files
@@ -52,7 +56,7 @@ Please feel free to contribute or write to olaf.wysocki@tum.de!
 
 ## Libraries
 
-- **citygml4j** open source Java library for developing CityGML-aware software applications 
+- **citygml4j** open source Java library for developing CityGML-aware software applications
 
 [[Code](https://github.com/citygml4j/citygml4j)]
 
@@ -66,6 +70,9 @@ Please feel free to contribute or write to olaf.wysocki@tum.de!
 
 [[Code](https://github.com/tudelft3d/val3dity)]
 
+- **CityDoctor** CityDoctor is a tool for validation and repair of 3D city models. That tool can check and repair the syntax, geometries and semantics of models.
+
+[[Website](https://www.citydoctor.eu/en/citydoctor_main.html)]
 
 ## Plugins
 
@@ -77,7 +84,7 @@ Please feel free to contribute or write to olaf.wysocki@tum.de!
 
 [[Code](https://github.com/GeoplexGIS/geores)]
 
-## Other
+## Generators
 
 - **3dfier** takes 2D GIS datasets and "3dfies" them by lifting every polygon to 3D using point clouds for elevation information
 
@@ -86,3 +93,15 @@ Please feel free to contribute or write to olaf.wysocki@tum.de!
 - **Random3Dcity** basic procedural modelling engine for generating random (synthetic) buildings and other features in CityGML in multiple levels of detail (LOD)
 
 [[Code](https://github.com/tudelft3d/Random3Dcity)] [[Paper](http://doi.org/10.5194/isprs-annals-IV-4-W1-51-2016)]
+
+- **VCS BuildingReconstruction** commercial tool for the generation of large-scale 3D city models in LoD1 and LoD2.
+
+[[Website](https://vc.systems/en/products/building-reconstruction/)]
+
+- **osm2citygml** This tool will take XMLs of buildings from OSM using Overpass and convert it to CityGML format with OSM2World and FME for eventual use with 3DCityDB.
+
+[[Code](https://github.com/cuulee/osm2citygml)]
+
+- **RhinoCity** produce, edit and analyze textured 3D city models.
+
+[[Website](https://www.rhinoterrain.com/en/rhinocity.html)]
