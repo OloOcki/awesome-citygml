@@ -46,7 +46,11 @@ Please feel free to contribute or write to olaf.wysocki@tum.de!
 
 [[Code](https://gitlab.e3d.rwth-aachen.de/e3d-software-tools/cityldt/cityldt)]
 
-- **FME** general purpose data integration platform for visualizing and transforming data with custom workflows
+- **CityGML to I3S Toolbox** FME workbench for converting building models into a Scene Layer Package for streaming 3D city data in ArcGIS
+
+[[Website](https://www.arcgis.com/home/item.html?id=585b25bad7b94c09aa7fb1833db1f318)] [[Blog](https://www.esri.com/arcgis-blog/products/arcgis/3d-gis/citygmlbuildingstoi3s/)]
+
+- **FME** general purpose data integration platform for visualizing and transforming data with custom workflows with various CityGML-specific templates distributed via the [FME Hub](https://hub.safe.com/?page=1&page_size=10&order=relevance&query=citygml)
 
 [[Website](https://www.safe.com/fme/)]
 
