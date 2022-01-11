@@ -4,7 +4,9 @@
 The ultimate list of open source semantic city models. Albeit great effort of several institutions (e.g., [CityGML Wiki](https://www.citygmlwiki.org/index.php?title=Open_Data_Initiatives), [TU Delft](https://3d.bk.tudelft.nl/opendata/opencities/), [Towards Data Science](https://towardsdatascience.com/open-source-3d-semantical-building-models-in-2020-f47c91f6cd97)) the list of open datasets for cities/regions is still incomplete. It is believed that empowering the *awesome* -tag community will solve the problem! 
 
   
-Please feel free to contribute or write to olaf.wysocki@tum.de! 
+Please feel free to contribute or write to olaf.wysocki@tum.de!
+
+For *"What software for the models?"* question find an answer [under the subpage](https://github.com/OloOcki/awesome-citygml/blob/main/software.md).
 
 # Stats
 
