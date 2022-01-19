@@ -8,17 +8,32 @@ For more lists please refer to the [freeware](https://www.citygmlwiki.org/index.
 
 Please feel free to contribute or write to olaf.wysocki@tum.de!
 
+## Tags
+
+- Free: [:raised_hands:]
+- Open source: [:unlock:]
+- Somewhat free (e.g., only academic use): [:blue_book:]
+- Proprietary: [:moneybag:]
+- Supported versions and encodings: [`CityGML 3.0/GML`] / [`CityGML 3.0/CityJSON 1.1`] / [`CityGML 2.0/GML`] / [`CityGML 2.0/CityJSON 1.0`] / [`CityGML 1.0/GML`] / [`CityGML 1.0/CityJSON 1.0`]
+- Licence: [`Apache-2.0`] / [`GPLv3`] / ...
+
 ## Viewers
 
-- **3DCityDB-Web-Map-Client** Cesium-based 3D viewer and JavaScript API for the 3D City Database
+- **3DCityDB-Web-Map-Client** Cesium-based 3D viewer and JavaScript API for the 3D City Database 
+
+[:raised_hands:] [:unlock:] [`Apache-2.0`] [`CityGML 2.0/GML`] [`CityGML 1.0/GML`]
 
 [[Code](https://github.com/3dcitydb/3dcitydb-web-map)] [[Docker](https://github.com/tum-gis/3dcitydb-web-map-docker)]
 
 - **azul** 3D viewer for macOS intended for viewing 3D city models in CityGML 1.0 and 2.0, CityJSON 1.0, IndoorGML, OBJ, OFF and POLY
 
+[:raised_hands:] [:unlock:] [`GPLv3`] [`CityGML 2.0/GML`] [`CityGML 2.0/CityJSON 1.0`] [`CityGML 1.0/GML`] [`CityGML 1.0/CityJSON 1.0`]
+
 [[Code](https://github.com/tudelft3d/azul)] [[Mac App Store](https://apps.apple.com/app/azul/id1173239678?mt=12)]
 
 - **FZKViewer** software tool for visualization of standardized semantic data models from the fields of BIM and GIS including CityGML and ADEs
+
+[:raised_hands:] [:unlock:] [`Apache-2.0`]
 
 [[Website](https://www.iai.kit.edu/english/1302.php)]
 
