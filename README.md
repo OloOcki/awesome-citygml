@@ -8,6 +8,9 @@ Please feel free to contribute or write to olaf.wysocki@tum.de!
 
 For *"What software for the models?"* question find an answer [under the subpage](https://github.com/OloOcki/awesome-citygml/blob/main/software.md).
 
+If you use this repo please considering linking it or citing:
+[![DOI](https://zenodo.org/badge/327671356.svg)](https://zenodo.org/badge/latestdoi/327671356)
+
 # Stats
 
 Last update: 03/01/2022
