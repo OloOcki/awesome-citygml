@@ -189,6 +189,14 @@ https://data.grandlyon.com/jeux-de-donnees/maquettes-3d-texturees-2018-communes-
 
 [[Download](https://www.hannover.de/Leben-in-der-Region-Hannover/Verwaltungen-Kommunen/Die-Verwaltung-der-Landeshauptstadt-Hannover/Dezernate-und-Fachbereiche-der-LHH/Stadtentwicklung-und-Bauen/Fachbereich-Planen-und-Stadtentwicklung/Geoinformation/Open-GeoData/3D-Stadtmodell-und-Gel%C3%A4ndemodell/Digitales-3D-Stadtmodell)]
 
+
+- **Hessen** 3D building models of the state of Hessen in CityGML along with DEM1 and DSM1
+
+[:house:][:two:][:mount_fuji:]
+
+[[Download](https://gds.hessen.de/INTERSHOP/web/WFS/HLBG-Geodaten-Site/de_DE/-/EUR/ViewDownloadcenter-Start;pgid=NIZSrncl7gBSRpNPt1AR16YC0000D-qCFKhx)]
+
+
 - **Ingolstadt** 3D models of the city of Ingolstadt in SketchUp and CityGML in LoD3
 
 [:house:][:bricks:][:three:]
