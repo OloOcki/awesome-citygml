@@ -144,13 +144,13 @@ Follow the tags to discover what is inside the dataset!
 
 - **Bordeaux** :large_orange_diamond: city of Bordeaux in 3DS format
 
-[:house:] [:bricks:] [:two:]
+[:house:][:bricks:][:two:]
 
 [[Download](https://opendata.bordeaux-metropole.fr/explore/dataset/bati3d/information/)] [[More](https://opendata.bordeaux-metropole.fr/explore/dataset/bati3d/information/)]
 
 - **Lyon** has a semantic model and also historic datasets from 2009, 2012 and 2015
 
-[:house:] [:bricks:] [:two:] [:hourglass_flowing_sand:]
+[:house:][:bricks:][:two:] [:hourglass_flowing_sand:]
 
 [[Download](
 https://data.grandlyon.com/jeux-de-donnees/maquettes-3d-texturees-2018-communes-metropole-lyon/donnees)] [[Download Historic](https://zenodo.org/record/3611354#.YCFqPS0xm-o)]
@@ -159,13 +159,13 @@ https://data.grandlyon.com/jeux-de-donnees/maquettes-3d-texturees-2018-communes-
 
 - **Berlin** the model of German capital also has mesh available
 
-[:house:] [:bricks:] [:two:]
+[:house:][:bricks:][:two:]
 
 [[Download](https://www.businesslocationcenter.de/berlin3d-downloadportal/?lang=en#/export)] [[Visualisation](https://www.3dcitydb.org/3dcitydb-web-map/1.7/3dwebclient/index.html?title=Berlin_Demo&batchSize=1&latitude=52.517479728958044&longitude=13.411141287558161&height=534.3099172951087&heading=345.2992773976952&pitch=-44.26228062802528&roll=359.933888621294&layer_0=url%3Dhttps%253A%252F%252Fwww.3dcitydb.org%252F3dcitydb%252Ffileadmin%252Fmydata%252FBerlin_Demo%252FBerlin_Buildings_rgbTexture_ScaleFactor_0.3%252FBerlin_Buildings_rgbTexture_collada_MasterJSON.json%26name%3DBrlin_Buildings_rgbTexture%26active%3Dtrue%26spreadsheetUrl%3Dhttps%253A%252F%252Fwww.google.com%252Ffusiontables%252FDataSource%253Fdocid%253D19cuclDgIHMqrRQyBwLEztMLeGzP83IBWfEtKQA3B%2526pli%253D1%2523rows%253Aid%253D1%26cityobjectsJsonUrl%3D%26minLodPixels%3D100%26maxLodPixels%3D1.7976931348623157e%252B308%26maxSizeOfCachedTiles%3D200%26maxCountOfVisibleTiles%3D200)] [[More](https://www.businesslocationcenter.de/en/economic-atlas/download-portal/)] 
 
 - **Brandenburg** various datasets of Brandenburg including LoD1 and LoD2 building models
 
-[:house:][:mount_fuji:][:one:][:two:]
+[:house:][:one:][:two:][:mount_fuji:]
 
 [[Download LoD1](https://data.geobasis-bb.de/geobasis/daten/3d_gebaeude/lod1_gml/)] [[Download LoD2](https://data.geobasis-bb.de/geobasis/daten/3d_gebaeude/lod2_gml/)] [[More](https://data.geobasis-bb.de/geobasis/daten/)]
 
@@ -174,7 +174,6 @@ https://data.grandlyon.com/jeux-de-donnees/maquettes-3d-texturees-2018-communes-
 [:house:][:one:][:two:]
 
 [[Download LoD1](https://www.govdata.de/web/guest/daten/-/details/3d-stadtmodell-freiburg-lod1)] [[Download LoD2](https://www.govdata.de/daten/-/details/3d-stadtmodell-freiburg-lod2)][[Visualisation](https://3d.freiburg.de/#/)] [[More](https://metadaten.geoportal-bw.de/geonetwork/srv/api/records/164ceef4-6c67-4763-8100-c5799a2ea6d8)]
-
 
 
 - **Hamburg** 3D models of the city of Hamburg in LoD1 & LoD2
@@ -194,7 +193,7 @@ https://data.grandlyon.com/jeux-de-donnees/maquettes-3d-texturees-2018-communes-
 
 [:house:][:two:][:mount_fuji:]
 
-[[Download](https://gds.hessen.de/INTERSHOP/web/WFS/HLBG-Geodaten-Site/de_DE/-/EUR/ViewDownloadcenter-Start;pgid=NIZSrncl7gBSRpNPt1AR16YC0000D-qCFKhx)]
+[[Download](https://gds.hessen.de/INTERSHOP/web/WFS/HLBG-Geodaten-Site/de_DE/-/EUR/ViewDownloadcenter-Start;pgid=NIZSrncl7gBSRpNPt1AR16YC0000D-qCFKhx)] [[More](https://gds.hessen.de/INTERSHOP/web/WFS/HLBG-Geodaten-Site/de_DE/-/EUR/ViewDownloadcenter-Start;pgid=NIZSrncl7gBSRpNPt1AR16YC0000D-qCFKhx)]
 
 
 - **Ingolstadt** 3D models of the city of Ingolstadt in SketchUp and CityGML in LoD3
@@ -212,15 +211,22 @@ https://data.grandlyon.com/jeux-de-donnees/maquettes-3d-texturees-2018-communes-
 
 - **Nordrhein-Westfalen** various datasets of North Rhine-Westphalia including LoD1 and LoD2 building models
 
-[:house:][:mount_fuji:][:one:][:two:]
+[:house:][:one:][:two:][:mount_fuji:]
 
 [[Download LoD1](https://www.opengeodata.nrw.de/produkte/geobasis/3dg/lod1_gml/)] [[Download LoD2](https://www.opengeodata.nrw.de/produkte/geobasis/3dg/lod2_gml/)] [[More](https://www.opengeodata.nrw.de/produkte/geobasis/)]
 
 - **Sachsen** various datasets of Saxony including LoD1 and LoD2 building models
 
-[:house:][:mount_fuji:][:one:][:two:]
+[:house:][:one:][:two:][:mount_fuji:]
 
 [[Download LoD1](https://www.geodaten.sachsen.de/downloadbereich-3d-stadtmodell-lod1-4642.html)] [[Download LoD2](https://www.geodaten.sachsen.de/downloadbereich-3d-stadtmodell-lod2-4644.html)] [[More](https://www.geodaten.sachsen.de/digitale-hoehenmodelle-3994.html)]
+
+- **Sachsen-Anhalt** various datasets of Saxony including LoD1 and LoD2 building models, DSM2, and DEM2 
+
+[:house:][:one:][:two:][:mount_fuji:]
+
+[[Download](https://www.lvermgeo.sachsen-anhalt.de/de/kostenfreie_geobasisdaten_lvermgeo.html)] [[More](https://www.lvermgeo.sachsen-anhalt.de/de/kostenfreie_geobasisdaten_lvermgeo.html)]
+
 
 - **Thüringen** 3D building models of the complete state of Thuringia in LoD1 as well as LoD2
 
