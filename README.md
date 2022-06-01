@@ -13,9 +13,9 @@ If you use this repo please considering linking it or citing:
 
 # Stats
 
-Last update: 17/03/2022
+Last update: 01/06/2022
 
-:one::seven: countries +:one: artificial! **||** :five::four: regions/cities +:one: artificial! 
+:one::seven: countries +:one: artificial! **||** :five::five: regions/cities +:one: artificial! 
 
 # Tags
 
@@ -27,6 +27,7 @@ Follow the tags to discover what is inside the dataset!
 - Terrain: :mount_fuji:
 - City Furniture: :vertical_traffic_light:
 - Textures: :bricks:
+- Generic City Object: :fountain:
 - LoD 1: :one:
 - LoD 2: :two:
 - LoD 3: :three:
@@ -324,11 +325,17 @@ https://map.geoportail.lu/theme/main?version=3&zoom=17.77189888003778&X=685434&Y
 
 [[Download](https://3d.bk.tudelft.nl/opendata/3dfier/)] [[More](https://3d.bk.tudelft.nl/opendata/3dfier/)] 
 
-- **Netherlands** buildings for the whole Netherlands area in LoD 2 (2.2) and 1 (1.2, 1.3) in various formats CityJSON, OBJ. Also WMS and WFS available. 
+- **Netherlands, buildings** for the whole Netherlands area in LoD 2 (2.2) and 1 (1.2, 1.3) in various formats CityJSON, OBJ. Also WMS and WFS available. 
 
 [:house:] [:one:] [:two:] [:1234:]
 
 [[Download](https://3dbag.nl/en/download?tid=2935)] [[Visualisation](https://3dbag.nl/en/viewer?rdx=85073.22782230275&rdy=446642.89253613894&ox=0&oy=640.9158831539698&oz=655.8770066159777)]  [[More](https://docs.3dbag.nl/en/)] 
+
+- **Netherlands, sewer systems** for 170 out of 344 municipalities and 12 out of 21 water boards available in various formats CityGML, GeoPackage, and GML. 
+
+[:fountain:] [:1234:]
+
+[[Download](https://apps.gwsw.nl/item_geo?dataset=Delft)] [[More](https://apps.gwsw.nl/)] 
 
 
 - **Rotterdam** within the 3D viewer, objects and complete areas can be selected for download in various formats including CityGML
