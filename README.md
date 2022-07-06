@@ -15,7 +15,7 @@ If you use this repo please considering linking it or citing:
 
 Last update: 01/06/2022
 
-:one::seven: countries +:one: artificial! **||** :five::five: regions/cities +:one: artificial! 
+:one::eight: countries +:one: artificial! **||** :five::six: regions/cities +:one: artificial! 
 
 # Tags
 
@@ -50,6 +50,7 @@ Follow the tags to discover what is inside the dataset!
 - <img src='https://github.com/madebybowtie/FlagKit/blob/master/Assets/PNG/DE@2x.png?raw=true' width='21' height='15'>  [Germany](#Germany)
 - <img src='https://github.com/madebybowtie/FlagKit/blob/master/Assets/PNG/IE@2x.png?raw=true' width='21' height='15'>  [Ireland](#Ireland)
 - <img src='https://github.com/madebybowtie/FlagKit/blob/master/Assets/PNG/JP@2x.png?raw=true' width='21' height='15'>  [Japan](#Japan)
+- <img src='https://github.com/madebybowtie/FlagKit/blob/master/Assets/PNG/CH@2x.png?raw=true' width='21' height='15'>  [Liechtenstein](#Liechtenstein)
 - <img src='https://github.com/madebybowtie/FlagKit/blob/master/Assets/PNG/LU@2x.png?raw=true' width='21' height='15'>  [Luxembourg](#Luxembourg)
 - <img src='https://github.com/madebybowtie/FlagKit/blob/master/Assets/PNG/NL@2x.png?raw=true' width='21' height='15'>  [Netherlands](#Netherlands)
 - <img src='https://github.com/madebybowtie/FlagKit/blob/master/Assets/PNG/GB@2x.png?raw=true' width='21' height='15'>  [UK](#UK)
@@ -294,6 +295,14 @@ https://geoportal5.geoportal-th.de/wega-3d/)] [[More](https://www.geoportal-th.d
 [:house:][:two:][:car:]
 
 [[Download](https://poly.google.com/view/1H7Ew3x32sC)] [[Visualisation](https://poly.google.com/view/1H7Ew3x32sC)] [[More](https://www.accucities.com/product/free-3d-dublin-city-model-sample/)] 
+
+## Liechtenstein
+
+- Liechtenstein buildings available within the Swiss repository
+
+[:house:][:two:]
+
+[[Download](https://www.swisstopo.admin.ch/en/geodata/landscape/buildings3d2.html#technische_details)] [[Visualisation](https://map.geo.admin.ch/?lang=en&topic=ech&bgLayer=ch.swisstopo.pixelkarte-farbe&layers=ch.swisstopo.swissnames3d&lon=7.43291&lat=46.93555&elevation=1494&heading=360.000&pitch=-39.803)] [[More](https://www.swisstopo.admin.ch/en/geodata/landscape.html)]
 
 ## Luxembourg
 
