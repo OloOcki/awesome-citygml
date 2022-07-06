@@ -50,7 +50,7 @@ Follow the tags to discover what is inside the dataset!
 - <img src='https://github.com/madebybowtie/FlagKit/blob/master/Assets/PNG/DE@2x.png?raw=true' width='21' height='15'>  [Germany](#Germany)
 - <img src='https://github.com/madebybowtie/FlagKit/blob/master/Assets/PNG/IE@2x.png?raw=true' width='21' height='15'>  [Ireland](#Ireland)
 - <img src='https://github.com/madebybowtie/FlagKit/blob/master/Assets/PNG/JP@2x.png?raw=true' width='21' height='15'>  [Japan](#Japan)
-- <img src='https://github.com/madebybowtie/FlagKit/blob/master/Assets/PNG/CH@2x.png?raw=true' width='21' height='15'>  [Liechtenstein](#Liechtenstein)
+- <img src='https://github.com/madebybowtie/FlagKit/blob/master/Assets/PNG/LI@2x.png?raw=true' width='21' height='15'>  [Liechtenstein](#Liechtenstein)
 - <img src='https://github.com/madebybowtie/FlagKit/blob/master/Assets/PNG/LU@2x.png?raw=true' width='21' height='15'>  [Luxembourg](#Luxembourg)
 - <img src='https://github.com/madebybowtie/FlagKit/blob/master/Assets/PNG/NL@2x.png?raw=true' width='21' height='15'>  [Netherlands](#Netherlands)
 - <img src='https://github.com/madebybowtie/FlagKit/blob/master/Assets/PNG/GB@2x.png?raw=true' width='21' height='15'>  [UK](#UK)
