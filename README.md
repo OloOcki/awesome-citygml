@@ -286,7 +286,7 @@ https://geoportal5.geoportal-th.de/wega-3d/)] [[More](https://www.geoportal-th.d
 
 [:house:][:car:][:one:][:two:]
 
-[[Download (translation)](https://translate.google.com/translate?hl=&sl=ja&tl=en&u=https%3A%2F%2Fwww.geospatial.jp%2Fckan%2Fdataset%2Fplateau-tokyo23ku-citygml-2020&sandbox=1)] [[Download](https://www.geospatial.jp/ckan/dataset/plateau-tokyo23ku-citygml-2020)] [[More](https://www.mlit.go.jp/plateau/)]
+[[Download (translation)](https://translate.google.com/translate?hl=&sl=ja&tl=en&u=https%3A%2F%2Fwww.geospatial.jp%2Fckan%2Fdataset%2Fplateau-tokyo23ku-citygml-2020&sandbox=1)] [[Download](https://www.geospatial.jp/ckan/dataset/plateau-tokyo23ku-citygml-2020)] [[Visualization](https://3dview.tokyo-digitaltwin.metro.tokyo.lg.jp/?_ga=2.231802394.428561180.1664790480-421743505.1664790479)] [[More-Plateau](https://www.mlit.go.jp/plateau/)] [[More-TokyoDigitalTwin](https://info.tokyo-digitaltwin.metro.tokyo.lg.jp/)]
 
 ## Ireland
 
