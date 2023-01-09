@@ -159,6 +159,12 @@ https://data.grandlyon.com/jeux-de-donnees/maquettes-3d-texturees-2018-communes-
 
 ## Germany
 
+- **Bavaria** the complete state of Bavaria including orthopohotos and DEM1
+
+[:house:][:bricks:][:two:][:mount_fuji:]
+
+[[Download](https://geodaten.bayern.de/opengeodata/OpenDataDetail.html?pn=lod2)] [[Visualisation](https://geoportal.bayern.de/bayernatlas/?lang=de&topic=ba&bgLayer=atkis&catalogNodes=11&layers=WMS%7C%7COpendata_Auswahl_LoD2%7C%7Chttps:%2F%2Fgeoservices.bayern.de%2Fwms%2Fv1%2Fopendatagrid%7C%7Clod2%7C%7C1.1.1&lon=11.47015&lat=46.65297&elevation=184167&heading=360.000&pitch=-43.711)] [[More](https://geodaten.bayern.de/opengeodata/)]
+
 - **Berlin** the model of German capital also has mesh available
 
 [:house:][:bricks:][:two:]
