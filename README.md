@@ -13,7 +13,7 @@ If you use this repo please considering linking it or citing:
 
 # Stats
 
-Last update: 06/07/2022
+Last update: 11/01/2022
 
 :one::eight: countries +:one: artificial! **||** :five::seven: regions/cities +:one: artificial! 
 
