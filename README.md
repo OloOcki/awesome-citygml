@@ -13,9 +13,9 @@ If you use this repo please considering linking it or citing:
 
 # Stats
 
-Last update: 11/01/2022
+Last update: 31/01/2023
 
-:one::eight: countries +:one: artificial! **||** :five::seven: regions/cities +:one: artificial! 
+:one::eight: countries +:one: artificial! **||** :five::eight: regions/cities +:one: artificial! 
 
 # Tags
 
@@ -141,6 +141,11 @@ Follow the tags to discover what is inside the dataset!
 
 [[Download](https://kartta.hel.fi/3d/#/)] [[Visualisation](https://kartta.hel.fi/3d/#/)] [[More](https://hri.fi/data/en_GB/dataset/helsingin-3d-kaupunkimalli)] 
 
+- **Kuopio** textured building models with various timestamps, available in CityGML 2.0 format and DWG
+
+[:house:] [:hourglass_flowing_sand:] [:bricks:] [:one:] [:two:] 
+
+[[Download](https://data.europa.eu/data/datasets/1cda485e-0c0a-4f77-9f7d-185bae9144f7?locale=en)] [[Visualisation](https://kuopio.kunta3d.fi/Map.html)] [[More](https://data.europa.eu/data/datasets/1cda485e-0c0a-4f77-9f7d-185bae9144f7?locale=en)] 
 
 ## France
 
