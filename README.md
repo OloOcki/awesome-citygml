@@ -440,7 +440,7 @@ https://map.geoportail.lu/theme/main?version=3&zoom=17.77189888003778&X=685434&Y
 
 ## Poland
 
-- **Poland** Buildings for the whole Poland in LoD1 and +-half of Poland in LoD2. To download - go to Data for download -> BDOT data packages -> 3D models of buildings.  
+- **Poland** ~15.5 million buildings for the whole Poland in LoD1 and LoD2. To download - go to Data for download -> BDOT data packages -> 3D models of buildings.  
 
 [:house:] [:one:] [:two:]
 
