@@ -15,7 +15,7 @@ Please feel free to contribute or write to olaf.wysocki@tum.de!
 - Somewhat free (e.g., only academic use): [:blue_book:]
 - Proprietary: [:moneybag:]
 - Supported versions and encodings: [`CityGML 3.0/GML`] / [`CityGML 3.0/CityJSON 1.1`] / [`CityGML 2.0/GML`] / [`CityGML 2.0/CityJSON 1.0`] / [`CityGML 1.0/GML`] / [`CityGML 1.0/CityJSON 1.0`]
-- Licence: [`Apache-2.0`] / [`GPLv3`] / ...
+- Licence: [`Apache-2.0`] / [`GPLv3`] / [`BSD-3`]...
 
 ## Viewers
 
@@ -36,6 +36,12 @@ Please feel free to contribute or write to olaf.wysocki@tum.de!
 [:raised_hands:] [:unlock:] [`Apache-2.0`]
 
 [[Website](https://www.iai.kit.edu/english/1302.php)]
+
+- **F3D** software tool for visualization of different 3D formats, e.g., PLY, OBJ, PTS
+
+[:raised_hands:] [:unlock:] [`BSD-3`]
+
+[[Code](https://github.com/f3d-app/f3d)]
 
 ## Databases
 
