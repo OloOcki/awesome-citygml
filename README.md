@@ -114,7 +114,7 @@ Follow the tags to discover what is inside the dataset!
 
 [:mount_fuji:] [:house:] [:bricks:] [:two:] 
 
-[[Download](https://donnees.montreal.ca/ville-de-montreal/maquette-numerique-plateau-mont-royal-batiments-lod2-avec-textures)] [[More](https://donnees.montreal.ca/collections/environnement-ressources-naturelles-energie)] 
+[[Download](https://donnees.montreal.ca/ville-de-montreal/maquette-numerique-plateau-mont-royal-batiments-lod2-avec-textures)] [[More](https://open.canada.ca/data/en/dataset/58dd9b17-8242-4013-bf9d-0c8d3d93f081)] 
 
 ## Estonia
 
