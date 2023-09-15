@@ -15,7 +15,7 @@ If you use this repo please considering linking it or citing:
 
 Last update: 29/05/2023
 
-:one::eight: countries +:one: artificial! **||** :five::nine: regions/cities +:one: artificial! 
+:one::eight: countries +:one: artificial! **||** :five::seven: regions/cities +:one: artificial! 
 
 # Tags
 
@@ -147,6 +147,13 @@ Follow the tags to discover what is inside the dataset!
 
 [[Download](https://data.europa.eu/data/datasets/1cda485e-0c0a-4f77-9f7d-185bae9144f7?locale=en)] [[Visualisation](https://kuopio.kunta3d.fi/Map.html)] [[More](https://data.europa.eu/data/datasets/1cda485e-0c0a-4f77-9f7d-185bae9144f7?locale=en)] 
 
+- **Vantaa** LoD1 and LoD2 building models available in the CityGML, Sketchup and KML formats. CityGML buildings also include roof and wall textures added based on oblique aerial images
+
+[:house:] [:bricks:] [:one:] [:two:] 
+
+[[Download](https://www.betaavoindata.fi/data/en_GB/dataset/vantaan-3d-rakennukset)] [[Visualisation](https://kartta.vantaa.fi/?setlanguage=fi&e=25501410.86&n=6688959.38&r=32&w=**&l=Kaupunkikartta_gd2%2Calueet_suuralueet%2Calueet_kaupunginosat&o=100%2C100%2C100#)] [[More](https://www.betaavoindata.fi/data/en_GB/dataset/vantaan-3d-rakennukset)] 
+ 
+
 ## France
 
 - **Bordeaux** :large_orange_diamond: city of Bordeaux in 3DS format
@@ -257,6 +264,11 @@ https://geoportal5.geoportal-th.de/wega-3d/)] [[More](https://www.geoportal-th.d
 
 ## Japan
 
+- **Japan** the PLATEAU project encompassing multiple cities and prefectures in Japan, 3D building models in LoD1 and 2, roads and planning areas
+[:house:][:car:][:one:][:two:][:mount_fuji:][:bricks:]
+
+[[Download](https://www.geospatial.jp/ckan/dataset/plateau-08234-hokota-shi-2020)] [[Metadata](https://gic-plateau.s3.ap-northeast-1.amazonaws.com/2020/attributedata.xlsx)][[More](https://www.geospatial.jp/ckan/dataset/plateau)]
+
 - **Hokota** 3D building models in LoD 1 and 2 (more LoD1 buildings than 2), roads and planning areas
 
 [:house:][:car:][:one:][:two:][:mount_fuji:][:bricks:]
@@ -333,18 +345,6 @@ https://map.geoportail.lu/theme/main?version=3&zoom=17.77189888003778&X=685434&Y
 
 ## Netherlands
 
-- **Amsterdam** part of the dataset prepared for Dutch cities in various formats encompassing miscellaneous landscape models, buildings etc. with 330k objects
-
-[:house:] [:evergreen_tree:] [:mount_fuji:] [:one:] 
-
-[[Download](https://3d.bk.tudelft.nl/opendata/3dfier/)] [[More](https://3d.bk.tudelft.nl/opendata/3dfier/)] 
-
-- **Delft** part of the dataset prepared for Dutch cities in various formats encompassing miscellaneous landscape models, buildings etc.
-
-[:house:] [:evergreen_tree:] [:mount_fuji:] [:one:] 
-
-[[Download](https://3d.bk.tudelft.nl/opendata/3dfier/)] [[More](https://3d.bk.tudelft.nl/opendata/3dfier/)] 
-
 - **Leiden** :large_orange_diamond: part of the dataset prepared for Dutch cities in various formats encompassing miscellaneous landscape models, buildings etc. only in the OBJ format
 
 [:house:] [:evergreen_tree:] [:mount_fuji:] [:one:] 
@@ -355,7 +355,7 @@ https://map.geoportail.lu/theme/main?version=3&zoom=17.77189888003778&X=685434&Y
 
 [:house:] [:one:] [:two:] [:1234:]
 
-[[Download](https://3dbag.nl/en/download?tid=2935)] [[Visualisation](https://3dbag.nl/en/viewer?rdx=85073.22782230275&rdy=446642.89253613894&ox=0&oy=640.9158831539698&oz=655.8770066159777)]  [[More](https://docs.3dbag.nl/en/)] 
+[[Download](https://3dbag.nl/en/download?tid=2935)] [[Visualisation](3dbag.nl)] [[Visualisation, Amsterdam, Unity](https://3d.amsterdam.nl/#1050.63,-961.12,1143.55,56.00,344.51,0.00)]  [[More](https://docs.3dbag.nl/en/)] 
 
 - **Netherlands, sewer systems** for 170 out of 344 municipalities and 12 out of 21 water boards available in various formats CityGML, GeoPackage, and GML. 
 
@@ -370,28 +370,8 @@ https://map.geoportail.lu/theme/main?version=3&zoom=17.77189888003778&X=685434&Y
 
 [[Download](https://www.3drotterdam.nl/#/export)] [[Visualization](https://www.3drotterdam.nl)] 
 
-- **Rotterdam** part of the dataset prepared for Dutch cities in various formats encompassing miscellaneous landscape models, buildings etc. 
-
-[:house:] [:evergreen_tree:] [:mount_fuji:] [:one:] 
-
-[[Download](https://3d.bk.tudelft.nl/opendata/3dfier/)] [[More](https://3d.bk.tudelft.nl/opendata/3dfier/)] 
-
-
-- **Zwolle** :large_orange_diamond: part of the dataset prepared for Dutch cities in various formats encompassing miscellaneous landscape models, buildings etc. only in the OBJ format
-
-[:house:] [:evergreen_tree:] [:mount_fuji:] [:one:] 
-
-[[Download](https://3d.bk.tudelft.nl/opendata/3dfier/)] [[More](https://3d.bk.tudelft.nl/opendata/3dfier/)] 
-
-
 
 ## UK
-
-- **Cambridge** :large_orange_diamond: dataset of the city of Cambridge with CAD models of buildings and terrain. Esri Multipatch also available
-
-[:mount_fuji:] [:house:] [:one:]
-
-[[Download](https://www.cambridgema.gov/GIS/3D/3ddata/3ddatadownloadmap)] [[More](https://www.cambridgema.gov/GIS/3D/3ddata)] 
 
 - **London** :large_orange_diamond: 1000 x 1000 m of London city centre. CAD models obtained from aerial imagery (15 cm accuracy) with roof structure of LoD2 buildings (LoD 3 concerns only roof structure (more or fewer details))
 
@@ -412,6 +392,12 @@ https://map.geoportail.lu/theme/main?version=3&zoom=17.77189888003778&X=685434&Y
 [:mount_fuji:] [:house:] [:one:] [:two:] [:1234:] 
 
 [[Download](http://www.bostonplans.org/3d-data-maps/3d-smart-model/3d-data-download)] [[Visualisation](https://boston.maps.arcgis.com/apps/webappviewer3d/index.html?id=cf3415dea19d480caa71eb5dbdce185f)] [[More](http://www.bostonplans.org/3d-data-maps/3d-smart-model/about-3d)] 
+
+- **Cambridge** :large_orange_diamond: dataset of the city of Cambridge with CAD models of buildings and terrain. Esri Multipatch also available
+
+[:mount_fuji:] [:house:] [:one:]
+
+[[Download](https://www.cambridgema.gov/GIS/3D/3ddata/3ddatadownloadmap)] [[More](https://www.cambridgema.gov/GIS/3D/3ddata)] 
 
 - **Las Vegas** the Las Vegas Motor Speedway racing track (e.g., tracks, buildings, terrain) in CityGML and as OBJ
 
