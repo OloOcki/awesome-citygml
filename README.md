@@ -67,13 +67,13 @@ Follow the tags to discover what is inside the dataset!
 
 - **Adelaide** :large_orange_diamond: datasets prepared for the immediate utilisation in Unreal Engine and CAD software (FBX, Skp etc.) but also in Esri Multipatch format
 
-[🗻] [:🏠:] [🎇] [1️⃣] [2️⃣] [🔢] 
+[🗻] [🏠] [🎇] [1️⃣] [2️⃣] [🔢] 
 
 [[Download](https://data.sa.gov.au/data/dataset/3d-model)] [[More](https://indaily.com.au/news/business/2018/02/16/aussie-firm-beats-french-tech-giant-build-3d-model-adelaide/)] 
 
 - **Melbourne** detailed street space representation in LoD 1 & 2 (see download section)
 
-[🚗] [:🏠:] [1️⃣] [2️⃣]
+[🚗] [🏠] [1️⃣] [2️⃣]
 
 [[Download](http://www.3dcitydb.net/3dcitydb/fileadmin/public/datasets/Melbourne/Melbourne_Streetspace_CityGML.zip)] [[VisualisationLoD2](http://www.3dcitydb.org/3dcitydb-web-map/1.8.2/3dwebclient/?title=Melbourne_Streetspace_LoD2&shadows=false&terrainShadows=0&latitude=-37.808172850916705&longitude=144.96510794314432&height=443.4330303601941&heading=9.896470830181748&pitch=-74.89240010024886&roll=359.87863005263307&layer_0=url%3Dhttps%253A%252F%252Fwww.3dcitydb.org%252F3dcitydb%252Ffileadmin%252Fpublic%252F3dwebclientprojects%252FMelbourne%252FMelbourne_Streetspace_LoD2%252FMelbourne_Carriageway_LoD2%252FMelbourne_Carriageway_LoD2_geometry_MasterJSON.json%26name%3DMelbourne_Carriageway_LoD2%26layerDataType%3DCOLLADA%252FKML%252FglTF%26gltfVersion%3D2.0%26active%3Dtrue%26spreadsheetUrl%3Dhttps%253A%252F%252Fdocs.google.com%252Fspreadsheets%252Fd%252F1sw1Lh9m1DTJotSa8Bbr4BKHQF9WkseRmeAjsS2ypVWw%26thematicDataSource%3DGoogleSheets%26tableType%3DHorizontal%26cityobjectsJsonUrl%3D%26minLodPixels%3D100%26maxLodPixels%3D1.7976931348623157e%252B308%26maxSizeOfCachedTiles%3D200%26maxCountOfVisibleTiles%3D200&layer_1=url%3Dhttps%253A%252F%252Fwww.3dcitydb.org%252F3dcitydb%252Ffileadmin%252Fpublic%252F3dwebclientprojects%252FMelbourne%252FMelbourne_Streetspace_LoD2%252FMelbourne_Footpath_LoD2%252FMelbourne_Footpath_LoD2_geometry_MasterJSON.json%26name%3DMelbourne_Footpath_LoD2%26layerDataType%3DCOLLADA%252FKML%252FglTF%26gltfVersion%3D2.0%26active%3Dtrue%26spreadsheetUrl%3Dhttps%253A%252F%252Fdocs.google.com%252Fspreadsheets%252Fd%252F15igWEPL_Hicfu1t29ryzSsPa593h48uYwgDp9sy4pAY%26thematicDataSource%3DGoogleSheets%26tableType%3DHorizontal%26cityobjectsJsonUrl%3D%26minLodPixels%3D100%26maxLodPixels%3D1.7976931348623157e%252B308%26maxSizeOfCachedTiles%3D200%26maxCountOfVisibleTiles%3D200&layer_2=url%3Dhttps%253A%252F%252Fwww.3dcitydb.org%252F3dcitydb%252Ffileadmin%252Fpublic%252F3dwebclientprojects%252FMelbourne%252FMelbourne_Streetspace_LoD2%252FMelbourne_Median_LoD2%252FMelbourne_Median_LoD2_geometry_MasterJSON.json%26name%3DMelbourne_Median_LoD2%26layerDataType%3DCOLLADA%252FKML%252FglTF%26gltfVersion%3D2.0%26active%3Dtrue%26spreadsheetUrl%3Dhttps%253A%252F%252Fdocs.google.com%252Fspreadsheets%252Fd%252F1b7jpctmo2mPAh0cyZ_WpGipr9Ea2klRRJVTos7spJ4E%26thematicDataSource%3DGoogleSheets%26tableType%3DHorizontal%26cityobjectsJsonUrl%3D%26minLodPixels%3D100%26maxLodPixels%3D1.7976931348623157e%252B308%26maxSizeOfCachedTiles%3D200%26maxCountOfVisibleTiles%3D200&layer_3=url%3Dhttps%253A%252F%252Fwww.3dcitydb.org%252F3dcitydb%252Ffileadmin%252Fpublic%252F3dwebclientprojects%252FMelbourne%252FMelbourne_Streetspace_LoD2%252FMelbourne_Kerb_LoD2%252FMelbourne_Kerb_LoD2_geometry_MasterJSON.json%26name%3DMelbourne_Kerb_LoD2%26layerDataType%3DCOLLADA%252FKML%252FglTF%26gltfVersion%3D2.0%26active%3Dtrue%26spreadsheetUrl%3Dhttps%253A%252F%252Fdocs.google.com%252Fspreadsheets%252Fd%252F1KOI0fZx9y1AsCPpFAxF2OK7clnrHaSu069AN4GoIVKs%26thematicDataSource%3DGoogleSheets%26tableType%3DHorizontal%26cityobjectsJsonUrl%3D%26minLodPixels%3D100%26maxLodPixels%3D1.7976931348623157e%252B308%26maxSizeOfCachedTiles%3D200%26maxCountOfVisibleTiles%3D200&layer_4=url%3Dhttps%253A%252F%252Fwww.3dcitydb.org%252F3dcitydb%252Ffileadmin%252Fpublic%252F3dwebclientprojects%252FMelbourne%252FMelbourne_Streetspace_LoD2%252FMelbourne_Parking_Bay_LoD2%252FMelbourne_Parking_Bay_LoD2_geometry_MasterJSON.json%26name%3DMelbourne_Parking_Bay_LoD2%26layerDataType%3DCOLLADA%252FKML%252FglTF%26gltfVersion%3D2.0%26active%3Dtrue%26spreadsheetUrl%3Dhttps%253A%252F%252Fdocs.google.com%252Fspreadsheets%252Fd%252F1tGuB2_Ckt14Fq6ws6b2_gldTob4tF_JeFxPpFj8adLk%26thematicDataSource%3DGoogleSheets%26tableType%3DHorizontal%26cityobjectsJsonUrl%3D%26minLodPixels%3D100%26maxLodPixels%3D1.7976931348623157e%252B308%26maxSizeOfCachedTiles%3D200%26maxCountOfVisibleTiles%3D200&layer_5=url%3Dhttps%253A%252F%252Fwww.3dcitydb.org%252F3dcitydb%252Ffileadmin%252Fpublic%252F3dwebclientprojects%252FMelbourne%252FMelbourne_Streetspace_LoD2%252FMelbourne_Road_Channel_LoD2%252FMelbourne_Road_Channel_LoD2_geometry_MasterJSON.json%26name%3DMelbourne_Road_Channel_LoD2%26layerDataType%3DCOLLADA%252FKML%252FglTF%26gltfVersion%3D2.0%26active%3Dtrue%26spreadsheetUrl%3Dhttps%253A%252F%252Fdocs.google.com%252Fspreadsheets%252Fd%252F1Y2gAOvFa2B3_dg24ptrzH0V3k5n3bUNn7UgRJ2V9jFE%26thematicDataSource%3DGoogleSheets%26tableType%3DHorizontal%26cityobjectsJsonUrl%3D%26minLodPixels%3D100%26maxLodPixels%3D1.7976931348623157e%252B308%26maxSizeOfCachedTiles%3D200%26maxCountOfVisibleTiles%3D200&layer_6=url%3Dhttps%253A%252F%252Fwww.3dcitydb.org%252F3dcitydb%252Ffileadmin%252Fpublic%252F3dwebclientprojects%252FMelbourne%252FMelbourne_Streetspace_LoD2%252FMelbourne_Tramway_LoD2%252FMelbourne_Tramway_LoD2_geometry_MasterJSON.json%26name%3DMelbourne_Tramway_LoD2%26layerDataType%3DCOLLADA%252FKML%252FglTF%26gltfVersion%3D2.0%26active%3Dtrue%26spreadsheetUrl%3Dhttps%253A%252F%252Fdocs.google.com%252Fspreadsheets%252Fd%252F146HHsN82mpNzAr6g6CAXQCMBLupGeaGwmvfsOT1oQQc%26thematicDataSource%3DGoogleSheets%26tableType%3DHorizontal%26cityobjectsJsonUrl%3D%26minLodPixels%3D100%26maxLodPixels%3D1.7976931348623157e%252B308%26maxSizeOfCachedTiles%3D200%26maxCountOfVisibleTiles%3D200&layer_7=url%3Dhttps%253A%252F%252Fwww.3dcitydb.org%252F3dcitydb%252Ffileadmin%252Fpublic%252F3dwebclientprojects%252FMelbourne%252FMelbourne_Building_LoD1%252FMelbourne_Building_LoD1_collada_MasterJSON.json%26name%3DMelbourne_Building_LoD1%26layerDataType%3DCOLLADA%252FKML%252FglTF%26gltfVersion%3D2.0%26active%3Dtrue%26spreadsheetUrl%3Dhttps%253A%252F%252Fdocs.google.com%252Fspreadsheets%252Fd%252F1vAfXUTi6YbgHh1SvfmkPGjMNgPALKKATqcyqbg9SyXs%26thematicDataSource%3DGoogleSheets%26tableType%3DHorizontal%26cityobjectsJsonUrl%3D%26minLodPixels%3D100%26maxLodPixels%3D1.7976931348623157e%252B308%26maxSizeOfCachedTiles%3D200%26maxCountOfVisibleTiles%3D200&splashWindow=url%3Dsplash%252FSplashWindow.html%26showOnStart%3Dtrue)] [[VisualisationLoD1](https://www.3dcitydb.org/3dcitydb-web-map/1.7.2/3dwebclient/index.html?title=Melbourne_Streetspace_LoD1&shadows=false&terrainShadows=0&latitude=-37.81011251757671&longitude=144.9631999448069&height=656.2681691357357&heading=7.505459775427195&pitch=-59.50883495500552&roll=359.9523173380835&layer_0=url%3Dhttps%253A%252F%252Fwww.3dcitydb.org%252F3dcitydb%252Ffileadmin%252Fpublic%252F3dwebclientprojects%252FMelbourne%252FMelbourne_Streetspace_LoD1%252FMelboune_Streetspace_LoD1_geometry_MasterJSON.json%26name%3DMelbourne_Streetspace_LoD1%26layerDataType%3DCOLLADA%252FKML%252FglTF%26gltfVersion%3D1.0%26active%3Dtrue%26spreadsheetUrl%3Dhttps%253A%252F%252Fwww.google.com%252Ffusiontables%252FDataSource%253Fdocid%253D1it5kP2V1yAHnzMyvxbgWqKdYKNqY27pquDK_8u19%26cityobjectsJsonUrl%3D%26minLodPixels%3D100%26maxLodPixels%3D1.7976931348623157e%252B308%26maxSizeOfCachedTiles%3D200%26maxCountOfVisibleTiles%3D200&layer_1=url%3Dhttps%253A%252F%252Fwww.3dcitydb.org%252F3dcitydb%252Ffileadmin%252Fpublic%252F3dwebclientprojects%252FMelbourne%252FMelbourne_Building_LoD1%252FMelbourne_Building_LoD1_collada_MasterJSON.json%26name%3DMelbourne_Building_LoD1%26layerDataType%3DCOLLADA%252FKML%252FglTF%26gltfVersion%3D2.0%26active%3Dtrue%26spreadsheetUrl%3Dhttps%253A%252F%252Fwww.google.com%252Ffusiontables%252FDataSource%253Fdocid%253D14wGFcpPSVRtqsOG8aMhGjUAjOhuVtxjk7C-NmysA%26cityobjectsJsonUrl%3D%26minLodPixels%3D100%26maxLodPixels%3D1.7976931348623157e%252B308%26maxSizeOfCachedTiles%3D200%26maxCountOfVisibleTiles%3D200&splashWindow=url%3Dsplash%252FSplashWindow.html%26showOnStart%3Dfalse)] [[More](https://wiki.tum.de/display/gisproject/Download+Section)] 
 
@@ -82,14 +82,14 @@ Follow the tags to discover what is inside the dataset!
 
 - **Linz** 3D buildings of the city of Linz available in LoD2
 
-[:🏠:] [🎇] [2️⃣] 
+[🏠] [🎇] [2️⃣] 
 
 [[Download](http://geo.data.linz.gv.at/katalog/geodata/3d_geo_daten_lod2/)] [[Visualisation](https://3d.linz.at/)] [[More](https://www.linz.at/stadtentwicklung/linz3d.php)] 
 
 
 - **Vienna** 3D buildings of the capital city of Austria available in LoD1 and 2. To access the full dataset go to Visualisation link -> activate the layer "Generalisiertes Dachmodell (LOD2)" or "Baukörpermodell (LOD1)" -> click on a tile to download the respective model. Also one can access samples of datasets and more info from the list in the Download link.
 
-[:🏠:][1️⃣][2️⃣] 
+[🏠][1️⃣][2️⃣] 
 
 [[Download](https://www.wien.gv.at/stadtentwicklung/stadtvermessung/geodaten/viewer/geodatendownload.html)] [[Visualisation](https://www.wien.gv.at/ma41datenviewer/public/start.aspx)] [[More](https://www.data.gv.at/katalog/dataset/generalisiertes-dachmodell)] 
 
@@ -98,13 +98,13 @@ Follow the tags to discover what is inside the dataset!
 
 - **Brussels** various datasets not only in CityGML standard
 
-[:🏠:] [2️⃣] 
+[🏠] [2️⃣] 
 
 [[Download](https://datastore.brussels/web/urbis-download)] [[More](https://urbisdownload-backend.datastore.brussels/rest/documentation?language=EN)] 
 
 - **Namur** textured LoD2 buildings and examples of [[citadel and bridges](https://data.namur.be/explore/dataset/namur-3d-citadelle-et-ponts/table/)]  for city of Namur in CityGML and Skp format
 
-[:🏠:] [2️⃣] 
+[🏠] [2️⃣] 
 
 [[Download](https://data.namur.be/explore/dataset/namur-3d-batiments-textures-par-dalle-de-200m/table/?location=14,50.46467,4.8669&basemap=jawg.streets&dataChart=eyJxdWVyaWVzIjpbeyJjb25maWciOnsiZGF0YXNldCI6Im5hbXVyLTNkLWJhdGltZW50cy10ZXh0dXJlcy1wYXItZGFsbGUtZGUtMjAwbSIsIm9wdGlvbnMiOnt9fSwiY2hhcnRzIjpbeyJhbGlnbk1vbnRoIjp0cnVlLCJ0eXBlIjoiY29sdW1uIiwiZnVuYyI6IkNPVU5UIiwic2NpZW50aWZpY0Rpc3BsYXkiOnRydWUsImNvbG9yIjoiIzAxMUY0OSJ9XSwieEF4aXMiOiJub20iLCJtYXhwb2ludHMiOjUwLCJzb3J0IjoiIn1dLCJ0aW1lc2NhbGUiOiIiLCJkaXNwbGF5TGVnZW5kIjp0cnVlLCJhbGlnbk1vbnRoIjp0cnVlfQ%3D%3D)] [[Visualisation](https://data.namur.be/explore/dataset/namur-3d-batiments-textures-par-dalle-de-200m/map/?location=14,50.46467,4.8669&basemap=jawg.streets&dataChart=eyJxdWVyaWVzIjpbeyJjb25maWciOnsiZGF0YXNldCI6Im5hbXVyLTNkLWJhdGltZW50cy10ZXh0dXJlcy1wYXItZGFsbGUtZGUtMjAwbSIsIm9wdGlvbnMiOnt9fSwiY2hhcnRzIjpbeyJhbGlnbk1vbnRoIjp0cnVlLCJ0eXBlIjoiY29sdW1uIiwiZnVuYyI6IkNPVU5UIiwic2NpZW50aWZpY0Rpc3BsYXkiOnRydWUsImNvbG9yIjoiIzAxMUY0OSJ9XSwieEF4aXMiOiJub20iLCJtYXhwb2ludHMiOjUwLCJzb3J0IjoiIn1dLCJ0aW1lc2NhbGUiOiIiLCJkaXNwbGF5TGVnZW5kIjp0cnVlLCJhbGlnbk1vbnRoIjp0cnVlfQ%3D%3D)]  [[More](https://data.namur.be/explore/dataset/namur-3d-batiments-textures-par-dalle-de-200m/information/?location=14,50.46467,4.8669&basemap=jawg.streets&dataChart=eyJxdWVyaWVzIjpbeyJjb25maWciOnsiZGF0YXNldCI6Im5hbXVyLTNkLWJhdGltZW50cy10ZXh0dXJlcy1wYXItZGFsbGUtZGUtMjAwbSIsIm9wdGlvbnMiOnt9fSwiY2hhcnRzIjpbeyJhbGlnbk1vbnRoIjp0cnVlLCJ0eXBlIjoiY29sdW1uIiwiZnVuYyI6IkNPVU5UIiwic2NpZW50aWZpY0Rpc3BsYXkiOnRydWUsImNvbG9yIjoiIzAxMUY0OSJ9XSwieEF4aXMiOiJub20iLCJtYXhwb2ludHMiOjUwLCJzb3J0IjoiIn1dLCJ0aW1lc2NhbGUiOiIiLCJkaXNwbGF5TGVnZW5kIjp0cnVlLCJhbGlnbk1vbnRoIjp0cnVlfQ%3D%3D)] 
 
@@ -112,7 +112,7 @@ Follow the tags to discover what is inside the dataset!
 
 - **Montreal** terrain and buildings in various formats also ALS dataset available
 
-[🗻] [:🏠:] [🎇] [2️⃣] 
+[🗻] [🏠] [🎇] [2️⃣] 
 
 [[Download](https://donnees.montreal.ca/ville-de-montreal/maquette-numerique-plateau-mont-royal-batiments-lod2-avec-textures)] [[More](https://open.canada.ca/data/en/dataset/58dd9b17-8242-4013-bf9d-0c8d3d93f081)] 
 
@@ -120,7 +120,7 @@ Follow the tags to discover what is inside the dataset!
 
 - **Estonia** building models in LoD1 and LoD2 in various formats as well as DTM and DSM
 
-[🗻] [:🏠:] [🎇] [1️⃣] [2️⃣] 
+[🗻] [🏠] [🎇] [1️⃣] [2️⃣] 
 
 
 [[Download](https://geoportaal.maaamet.ee/eng/Download-3D-data-p837.html)] [[More](https://geoportaal.maaamet.ee/eng/Spatial-Data/Geo3D/3D-Data-p836.html)] 
@@ -129,7 +129,7 @@ Follow the tags to discover what is inside the dataset!
 
 - **Espoo** various of data consisting of water bodies, roads, land use, relief, vegetation and buildings. Note that LoD3 does not cosists of windows, doors etc. but rather marks texturing (see More for detailed explanation).
 
-[:🏠:][🚗] [🌲] [🗻] [🚦] [🎇] [1️⃣] [2️⃣] [3️⃣] [🔢]
+[🏠][🚗] [🌲] [🗻] [🚦] [🎇] [1️⃣] [2️⃣] [3️⃣] [🔢]
 
 
 [[Download](https://kartat.espoo.fi/3d/services_en.html)] [[Visualisation](https://www.youtube.com/watch?v=b0Rwphtuspk&feature=emb_logo)] [[More](https://kartat.espoo.fi/3d/citymodel_en.html)] 
