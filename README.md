@@ -15,7 +15,7 @@ If you use this repo please considering linking it or citing:
 
 Last update: 29/05/2023
 
-:one::eight: countries +:one: artificial! **||** :five::seven: regions/cities +:one: artificial! 
+:one::eight: countries +:one: artificial! **||** :five::eight: regions/cities +:one: artificial! 
 
 # Tags
 
