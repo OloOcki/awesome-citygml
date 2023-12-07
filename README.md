@@ -229,6 +229,9 @@ https://data.grandlyon.com/jeux-de-donnees/maquettes-3d-texturees-2018-communes-
 
 [[Download](https://github.com/tum-gis/tum2twin)]
 
+- **Mecklenburg-Vorpommern** some Geodata are open
+[Download](https://www.geoportal-mv.de/gaia/login.php) [More](https://www.geoportal-mv.de/portal/Geodatenviewer/Datenuebersicht)
+
 - **Niedersachsen** LoD1 and LoD2 building models of Lower Saxony including orthoimages and more
 
 [:house:][:one:][:two:]
@@ -240,6 +243,9 @@ https://data.grandlyon.com/jeux-de-donnees/maquettes-3d-texturees-2018-communes-
 [:house:][:one:][:two:][:mount_fuji:]
 
 [[Download LoD1](https://www.opengeodata.nrw.de/produkte/geobasis/3dg/lod1_gml/)] [[Download LoD2](https://www.opengeodata.nrw.de/produkte/geobasis/3dg/lod2_gml/)] [[More](https://www.opengeodata.nrw.de/produkte/geobasis/)]
+
+- **Rheinland-Pfalz** various datasets of Rheinland-Pfalz including DTM25 and DTM50
+[Download](https://lvermgeo.rlp.de/de/geodaten-geoshop/opendata/) [More](https://lvermgeo.rlp.de/fileadmin/lvermgeo/pdf/faltblaetter_broschueren/Flyer_Opendata_Produkte.pdf)
 
 - **Sachsen** various datasets of Saxony including LoD1 and LoD2 building models
 
@@ -253,6 +259,9 @@ https://data.grandlyon.com/jeux-de-donnees/maquettes-3d-texturees-2018-communes-
 
 [[Download](https://www.lvermgeo.sachsen-anhalt.de/de/kostenfreie_geobasisdaten_lvermgeo.html)] [[More](https://www.lvermgeo.sachsen-anhalt.de/de/kostenfreie_geobasisdaten_lvermgeo.html)]
 
+- **Schleswig-Holstein (SH)** various datasets of Schleswig-Holstein including LoD1 and LoD2 building models, DTM1, and DTM5 
+
+[Download LoD1](https://geodaten.schleswig-holstein.de/gaialight-sh/_apps/dladownload/dl-lod1.html) [Dowlonad LOD2](https://geodaten.schleswig-holstein.de/gaialight-sh/_apps/dladownload/dl-lod2.html) [More](https://geodaten.schleswig-holstein.de/gaialight-sh/_apps/dladownload/index.php)
 
 - **Thüringen** 3D building models of the complete state of Thuringia in LoD1 as well as LoD2
 
