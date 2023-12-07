@@ -223,14 +223,11 @@ https://data.grandlyon.com/jeux-de-donnees/maquettes-3d-texturees-2018-communes-
 
 [[Download](https://github.com/savein/lod3-road-space-models/releases)] [[Visualisation](https://www.3dcitydb.net/3dcitydb-web-map/1.6.1/3dwebclient/?title=Ingolstadt_CityGML_LoD3_Demo&shadows=false&terrainShadows=0&latitude=48.76421616414265&longitude=11.423261087465157&height=189.46220553536946&heading=170.97575939059712&pitch=-39.02715451772515&roll=0.03843163755915946&layer_0=url%3Dhttps%253A%252F%252Fwww.3dcitydb.net%252F3dcitydb%252Ffileadmin%252Fpublic%252F3dwebclientprojects%252Fingolstadt%252Fingolstadt_lod3%252Fkml_ingolstadt_trafficareas%252Fkml_ingolstadt_trafficareas_collada_MasterJSON.json%26name%3DIngolstadt_CityGML_TrafficArea%26active%3Dtrue%26spreadsheetUrl%3D%26cityobjectsJsonUrl%3D%26minLodPixels%3D0%26maxLodPixels%3D1.7976931348623157e%252B308%26maxSizeOfCachedTiles%3D200%26maxCountOfVisibleTiles%3D200&layer_1=url%3Dhttps%253A%252F%252Fwww.3dcitydb.net%252F3dcitydb%252Ffileadmin%252Fpublic%252F3dwebclientprojects%252Fingolstadt%252Fingolstadt_lod3%252Fkml_ingolstadt_auxiliarytrafficareas%252Fkml_ingolstadt_auxiliarytrafficareas_collada_MasterJSON.json%26name%3DIngolstadt_CityGML_AuxiliaryTrafficArea%26active%3Dtrue%26spreadsheetUrl%3D%26cityobjectsJsonUrl%3D%26minLodPixels%3D0%26maxLodPixels%3D1.7976931348623157e%252B308%26maxSizeOfCachedTiles%3D200%26maxCountOfVisibleTiles%3D200&layer_2=url%3Dhttps%253A%252F%252Fwww.3dcitydb.net%252F3dcitydb%252Ffileadmin%252Fpublic%252F3dwebclientprojects%252Fingolstadt_2%255Ckml_building_lod3_ingolstadt_neu%252Fkml_building_lod3_ingolstadt_collada_MasterJSON.json%26name%3DIngolstadt_CityGML_Building_LoD3%26active%3Dtrue%26spreadsheetUrl%3D%26cityobjectsJsonUrl%3D%26minLodPixels%3D0%26maxLodPixels%3D1.7976931348623157e%252B308%26maxSizeOfCachedTiles%3D200%26maxCountOfVisibleTiles%3D200&layer_3=url%3Dhttps%253A%252F%252Fwww.3dcitydb.net%252F3dcitydb%252Ffileadmin%252Fpublic%252F3dwebclientprojects%252Fingolstadt%252Fingolstadt_lod3%252Fkml_ingolstadt_sections%252Fkml_ingolstadt_sections_collada_MasterJSON.json%26name%3DIngolstadt_CityGML_Section%26active%3Dfalse%26spreadsheetUrl%3D%26cityobjectsJsonUrl%3D%26minLodPixels%3D0%26maxLodPixels%3D1.7976931348623157e%252B308%26maxSizeOfCachedTiles%3D200%26maxCountOfVisibleTiles%3D200&layer_4=url%3Dhttps%253A%252F%252Fwww.3dcitydb.net%252F3dcitydb%252Ffileadmin%252Fpublic%252F3dwebclientprojects%252Fingolstadt%252Fingolstadt_lod3%252Fkml_ingolstadt_intersection%252Fkml_ingolstadt_intersection_collada_MasterJSON.json%26name%3DIngolstadt_CityGML_Intersection%26active%3Dfalse%26spreadsheetUrl%3D%26cityobjectsJsonUrl%3D%26minLodPixels%3D0%26maxLodPixels%3D1.7976931348623157e%252B308%26maxSizeOfCachedTiles%3D200%26maxCountOfVisibleTiles%3D200)] [[More](https://github.com/savein/lod3-road-space-models)] 
 
-- **Technical University of Munich** LoD3 building models of the TUM in Munich
+- **Technical University of Munich** LoD3 and textured LoD2 building models of the TUM in Munich
 
 [:house:][:bricks:][:three:]
 
 [[Download](https://github.com/tum-gis/tum2twin)]
-
-- **Mecklenburg-Vorpommern** some Geodata are open
-[Download](https://www.geoportal-mv.de/gaia/login.php) [More](https://www.geoportal-mv.de/portal/Geodatenviewer/Datenuebersicht)
 
 - **Niedersachsen** LoD1 and LoD2 building models of Lower Saxony including orthoimages and more
 
@@ -244,9 +241,6 @@ https://data.grandlyon.com/jeux-de-donnees/maquettes-3d-texturees-2018-communes-
 
 [[Download LoD1](https://www.opengeodata.nrw.de/produkte/geobasis/3dg/lod1_gml/)] [[Download LoD2](https://www.opengeodata.nrw.de/produkte/geobasis/3dg/lod2_gml/)] [[More](https://www.opengeodata.nrw.de/produkte/geobasis/)]
 
-- **Rheinland-Pfalz** various datasets of Rheinland-Pfalz including DTM25 and DTM50
-[Download](https://lvermgeo.rlp.de/de/geodaten-geoshop/opendata/) [More](https://lvermgeo.rlp.de/fileadmin/lvermgeo/pdf/faltblaetter_broschueren/Flyer_Opendata_Produkte.pdf)
-
 - **Sachsen** various datasets of Saxony including LoD1 and LoD2 building models
 
 [:house:][:one:][:two:][:mount_fuji:]
@@ -259,9 +253,11 @@ https://data.grandlyon.com/jeux-de-donnees/maquettes-3d-texturees-2018-communes-
 
 [[Download](https://www.lvermgeo.sachsen-anhalt.de/de/kostenfreie_geobasisdaten_lvermgeo.html)] [[More](https://www.lvermgeo.sachsen-anhalt.de/de/kostenfreie_geobasisdaten_lvermgeo.html)]
 
-- **Schleswig-Holstein (SH)** various datasets of Schleswig-Holstein including LoD1 and LoD2 building models, DTM1, and DTM5 
+- **Schleswig-Holstein (SH)** various datasets of Schleswig-Holstein including LoD1 and LoD2 building models, DTM1, and DTM5
 
-[Download LoD1](https://geodaten.schleswig-holstein.de/gaialight-sh/_apps/dladownload/dl-lod1.html) [Dowlonad LOD2](https://geodaten.schleswig-holstein.de/gaialight-sh/_apps/dladownload/dl-lod2.html) [More](https://geodaten.schleswig-holstein.de/gaialight-sh/_apps/dladownload/index.php)
+[:house:][:one:][:two:]
+
+[[Download LoD1](https://geodaten.schleswig-holstein.de/gaialight-sh/_apps/dladownload/dl-lod1.html)] [[Dowlonad LOD2](https://geodaten.schleswig-holstein.de/gaialight-sh/_apps/dladownload/dl-lod2.html)] [[More](https://geodaten.schleswig-holstein.de/gaialight-sh/_apps/dladownload/index.php)]
 
 - **Thüringen** 3D building models of the complete state of Thuringia in LoD1 as well as LoD2
 
