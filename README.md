@@ -437,6 +437,13 @@ https://map.geoportail.lu/theme/main?version=3&zoom=17.77189888003778&X=685434&Y
 
 ## Poland
 
+- **Opolskie** tree models at the CityGML LoD1 published as a WMS service for several counties in Opolskie voivodeship; planned to be released for the whole Poland (see 'Poland' below).
+
+[🌲][1️⃣] 
+
+[[Download](https://mapy.geoportal.gov.pl/imap/Imgp_2.html?gpmap=imap3d)] [[More](https://www.geoportal.gov.pl/aktualnosci/ggk-udostepnia-kolejne-modele-3d-drzew-2/)] 
+
+
 - **Poland** ~15.5 million buildings for the whole Poland in LoD1 and LoD2. To download - go to Data for download -> BDOT data packages -> 3D models of buildings.  
 
 [🏠] [1️⃣] [2️⃣]
