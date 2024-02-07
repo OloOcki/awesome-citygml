@@ -13,9 +13,9 @@ If you use this repo please considering linking it or citing:
 
 # Stats
 
-Last update: 09/12/2023
+Last update: 07/02/2024
 
-1️⃣8️⃣ countries +1️⃣ artificial! **||** 5️⃣9️⃣ regions/cities +1️⃣ artificial! 
+1️⃣9️⃣ countries + 1️⃣ artificial! **||** 6️⃣0️⃣ regions/cities + 1️⃣ artificial! 
 
 # Tags
 
@@ -44,6 +44,7 @@ Follow the tags to discover what is inside the dataset!
 - <img src='https://github.com/madebybowtie/FlagKit/blob/master/Assets/PNG/AT@2x.png?raw=true' width='21' height='15'> [Austria](#Austria)
 - <img src='https://github.com/madebybowtie/FlagKit/blob/master/Assets/PNG/BE@2x.png?raw=true' width='21' height='15'> [Belgium](#Belgium)
 - <img src='https://github.com/madebybowtie/FlagKit/blob/master/Assets/PNG/CA%402x.png?raw=true' width='21' height='15'> [Canada](#Canada)
+- <img src='https://github.com/madebybowtie/FlagKit/blob/master/Assets/PNG/CZ@2x.png?raw=true' width='21' height='15'> [Czechia](#Czechia)
 - <img src='https://github.com/madebybowtie/FlagKit/blob/master/Assets/PNG/EE%402x.png?raw=true' width='21' height='15'> [Estonia](#Estonia)
 - <img src='https://github.com/madebybowtie/FlagKit/blob/master/Assets/PNG/FI%402x.png?raw=true' width='21' height='15'> [Finland](#Finland)
 - <img src='https://github.com/madebybowtie/FlagKit/blob/master/Assets/PNG/FR@2x.png?raw=true' width='21' height='15'> [France](#France)
@@ -115,6 +116,14 @@ Follow the tags to discover what is inside the dataset!
 [🗻] [🏠] [🎇] [2️⃣] 
 
 [[Download](https://donnees.montreal.ca/ville-de-montreal/maquette-numerique-plateau-mont-royal-batiments-lod2-avec-textures)] [[More](https://open.canada.ca/data/en/dataset/58dd9b17-8242-4013-bf9d-0c8d3d93f081)] 
+
+## Czechia
+
+- **Prague** LoD2 building models, bridges, and DEM 1m model of the whole city and its vicinity
+
+[🗻][🏠][2️⃣][⛲]
+
+[[Download Bld](https://geoportalpraha.cz/en/data-and-services/7e6316e95cfe4f36ae06bbfb687bf34b)] [[Download Bridges](https://geoportalpraha.cz/en/data-and-services/ae7594eb61f347a39b97315a02445e21)] [[More](https://geoportalpraha.cz/en/documents)] 
 
 ## Estonia
 
