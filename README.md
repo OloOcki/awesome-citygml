@@ -365,7 +365,7 @@ https://map.geoportail.lu/theme/main?version=3&zoom=17.77189888003778&X=685434&Y
 
 [[Download](https://3d.bk.tudelft.nl/opendata/3dfier/)] [[More](https://3d.bk.tudelft.nl/opendata/3dfier/)] 
 
-- **Netherlands, buildings** for the whole Netherlands area in LoD 2 (2.2) and 1 (1.2, 1.3) in various formats CityJSON, OBJ. Also WMS and WFS available. 
+- **Netherlands, buildings** 10 mln buildings for the whole Netherlands area in LoD 2 (2.2) and 1 (1.2, 1.3) in various formats CityJSON, OBJ; Also WMS and WFS available. 
 
 [🏠] [1️⃣] [2️⃣] [🔢]
 
