@@ -13,9 +13,9 @@ If you use this repo please considering linking it or citing:
 
 # Stats
 
-Last update: 07/02/2024
+Last update: 22/02/2024
 
-1️⃣9️⃣ countries + 1️⃣ artificial! **||** 6️⃣0️⃣ regions/cities + 1️⃣ artificial! 
+2️⃣0️⃣ countries + 1️⃣ artificial! **||** 6️⃣0️⃣ regions/cities + 1️⃣ artificial! 
 
 # Tags
 
@@ -51,6 +51,7 @@ Follow the tags to discover what is inside the dataset!
 - <img src='https://github.com/madebybowtie/FlagKit/blob/master/Assets/PNG/DE@2x.png?raw=true' width='21' height='15'>  [Germany](#Germany)
 - <img src='https://github.com/madebybowtie/FlagKit/blob/master/Assets/PNG/IE@2x.png?raw=true' width='21' height='15'>  [Ireland](#Ireland)
 - <img src='https://github.com/madebybowtie/FlagKit/blob/master/Assets/PNG/JP@2x.png?raw=true' width='21' height='15'>  [Japan](#Japan)
+- <img src='https://github.com/madebybowtie/FlagKit/blob/master/Assets/PNG/LV@2x.png?raw=true' width='21' height='15'>  [Latvia](#Latvia)
 - <img src='https://github.com/madebybowtie/FlagKit/blob/master/Assets/PNG/LI@2x.png?raw=true' width='21' height='15'>  [Liechtenstein](#Liechtenstein)
 - <img src='https://github.com/madebybowtie/FlagKit/blob/master/Assets/PNG/LU@2x.png?raw=true' width='21' height='15'>  [Luxembourg](#Luxembourg)
 - <img src='https://github.com/madebybowtie/FlagKit/blob/master/Assets/PNG/NL@2x.png?raw=true' width='21' height='15'>  [Netherlands](#Netherlands)
@@ -339,9 +340,18 @@ https://geoportal5.geoportal-th.de/wega-3d/)] [[More](https://www.geoportal-th.d
 
 [[Download](https://poly.google.com/view/1H7Ew3x32sC)] [[Visualisation](https://poly.google.com/view/1H7Ew3x32sC)] [[More](https://www.accucities.com/product/free-3d-dublin-city-model-sample/)] 
 
+## Latvia
+
+- **Riga** LoD1 and LoD2 buildings available as SketchUp, OBJ, 3DS, GDB, and CityGML datasets. Additionally, tree models and meshes avaialbe in the viewer.
+
+[🏠][1️⃣][2️⃣]
+
+[[Download](https://georiga.eu/en/atvertie-dati/lod2/)]  [[Visualisation](https://experience.arcgis.com/experience/1525b7aa346342e6bbcffd99bc96a734)] [[More](https://georiga.eu/en/3d-riga/)] 
+
+
 ## Liechtenstein
 
-- Liechtenstein buildings available within the Swiss repository
+- **Liechtenstein** buildings available within the Swiss repository
 
 [🏠][2️⃣]
 
