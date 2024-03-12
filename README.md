@@ -15,7 +15,7 @@ If you use this repo please considering linking it or citing:
 
 Last update: 22/02/2024
 
-2️⃣0️⃣ countries + 1️⃣ artificial! **||** 6️⃣0️⃣ regions/cities + 1️⃣ artificial! 
+2️⃣1️⃣ countries + 1️⃣ artificial! **||** 6️⃣1️⃣ regions/cities + 1️⃣ artificial! 
 
 # Tags
 
@@ -44,6 +44,7 @@ Follow the tags to discover what is inside the dataset!
 - <img src='https://github.com/madebybowtie/FlagKit/blob/master/Assets/PNG/AT@2x.png?raw=true' width='21' height='15'> [Austria](#Austria)
 - <img src='https://github.com/madebybowtie/FlagKit/blob/master/Assets/PNG/BE@2x.png?raw=true' width='21' height='15'> [Belgium](#Belgium)
 - <img src='https://github.com/madebybowtie/FlagKit/blob/master/Assets/PNG/CA%402x.png?raw=true' width='21' height='15'> [Canada](#Canada)
+- <img src='https://github.com/madebybowtie/FlagKit/blob/master/Assets/PNG/CN@2x.png?raw=true' width='21' height='15'> [China](#China)
 - <img src='https://github.com/madebybowtie/FlagKit/blob/master/Assets/PNG/CZ@2x.png?raw=true' width='21' height='15'> [Czechia](#Czechia)
 - <img src='https://github.com/madebybowtie/FlagKit/blob/master/Assets/PNG/EE%402x.png?raw=true' width='21' height='15'> [Estonia](#Estonia)
 - <img src='https://github.com/madebybowtie/FlagKit/blob/master/Assets/PNG/FI%402x.png?raw=true' width='21' height='15'> [Finland](#Finland)
@@ -118,13 +119,19 @@ Follow the tags to discover what is inside the dataset!
 
 [[Download](https://donnees.montreal.ca/ville-de-montreal/maquette-numerique-plateau-mont-royal-batiments-lod2-avec-textures)] [[More](https://open.canada.ca/data/en/dataset/58dd9b17-8242-4013-bf9d-0c8d3d93f081)] 
 
+## China
+
+- **China** LoD1 building models for several cities (Tianjin, Shanghai, Beijing) with the promised nationwide extension. The builidings are saved as .shp files, where the rooftop type is identified but not modeled; Part of the research project.
+
+[🏠][1️⃣]
+
+[[Download](https://github.com/AICyberTeam/GABLE)] [[More](https://www.sciencedirect.com/science/article/pii/S0034425724000683)] 
+
 ## Czechia
 
 - **Prague** LoD2 building models, bridges, and DEM 1m model of the whole city and its vicinity
 
 [🗻][🏠][2️⃣][⛲]
-
-[[Download Bld](https://geoportalpraha.cz/en/data-and-services/7e6316e95cfe4f36ae06bbfb687bf34b)] [[Download Bridges](https://geoportalpraha.cz/en/data-and-services/ae7594eb61f347a39b97315a02445e21)] [[More](https://geoportalpraha.cz/en/documents)] 
 
 ## Estonia
 
