@@ -15,7 +15,7 @@ If you use this repo please considering linking it or citing:
 
 Last update: 20/03/2024
 
-2️⃣1️⃣ countries + 1️⃣ artificial! **||** 6️⃣1️⃣ regions/cities + 1️⃣ artificial! 
+2️⃣1️⃣ countries + 1️⃣ artificial! **||** 5️⃣7️⃣ regions/cities + 1️⃣ artificial! 
 
 # Tags
 
@@ -80,6 +80,13 @@ Follow the tags to discover what is inside the dataset!
 
 [[Download](http://www.3dcitydb.net/3dcitydb/fileadmin/public/datasets/Melbourne/Melbourne_Streetspace_CityGML.zip)] [[VisualisationLoD2](http://www.3dcitydb.org/3dcitydb-web-map/1.8.2/3dwebclient/?title=Melbourne_Streetspace_LoD2&shadows=false&terrainShadows=0&latitude=-37.808172850916705&longitude=144.96510794314432&height=443.4330303601941&heading=9.896470830181748&pitch=-74.89240010024886&roll=359.87863005263307&layer_0=url%3Dhttps%253A%252F%252Fwww.3dcitydb.org%252F3dcitydb%252Ffileadmin%252Fpublic%252F3dwebclientprojects%252FMelbourne%252FMelbourne_Streetspace_LoD2%252FMelbourne_Carriageway_LoD2%252FMelbourne_Carriageway_LoD2_geometry_MasterJSON.json%26name%3DMelbourne_Carriageway_LoD2%26layerDataType%3DCOLLADA%252FKML%252FglTF%26gltfVersion%3D2.0%26active%3Dtrue%26spreadsheetUrl%3Dhttps%253A%252F%252Fdocs.google.com%252Fspreadsheets%252Fd%252F1sw1Lh9m1DTJotSa8Bbr4BKHQF9WkseRmeAjsS2ypVWw%26thematicDataSource%3DGoogleSheets%26tableType%3DHorizontal%26cityobjectsJsonUrl%3D%26minLodPixels%3D100%26maxLodPixels%3D1.7976931348623157e%252B308%26maxSizeOfCachedTiles%3D200%26maxCountOfVisibleTiles%3D200&layer_1=url%3Dhttps%253A%252F%252Fwww.3dcitydb.org%252F3dcitydb%252Ffileadmin%252Fpublic%252F3dwebclientprojects%252FMelbourne%252FMelbourne_Streetspace_LoD2%252FMelbourne_Footpath_LoD2%252FMelbourne_Footpath_LoD2_geometry_MasterJSON.json%26name%3DMelbourne_Footpath_LoD2%26layerDataType%3DCOLLADA%252FKML%252FglTF%26gltfVersion%3D2.0%26active%3Dtrue%26spreadsheetUrl%3Dhttps%253A%252F%252Fdocs.google.com%252Fspreadsheets%252Fd%252F15igWEPL_Hicfu1t29ryzSsPa593h48uYwgDp9sy4pAY%26thematicDataSource%3DGoogleSheets%26tableType%3DHorizontal%26cityobjectsJsonUrl%3D%26minLodPixels%3D100%26maxLodPixels%3D1.7976931348623157e%252B308%26maxSizeOfCachedTiles%3D200%26maxCountOfVisibleTiles%3D200&layer_2=url%3Dhttps%253A%252F%252Fwww.3dcitydb.org%252F3dcitydb%252Ffileadmin%252Fpublic%252F3dwebclientprojects%252FMelbourne%252FMelbourne_Streetspace_LoD2%252FMelbourne_Median_LoD2%252FMelbourne_Median_LoD2_geometry_MasterJSON.json%26name%3DMelbourne_Median_LoD2%26layerDataType%3DCOLLADA%252FKML%252FglTF%26gltfVersion%3D2.0%26active%3Dtrue%26spreadsheetUrl%3Dhttps%253A%252F%252Fdocs.google.com%252Fspreadsheets%252Fd%252F1b7jpctmo2mPAh0cyZ_WpGipr9Ea2klRRJVTos7spJ4E%26thematicDataSource%3DGoogleSheets%26tableType%3DHorizontal%26cityobjectsJsonUrl%3D%26minLodPixels%3D100%26maxLodPixels%3D1.7976931348623157e%252B308%26maxSizeOfCachedTiles%3D200%26maxCountOfVisibleTiles%3D200&layer_3=url%3Dhttps%253A%252F%252Fwww.3dcitydb.org%252F3dcitydb%252Ffileadmin%252Fpublic%252F3dwebclientprojects%252FMelbourne%252FMelbourne_Streetspace_LoD2%252FMelbourne_Kerb_LoD2%252FMelbourne_Kerb_LoD2_geometry_MasterJSON.json%26name%3DMelbourne_Kerb_LoD2%26layerDataType%3DCOLLADA%252FKML%252FglTF%26gltfVersion%3D2.0%26active%3Dtrue%26spreadsheetUrl%3Dhttps%253A%252F%252Fdocs.google.com%252Fspreadsheets%252Fd%252F1KOI0fZx9y1AsCPpFAxF2OK7clnrHaSu069AN4GoIVKs%26thematicDataSource%3DGoogleSheets%26tableType%3DHorizontal%26cityobjectsJsonUrl%3D%26minLodPixels%3D100%26maxLodPixels%3D1.7976931348623157e%252B308%26maxSizeOfCachedTiles%3D200%26maxCountOfVisibleTiles%3D200&layer_4=url%3Dhttps%253A%252F%252Fwww.3dcitydb.org%252F3dcitydb%252Ffileadmin%252Fpublic%252F3dwebclientprojects%252FMelbourne%252FMelbourne_Streetspace_LoD2%252FMelbourne_Parking_Bay_LoD2%252FMelbourne_Parking_Bay_LoD2_geometry_MasterJSON.json%26name%3DMelbourne_Parking_Bay_LoD2%26layerDataType%3DCOLLADA%252FKML%252FglTF%26gltfVersion%3D2.0%26active%3Dtrue%26spreadsheetUrl%3Dhttps%253A%252F%252Fdocs.google.com%252Fspreadsheets%252Fd%252F1tGuB2_Ckt14Fq6ws6b2_gldTob4tF_JeFxPpFj8adLk%26thematicDataSource%3DGoogleSheets%26tableType%3DHorizontal%26cityobjectsJsonUrl%3D%26minLodPixels%3D100%26maxLodPixels%3D1.7976931348623157e%252B308%26maxSizeOfCachedTiles%3D200%26maxCountOfVisibleTiles%3D200&layer_5=url%3Dhttps%253A%252F%252Fwww.3dcitydb.org%252F3dcitydb%252Ffileadmin%252Fpublic%252F3dwebclientprojects%252FMelbourne%252FMelbourne_Streetspace_LoD2%252FMelbourne_Road_Channel_LoD2%252FMelbourne_Road_Channel_LoD2_geometry_MasterJSON.json%26name%3DMelbourne_Road_Channel_LoD2%26layerDataType%3DCOLLADA%252FKML%252FglTF%26gltfVersion%3D2.0%26active%3Dtrue%26spreadsheetUrl%3Dhttps%253A%252F%252Fdocs.google.com%252Fspreadsheets%252Fd%252F1Y2gAOvFa2B3_dg24ptrzH0V3k5n3bUNn7UgRJ2V9jFE%26thematicDataSource%3DGoogleSheets%26tableType%3DHorizontal%26cityobjectsJsonUrl%3D%26minLodPixels%3D100%26maxLodPixels%3D1.7976931348623157e%252B308%26maxSizeOfCachedTiles%3D200%26maxCountOfVisibleTiles%3D200&layer_6=url%3Dhttps%253A%252F%252Fwww.3dcitydb.org%252F3dcitydb%252Ffileadmin%252Fpublic%252F3dwebclientprojects%252FMelbourne%252FMelbourne_Streetspace_LoD2%252FMelbourne_Tramway_LoD2%252FMelbourne_Tramway_LoD2_geometry_MasterJSON.json%26name%3DMelbourne_Tramway_LoD2%26layerDataType%3DCOLLADA%252FKML%252FglTF%26gltfVersion%3D2.0%26active%3Dtrue%26spreadsheetUrl%3Dhttps%253A%252F%252Fdocs.google.com%252Fspreadsheets%252Fd%252F146HHsN82mpNzAr6g6CAXQCMBLupGeaGwmvfsOT1oQQc%26thematicDataSource%3DGoogleSheets%26tableType%3DHorizontal%26cityobjectsJsonUrl%3D%26minLodPixels%3D100%26maxLodPixels%3D1.7976931348623157e%252B308%26maxSizeOfCachedTiles%3D200%26maxCountOfVisibleTiles%3D200&layer_7=url%3Dhttps%253A%252F%252Fwww.3dcitydb.org%252F3dcitydb%252Ffileadmin%252Fpublic%252F3dwebclientprojects%252FMelbourne%252FMelbourne_Building_LoD1%252FMelbourne_Building_LoD1_collada_MasterJSON.json%26name%3DMelbourne_Building_LoD1%26layerDataType%3DCOLLADA%252FKML%252FglTF%26gltfVersion%3D2.0%26active%3Dtrue%26spreadsheetUrl%3Dhttps%253A%252F%252Fdocs.google.com%252Fspreadsheets%252Fd%252F1vAfXUTi6YbgHh1SvfmkPGjMNgPALKKATqcyqbg9SyXs%26thematicDataSource%3DGoogleSheets%26tableType%3DHorizontal%26cityobjectsJsonUrl%3D%26minLodPixels%3D100%26maxLodPixels%3D1.7976931348623157e%252B308%26maxSizeOfCachedTiles%3D200%26maxCountOfVisibleTiles%3D200&splashWindow=url%3Dsplash%252FSplashWindow.html%26showOnStart%3Dtrue)] [[VisualisationLoD1](https://www.3dcitydb.org/3dcitydb-web-map/1.7.2/3dwebclient/index.html?title=Melbourne_Streetspace_LoD1&shadows=false&terrainShadows=0&latitude=-37.81011251757671&longitude=144.9631999448069&height=656.2681691357357&heading=7.505459775427195&pitch=-59.50883495500552&roll=359.9523173380835&layer_0=url%3Dhttps%253A%252F%252Fwww.3dcitydb.org%252F3dcitydb%252Ffileadmin%252Fpublic%252F3dwebclientprojects%252FMelbourne%252FMelbourne_Streetspace_LoD1%252FMelboune_Streetspace_LoD1_geometry_MasterJSON.json%26name%3DMelbourne_Streetspace_LoD1%26layerDataType%3DCOLLADA%252FKML%252FglTF%26gltfVersion%3D1.0%26active%3Dtrue%26spreadsheetUrl%3Dhttps%253A%252F%252Fwww.google.com%252Ffusiontables%252FDataSource%253Fdocid%253D1it5kP2V1yAHnzMyvxbgWqKdYKNqY27pquDK_8u19%26cityobjectsJsonUrl%3D%26minLodPixels%3D100%26maxLodPixels%3D1.7976931348623157e%252B308%26maxSizeOfCachedTiles%3D200%26maxCountOfVisibleTiles%3D200&layer_1=url%3Dhttps%253A%252F%252Fwww.3dcitydb.org%252F3dcitydb%252Ffileadmin%252Fpublic%252F3dwebclientprojects%252FMelbourne%252FMelbourne_Building_LoD1%252FMelbourne_Building_LoD1_collada_MasterJSON.json%26name%3DMelbourne_Building_LoD1%26layerDataType%3DCOLLADA%252FKML%252FglTF%26gltfVersion%3D2.0%26active%3Dtrue%26spreadsheetUrl%3Dhttps%253A%252F%252Fwww.google.com%252Ffusiontables%252FDataSource%253Fdocid%253D14wGFcpPSVRtqsOG8aMhGjUAjOhuVtxjk7C-NmysA%26cityobjectsJsonUrl%3D%26minLodPixels%3D100%26maxLodPixels%3D1.7976931348623157e%252B308%26maxSizeOfCachedTiles%3D200%26maxCountOfVisibleTiles%3D200&splashWindow=url%3Dsplash%252FSplashWindow.html%26showOnStart%3Dfalse)] [[More](https://wiki.tum.de/display/gisproject/Download+Section)] 
 
+- **Victoria** the whole state reperesented with at least LoD1 up to LoD2 building models in Melbourne and vicinity. Some districts are also textured.
+
+[🏠] [🎇] [1️⃣] [2️⃣] [🔢]
+
+[[Download](https://www.land.vic.gov.au/maps-and-spatial/spatial-data/vicmap-catalogue/vicmap-buildings)] [[Visualisation](https://vic.digitaltwin.terria.io/#share=s-nM5NdVNTjXBNrKqSqpK5NNnKuyi)] [[More](https://www.land.vic.gov.au/maps-and-spatial/spatial-data/vicmap-catalogue/vicmap-buildings)] 
+
+
 ## Austria
 
 
@@ -113,11 +120,24 @@ Follow the tags to discover what is inside the dataset!
 
 ## Canada
 
+- **Calgary** LoD2 building models in as CAD and GDB files
+
+[🏠][2️⃣] 
+
+[[Download](https://data.calgary.ca/Base-Maps/3D-Buildings-Citywide/cchr-krqg/about_data)] [[Visualisation](https://mapgallery.calgary.ca/apps/bcd22e7089a440e792628ac61f35f4c1/explore)] [[More](https://data.calgary.ca/Base-Maps/3D-Buildings-Citywide/cchr-krqg/about_data)] 
+
 - **Montreal** terrain and buildings in various formats also ALS dataset available
 
 [🗻] [🏠] [🎇] [2️⃣] 
 
 [[Download](https://donnees.montreal.ca/ville-de-montreal/maquette-numerique-plateau-mont-royal-batiments-lod2-avec-textures)] [[More](https://open.canada.ca/data/en/dataset/58dd9b17-8242-4013-bf9d-0c8d3d93f081)] 
+
+- **Toronto** building models in various formats
+
+[🏠][1️⃣] 
+
+[[Download](https://open.toronto.ca/dataset/3d-massing/)] [[More](https://open.toronto.ca/dataset/3d-massing/)] 
+
 
 ## China
 
@@ -132,6 +152,8 @@ Follow the tags to discover what is inside the dataset!
 - **Prague** LoD2 building models, bridges, and DEM 1m model of the whole city and its vicinity
 
 [🗻][🏠][2️⃣][⛲]
+
+[[Download](https://geoportalpraha.cz/en/data-and-services/7e6316e95cfe4f36ae06bbfb687bf34b)] [[Visualisation](https://geoportalpraha.cz/en/data-and-services/7e6316e95cfe4f36ae06bbfb687bf34b)] [[More](https://geoportalpraha.cz/en/data-and-services/7e6316e95cfe4f36ae06bbfb687bf34b)]
 
 ## Estonia
 
@@ -258,6 +280,12 @@ https://data.grandlyon.com/jeux-de-donnees/maquettes-3d-texturees-2018-communes-
 
 [[Download LoD1](https://www.opengeodata.nrw.de/produkte/geobasis/3dg/lod1_gml/)] [[Download LoD2](https://www.opengeodata.nrw.de/produkte/geobasis/3dg/lod2_gml/)] [[More](https://www.opengeodata.nrw.de/produkte/geobasis/)]
 
+- **Potsdam** LoD2 building models of Potsdam (see also related Berlin and Brandenburg)
+
+[🏠][2️⃣]
+
+[[Download](https://potsdam.opendatasoft.com/explore/dataset/3d-gebaudemodell-lod2-citygml/information/)]  [[More](https://potsdam.opendatasoft.com/explore/dataset/3d-gebaudemodell-lod2-citygml/information/)]
+
 - **Sachsen** various datasets of Saxony including LoD1 and LoD2 building models
 
 [🏠][1️⃣][2️⃣][🗻]
@@ -286,58 +314,11 @@ https://geoportal5.geoportal-th.de/wega-3d/)] [[More](https://www.geoportal-th.d
 
 ## Japan
 
-- **Japan** the PLATEAU project encompassing multiple cities and prefectures in Japan, 3D building models in LoD1 and 2, roads and planning areas
+- **Japan** the PLATEAU project encompassing multiple cities and prefectures in Japan, 3D building models in LoD1 and 2, roads and planning areas. On the way to twin the whole Japan (56 cities right now, such as: Tokyo, Sapporo, Shirakawa, Hokota, Iwaki, Kiryu, Koriyama, Utsunomiya)
 [🏠][🚗][1️⃣][2️⃣][🗻][🎇]
 
 [[Download](https://www.geospatial.jp/ckan/dataset/plateau-08234-hokota-shi-2020)] [[Metadata](https://gic-plateau.s3.ap-northeast-1.amazonaws.com/2020/attributedata.xlsx)][[More](https://www.geospatial.jp/ckan/dataset/plateau)]
 
-- **Hokota** 3D building models in LoD 1 and 2 (more LoD1 buildings than 2), roads and planning areas
-
-[🏠][🚗][1️⃣][2️⃣][🗻][🎇]
-
-[[Download](https://www.geospatial.jp/ckan/dataset/plateau-08234-hokota-shi-2020)] [[Metadata](https://gic-plateau.s3.ap-northeast-1.amazonaws.com/2020/attributedata.xlsx)][[More](https://www.geospatial.jp/ckan/dataset/plateau)]
-
-- **Iwaki** 3D building models in LoD 1 and 2 (more LoD1 buildings than 2), roads and planning areas
-
-[🏠][🚗][1️⃣][2️⃣][🗻][🎇]
-
-[[Download](https://www.geospatial.jp/ckan/dataset/plateau-07204-iwaki-shi-2020)] [[Metadata](https://gic-plateau.s3.ap-northeast-1.amazonaws.com/2020/attributedata.xlsx)][[More](https://www.geospatial.jp/ckan/dataset/plateau)]
-
-- **Kiryu** 3D building models in LoD 1 and 2 (more LoD1 buildings than 2), roads and planning areas
-
-[🏠][🚗][1️⃣][2️⃣][🗻][🎇]
-
-[[Download](https://www.geospatial.jp/ckan/dataset/plateau-10203-kiryu-shi-2020)] [[Metadata](https://gic-plateau.s3.ap-northeast-1.amazonaws.com/2020/attributedata.xlsx)][[More](https://www.geospatial.jp/ckan/dataset/plateau)]
-
-- **Koriyama** 3D building models in LoD 1 and 2 (more LoD1 buildings than 2), roads and planning areas
-
-[🏠][🚗][1️⃣][2️⃣][🗻][🎇]
-
-[[Download](https://www.geospatial.jp/ckan/dataset/plateau-07203-koriyama-city-2020)] [[Metadata](https://gic-plateau.s3.ap-northeast-1.amazonaws.com/2020/attributedata.xlsx)][[More](https://www.geospatial.jp/ckan/dataset/plateau)]
-
-- **Utsunomiya** 3D building models in LoD 1 and 2 (more LoD1 buildings than 2), roads and planning areas
-
-[🏠][🚗][1️⃣][2️⃣][🗻][🎇]
-
-[[Download](https://www.geospatial.jp/ckan/dataset/plateau-09201-utsunomiya-shi-2020)] [[Metadata](https://gic-plateau.s3.ap-northeast-1.amazonaws.com/2020/attributedata.xlsx)][[More](https://www.geospatial.jp/ckan/dataset/plateau)]
-
-- **Sapporo** 3D building models in LoD 1 and 2 (more LoD1 buildings than 2), roads and planning areas
-
-[🏠][🚗][1️⃣][2️⃣][🗻][🎇]
-
-[[Download](https://www.geospatial.jp/ckan/dataset/plateau-01100-sapporo-shi-2020)] [[Metadata](https://gic-plateau.s3.ap-northeast-1.amazonaws.com/2020/attributedata.xlsx)][[More](https://www.geospatial.jp/ckan/dataset/plateau)]
-
-- **Shirakawa** 3D building models in LoD 1 and 2 (more LoD1 buildings than 2), roads and planning areas
-
-[🏠][🚗][1️⃣][2️⃣][🗻][🎇]
-
-[[Download](https://www.geospatial.jp/ckan/dataset/plateau-07205-shirakawa-shi-2020)] [[Metadata](https://gic-plateau.s3.ap-northeast-1.amazonaws.com/2020/attributedata.xlsx)][[More](https://www.geospatial.jp/ckan/dataset/plateau)]
-
-- **Tokyo** 3D building models in LoD1 (23 wards) and LoD2 (11 wards)
-
-[🏠][🚗][1️⃣][2️⃣]
-
-[[Download (translation)](https://translate.google.com/translate?hl=&sl=ja&tl=en&u=https%3A%2F%2Fwww.geospatial.jp%2Fckan%2Fdataset%2Fplateau-tokyo23ku-citygml-2020&sandbox=1)] [[Download](https://www.geospatial.jp/ckan/dataset/plateau-tokyo23ku-citygml-2020)] [[Visualization](https://3dview.tokyo-digitaltwin.metro.tokyo.lg.jp/?_ga=2.231802394.428561180.1664790480-421743505.1664790479)] [[More-Plateau](https://www.mlit.go.jp/plateau/)] [[More-TokyoDigitalTwin](https://info.tokyo-digitaltwin.metro.tokyo.lg.jp/)]
 
 ## Ireland
 
@@ -397,7 +378,7 @@ https://map.geoportail.lu/theme/main?version=3&zoom=17.77189888003778&X=685434&Y
 
 - **Rotterdam** within the 3D viewer, objects and complete areas can be selected for download in various formats including CityGML
 
-[🏠]  [🚗] [🌲] [🗻] [1️⃣] [2️⃣]
+[🏠] [🚗] [🌲] [🗻] [1️⃣] [2️⃣]
 
 [[Download](https://www.3drotterdam.nl/#/export)] [[Visualization](https://www.3drotterdam.nl)] 
 
@@ -432,7 +413,7 @@ https://map.geoportail.lu/theme/main?version=3&zoom=17.77189888003778&X=685434&Y
 
 - **Las Vegas** the Las Vegas Motor Speedway racing track (e.g., tracks, buildings, terrain) in CityGML and as OBJ
 
-[🏠] [🗻] [🚗]  [🌲] [1️⃣]
+[🏠] [🗻] [🚗] [🌲] [1️⃣]
 
 [[Download](https://github.com/OloOcki/LAS-Vegas-LoD1)]  [[More](https://github.com/OloOcki/LAS-Vegas-LoD1)] 
 
@@ -454,6 +435,12 @@ https://map.geoportail.lu/theme/main?version=3&zoom=17.77189888003778&X=685434&Y
 [🏠] [🚗] [1️⃣] [2️⃣] [🔢] 
 
 [[Download Sample](www.3dcitydb.net/3dcitydb/fileadmin/public/datasets/NYC/NYC_street_space_extract/NYC_Flatiron_Streetpace_CityGML_LoD2.zip)] [[Visualisation](http://www.3dcitydb.org/3dcitydb-web-map/1.8.2/3dwebclient/?title=NYC_Detailed_Road_Model&shadows=false&terrainShadows=0&latitude=40.74324791682301&longitude=-73.98788672934239&height=393.81226291411065&heading=212.81661879694937&pitch=-54.90142422275028&roll=359.8214281982287&layer_0=url%3Dhttp%253A%252F%252Fwww.3dcitydb.net%252F3dcitydb%252Ffileadmin%252Fpublic%252F3dwebclientprojects%252FNYC-Model-20170501%252FEntrance1%252FEntrance1_collada_MasterJSON.json%26name%3DParking_Lot_Entrance%26layerDataType%3DCOLLADA%252FKML%252FglTF%26gltfVersion%3D1.0%26active%3Dtrue%26spreadsheetUrl%3Dhttps%253A%252F%252Fdocs.google.com%252Fspreadsheets%252Fd%252F1-3JFVBB16ZY2heG6a1eJi6W1rEPo5FEPuKQ469G-hxA%26thematicDataSource%3DGoogleSheets%26tableType%3DHorizontal%26cityobjectsJsonUrl%3D%26minLodPixels%3D125%26maxLodPixels%3D1.7976931348623157e%252B308%26maxSizeOfCachedTiles%3D200%26maxCountOfVisibleTiles%3D200&layer_1=url%3Dhttp%253A%252F%252Fwww.3dcitydb.net%252F3dcitydb%252Ffileadmin%252Fpublic%252F3dwebclientprojects%252FNYC-Model-20170501%252FParking_Lot1%252FParking_Lot1_collada_MasterJSON.json%26name%3DParking_Lot%26layerDataType%3DCOLLADA%252FKML%252FglTF%26gltfVersion%3D1.0%26active%3Dtrue%26spreadsheetUrl%3Dhttps%253A%252F%252Fdocs.google.com%252Fspreadsheets%252Fd%252F1A-907mG66x_Ry1s3T0k5cBLVi7Xo4ijrezHoqVGkDe0%26thematicDataSource%3DGoogleSheets%26tableType%3DHorizontal%26cityobjectsJsonUrl%3D%26minLodPixels%3D125%26maxLodPixels%3D1.7976931348623157e%252B308%26maxSizeOfCachedTiles%3D200%26maxCountOfVisibleTiles%3D200&layer_2=url%3Dhttp%253A%252F%252Fwww.3dcitydb.net%252F3dcitydb%252Ffileadmin%252Fpublic%252F3dwebclientprojects%252FNYC-Model-20170501%252FMedian_Grass%252FMedian_Grass_collada_MasterJSON.json%26name%3DGrass_Area%26layerDataType%3DCOLLADA%252FKML%252FglTF%26gltfVersion%3D1.0%26active%3Dtrue%26spreadsheetUrl%3Dhttps%253A%252F%252Fdocs.google.com%252Fspreadsheets%252Fd%252F1rhjSQwkgky74jTe1jDJlHIiQB6_sFiX-LJ5ZEpbhLtY%26thematicDataSource%3DGoogleSheets%26tableType%3DHorizontal%26cityobjectsJsonUrl%3D%26minLodPixels%3D125%26maxLodPixels%3D1.7976931348623157e%252B308%26maxSizeOfCachedTiles%3D200%26maxCountOfVisibleTiles%3D200&layer_3=url%3Dhttp%253A%252F%252Fwww.3dcitydb.net%252F3dcitydb%252Ffileadmin%252Fpublic%252F3dwebclientprojects%252FNYC-Model-20170501%252FSidewalk1%252FSidewalk1_collada_MasterJSON.json%26name%3DSidewalk%26layerDataType%3DCOLLADA%252FKML%252FglTF%26gltfVersion%3D1.0%26active%3Dtrue%26spreadsheetUrl%3Dhttps%253A%252F%252Fdocs.google.com%252Fspreadsheets%252Fd%252F1GIcPNoMLAyPJVtVbNE3-_0Tiu1Xjr1Fj09tY2QPPA2s%26thematicDataSource%3DGoogleSheets%26tableType%3DHorizontal%26cityobjectsJsonUrl%3D%26minLodPixels%3D125%26maxLodPixels%3D1.7976931348623157e%252B308%26maxSizeOfCachedTiles%3D200%26maxCountOfVisibleTiles%3D200&layer_4=url%3Dhttp%253A%252F%252Fwww.3dcitydb.net%252F3dcitydb%252Ffileadmin%252Fpublic%252F3dwebclientprojects%252FNYC-Model-20170501%252FMedian_Painted1%252FMedian_Painted1_collada_MasterJSON.json%26name%3DRoad_Marking%26layerDataType%3DCOLLADA%252FKML%252FglTF%26gltfVersion%3D1.0%26active%3Dtrue%26spreadsheetUrl%3Dhttps%253A%252F%252Fdocs.google.com%252Fspreadsheets%252Fd%252F1fd-xnvIoAPvJjzRwRTuGogKgJX08nDDyym184t02avo%26thematicDataSource%3DGoogleSheets%26tableType%3DHorizontal%26cityobjectsJsonUrl%3D%26minLodPixels%3D125%26maxLodPixels%3D1.7976931348623157e%252B308%26maxSizeOfCachedTiles%3D200%26maxCountOfVisibleTiles%3D200&layer_5=url%3Dhttp%253A%252F%252Fwww.3dcitydb.net%252F3dcitydb%252Ffileadmin%252Fpublic%252F3dwebclientprojects%252FNYC-Model-20170501%252FIntersection1%252FIntersection1_collada_MasterJSON.json%26name%3DIntersection%26layerDataType%3DCOLLADA%252FKML%252FglTF%26gltfVersion%3D1.0%26active%3Dtrue%26spreadsheetUrl%3Dhttps%253A%252F%252Fdocs.google.com%252Fspreadsheets%252Fd%252F1DL1TpKUcOfSmcaqfJ-iB6rHBW2TQJkYLvl2sg6FGes4%26thematicDataSource%3DGoogleSheets%26tableType%3DHorizontal%26cityobjectsJsonUrl%3D%26minLodPixels%3D125%26maxLodPixels%3D1.7976931348623157e%252B308%26maxSizeOfCachedTiles%3D200%26maxCountOfVisibleTiles%3D200&layer_6=url%3Dhttp%253A%252F%252Fwww.3dcitydb.net%252F3dcitydb%252Ffileadmin%252Fpublic%252F3dwebclientprojects%252FNYC-Model-20170501%252FRoadbed1%252FRoadbed1_collada_MasterJSON.json%26name%3DRoadbed%26layerDataType%3DCOLLADA%252FKML%252FglTF%26gltfVersion%3D1.0%26active%3Dtrue%26spreadsheetUrl%3Dhttps%253A%252F%252Fdocs.google.com%252Fspreadsheets%252Fd%252F13U0NRWyRjjaAOlsIHvhtKFYNSUUpmseBKAzr4ei-954%26thematicDataSource%3DGoogleSheets%26tableType%3DHorizontal%26cityobjectsJsonUrl%3D%26minLodPixels%3D125%26maxLodPixels%3D1.7976931348623157e%252B308%26maxSizeOfCachedTiles%3D200%26maxCountOfVisibleTiles%3D200&layer_7=url%3Dhttp%253A%252F%252Fwww.3dcitydb.net%252F3dcitydb%252Ffileadmin%252Fpublic%252F3dwebclientprojects%252FNYC-Model-20170501%252FPlaza1%252FPlaza_collada_MasterJSON.json%26name%3DPlaza%26layerDataType%3DCOLLADA%252FKML%252FglTF%26gltfVersion%3D1.0%26active%3Dtrue%26spreadsheetUrl%3Dhttps%253A%252F%252Fdocs.google.com%252Fspreadsheets%252Fd%252F1qkO0qgrfnP8tbuiJhz2I5ydX-lR1CCZl-wyxbXdcjvk%26thematicDataSource%3DGoogleSheets%26tableType%3DHorizontal%26cityobjectsJsonUrl%3D%26minLodPixels%3D125%26maxLodPixels%3D1.7976931348623157e%252B308%26maxSizeOfCachedTiles%3D200%26maxCountOfVisibleTiles%3D200&layer_8=url%3Dhttp%253A%252F%252Fwww.3dcitydb.net%252F3dcitydb%252Ffileadmin%252Fpublic%252F3dwebclientprojects%252FNYC-Model-20170501%252FCurb%252FCurb_collada_MasterJSON.json%26name%3DCurb%26layerDataType%3DCOLLADA%252FKML%252FglTF%26gltfVersion%3D1.0%26active%3Dtrue%26spreadsheetUrl%3Dhttps%253A%252F%252Fdocs.google.com%252Fspreadsheets%252Fd%252F1fNljJXfTFkAiDMFncGUYhse8R_CQ1Vo_HeNWRP_fijU%26thematicDataSource%3DGoogleSheets%26tableType%3DHorizontal%26cityobjectsJsonUrl%3D%26minLodPixels%3D125%26maxLodPixels%3D1.7976931348623157e%252B308%26maxSizeOfCachedTiles%3D200%26maxCountOfVisibleTiles%3D200&layer_9=url%3Dhttp%253A%252F%252Fwww.3dcitydb.net%252F3dcitydb%252Ffileadmin%252Fpublic%252F3dwebclientprojects%252FNYC-Model-20170501%252FTrack%252FTrack_collada_MasterJSON.json%26name%3DTrack%26layerDataType%3DCOLLADA%252FKML%252FglTF%26gltfVersion%3D1.0%26active%3Dfalse%26spreadsheetUrl%3Dhttps%253A%252F%252Fdocs.google.com%252Fspreadsheets%252Fd%252F1Z9PIPrFQY5tudHOqczsPjfIN29XfCrtXez2rtgpto7g%26thematicDataSource%3DGoogleSheets%26tableType%3DHorizontal%26cityobjectsJsonUrl%3D%26minLodPixels%3D125%26maxLodPixels%3D1.7976931348623157e%252B308%26maxSizeOfCachedTiles%3D200%26maxCountOfVisibleTiles%3D200&layer_10=url%3Dhttp%253A%252F%252Fwww.3dcitydb.net%252F3dcitydb%252Ffileadmin%252Fpublic%252F3dwebclientprojects%252FNYC-Model-20170501%252FTraffic_Islands%252FTraffic_Islands_collada_MasterJSON.json%26name%3DDividing_Strips%26layerDataType%3DCOLLADA%252FKML%252FglTF%26gltfVersion%3D1.0%26active%3Dtrue%26spreadsheetUrl%3Dhttps%253A%252F%252Fdocs.google.com%252Fspreadsheets%252Fd%252F1qXPJ1ezPV04RNONpOBlJYm7JE_8I_Q8ho-bJLdXlqlc%26thematicDataSource%3DGoogleSheets%26tableType%3DHorizontal%26cityobjectsJsonUrl%3D%26minLodPixels%3D125%26maxLodPixels%3D1.7976931348623157e%252B308%26maxSizeOfCachedTiles%3D200%26maxCountOfVisibleTiles%3D200&layer_11=url%3Dhttp%253A%252F%252Fwww.3dcitydb.net%252F3dcitydb%252Ffileadmin%252Fpublic%252F3dwebclientprojects%252FNYC-Model-20170501%252FBuilding_gltf%252FBuilding_gltf_collada_MasterJSON.json%26name%3DBuildings%26layerDataType%3DCOLLADA%252FKML%252FglTF%26gltfVersion%3D1.0%26active%3Dtrue%26spreadsheetUrl%3Dhttps%253A%252F%252Fdocs.google.com%252Fspreadsheets%252Fd%252F1DbkMUSYW_YlE48MUxH5fak56uaCL8QXNrBgEr0gfuCY%26thematicDataSource%3DGoogleSheets%26tableType%3DHorizontal%26cityobjectsJsonUrl%3D%26minLodPixels%3D125%26maxLodPixels%3D1.7976931348623157e%252B308%26maxSizeOfCachedTiles%3D200%26maxCountOfVisibleTiles%3D200&splashWindow=url%3Dsplash%252FSplashWindow.html%26showOnStart%3Dtrue)] [[More](https://www.lrg.tum.de/gis/projekte/new-york-city-3d/)] 
+
+- **Philadelphia** textured building models of 2008, 2010, and 2015 (see the list under tag 'More') as LoD2 GDB files
+
+[🏠] [🎇] [2️⃣] [⌛]
+
+[[Download](https://www.pasda.psu.edu/uci/DataSummary.aspx?dataset=7146)] [[More](https://www.pasda.psu.edu/uci/SearchResults.aspx?Keyword=Philadelphia)] 
 
 - **Washington** the White House street space area in CityGML
 
@@ -517,4 +504,3 @@ https://map.geoportail.lu/theme/main?version=3&zoom=17.77189888003778&X=685434&Y
 
 [[Download](https://filipbiljecki.com/code/Random3Dcity.html)] [[More](https://github.com/tudelft3d/Random3Dcity)] 
 
-  
