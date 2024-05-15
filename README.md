@@ -106,11 +106,11 @@ Follow the tags to discover what is inside the dataset!
 
 ## Belgium
 
-- **Brussels** various datasets not only in CityGML standard
+- **Brussels** :large_orange_diamond: various datasets as SketchUp (previously CityGML available)
 
 [🏠] [2️⃣] 
 
-[[Download](https://datastore.brussels/web/urbis-download)] [[More](https://urbisdownload-backend.datastore.brussels/rest/documentation?language=EN)] 
+[[Download](https://datastore.brussels/web/urbis-download)] [[More](https://urbisdownload-backend.datastore.brussels/rest/documentation?language=EN)] [[More2](https://medium.com/@timdecraecker/creating-a-city-landscape-in-blender-3d-a06015eb0a1b)]
 
 - **Namur** textured LoD2 buildings and examples of [[citadel and bridges](https://data.namur.be/explore/dataset/namur-3d-citadelle-et-ponts/table/)]  for city of Namur in CityGML and Skp format
 
