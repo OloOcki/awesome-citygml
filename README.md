@@ -13,9 +13,9 @@ If you use this repo please considering linking it or citing:
 
 # Stats
 
-Last update: 20/03/2024
+Last update: 15/05/2024
 
-2️⃣1️⃣ countries + 1️⃣ artificial! **||** 5️⃣8️⃣ regions/cities + 1️⃣ artificial! 
+2️⃣1️⃣ countries + 1️⃣ artificial! **||** 5️⃣9️⃣ regions/cities + 1️⃣ artificial! 
 
 # Tags
 
@@ -148,6 +148,13 @@ Follow the tags to discover what is inside the dataset!
 [[Download](https://github.com/AICyberTeam/GABLE)] [[More](https://www.sciencedirect.com/science/article/pii/S0034425724000683)] 
 
 ## Czechia
+
+- **Brno** :large_orange_diamond: LoD1, roof models, and bridges in SHP and DWG
+
+[🏠][1️⃣][⛲]
+
+[[Download](https://data.gov.cz/datasets?query=3D%20brno)] [[More](https://data.gov.cz/datasets?query=3D%20brno)]
+
 
 - **Prague** LoD2 building models, bridges, and DEM 1m model of the whole city and its vicinity
 
