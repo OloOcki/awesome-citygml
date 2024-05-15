@@ -15,7 +15,7 @@ If you use this repo please considering linking it or citing:
 
 Last update: 20/03/2024
 
-2️⃣1️⃣ countries + 1️⃣ artificial! **||** 5️⃣7️⃣ regions/cities + 1️⃣ artificial! 
+2️⃣1️⃣ countries + 1️⃣ artificial! **||** 5️⃣8️⃣ regions/cities + 1️⃣ artificial! 
 
 # Tags
 
@@ -227,6 +227,13 @@ https://data.grandlyon.com/jeux-de-donnees/maquettes-3d-texturees-2018-communes-
 [🏠][1️⃣][2️⃣][🗻]
 
 [[Download LoD1](https://data.geobasis-bb.de/geobasis/daten/3d_gebaeude/lod1_gml/)] [[Download LoD2](https://data.geobasis-bb.de/geobasis/daten/3d_gebaeude/lod2_gml/)] [[More](https://data.geobasis-bb.de/geobasis/daten/)]
+
+- **Bremen** LoD1 and LoD2 models of the city of Bremen (from 9th of June '24)
+
+[1️⃣][2️⃣]
+
+[[Download](https://www.geo.bremen.de/produkte/3d-produkte/3d-gebaeudemodelle-11892)] [[More](https://www.geo.bremen.de/produkte/3d-produkte/3d-gebaeudemodelle-11892)]
+
 
 - **Freiburg** 3D building model of the entire City of Freiburg
 
