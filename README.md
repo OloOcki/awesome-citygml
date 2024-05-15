@@ -120,7 +120,7 @@ Follow the tags to discover what is inside the dataset!
 
 ## Canada
 
-- **Calgary** LoD2 building models in as CAD and GDB files
+- **Calgary** :large_orange_diamond: LoD2 building models in as CAD and GDB files
 
 [🏠][2️⃣] 
 
