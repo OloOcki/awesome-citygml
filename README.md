@@ -166,7 +166,7 @@ Follow the tags to discover what is inside the dataset!
 
 - **Estonia** building models in LoD1 and LoD2 in various formats as well as DTM and DSM
 
-[🗻] [🏠] [🎇] [1️⃣] [2️⃣] 
+[🗻] [🏠] [🚗] [🎇] [1️⃣] [2️⃣] 
 
 
 [[Download](https://geoportaal.maaamet.ee/eng/Download-3D-data-p837.html)] [[More](https://geoportaal.maaamet.ee/eng/Spatial-Data/Geo3D/3D-Data-p836.html)] 
@@ -326,14 +326,6 @@ https://data.grandlyon.com/jeux-de-donnees/maquettes-3d-texturees-2018-communes-
 https://geoportal5.geoportal-th.de/wega-3d/)] [[More](https://www.geoportal-th.de/de-de/Themen/3D)]
 
 
-## Japan
-
-- **Japan** the PLATEAU project encompassing multiple cities and prefectures in Japan, 3D building models in LoD1 and 2, roads and planning areas. On the way to twin the whole Japan (56 cities right now, such as: Tokyo, Sapporo, Shirakawa, Hokota, Iwaki, Kiryu, Koriyama, Utsunomiya)
-[🏠][🚗][1️⃣][2️⃣][🗻][🎇]
-
-[[Download](https://www.geospatial.jp/ckan/dataset/plateau-08234-hokota-shi-2020)] [[Metadata](https://gic-plateau.s3.ap-northeast-1.amazonaws.com/2020/attributedata.xlsx)][[More](https://www.geospatial.jp/ckan/dataset/plateau)]
-
-
 ## Ireland
 
 - **Dublin** :large_orange_diamond: 500 x 500 meters of Dublin in CAD (AutoCad DWG, FBX and SKP)
@@ -341,6 +333,14 @@ https://geoportal5.geoportal-th.de/wega-3d/)] [[More](https://www.geoportal-th.d
 [🏠][2️⃣][🚗]
 
 [[Download](https://poly.google.com/view/1H7Ew3x32sC)] [[Visualisation](https://poly.google.com/view/1H7Ew3x32sC)] [[More](https://www.accucities.com/product/free-3d-dublin-city-model-sample/)] 
+
+
+## Japan
+
+- **Japan** the PLATEAU project encompassing multiple cities and prefectures in Japan, 3D building models in LoD1 and 2, roads and planning areas. On the way to twin the whole Japan (56 cities right now, such as: Tokyo, Sapporo, Shirakawa, Hokota, Iwaki, Kiryu, Koriyama, Utsunomiya)
+[🏠][🚗][1️⃣][2️⃣][🗻][🎇]
+
+[[Download](https://www.geospatial.jp/ckan/dataset/plateau-08234-hokota-shi-2020)] [[Metadata](https://gic-plateau.s3.ap-northeast-1.amazonaws.com/2020/attributedata.xlsx)][[More](https://www.geospatial.jp/ckan/dataset/plateau)]
 
 ## Latvia
 
