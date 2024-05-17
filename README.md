@@ -344,11 +344,11 @@ https://geoportal5.geoportal-th.de/wega-3d/)] [[More](https://geoportal.thuering
 
 ## Latvia
 
-- **Riga** LoD1 and LoD2 buildings available as SketchUp, OBJ, 3DS, GDB, and CityGML datasets. Additionally, tree models and meshes avaialbe in the viewer.
+- **Riga** LoD1 and LoD2 buildings available as SketchUp, OBJ, 3DS, GDB, and CityGML datasets. Additionally, tree models, meshes, and annotated point clouds avaialbe in the viewer.
 
 [🏠][1️⃣][2️⃣]
 
-[[Download](https://georiga.eu/en/atvertie-dati/lod2/)]  [[Visualisation](https://experience.arcgis.com/experience/1525b7aa346342e6bbcffd99bc96a734)] [[More](https://georiga.eu/en/3d-riga/)] 
+[[Download](https://georiga.eu/en/atvertie-dati/lod2/)]  [[Visualisation](https://experience.arcgis.com/experience/1525b7aa346342e6bbcffd99bc96a734)] [[More](https://georiga.eu/en/3d-riga/)][[pointClouds](https://experience.arcgis.com/experience/d9863aca5f854b89a6844e3cbdbc6df6?locale=lv)]
 
 
 ## Liechtenstein
