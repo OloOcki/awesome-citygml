@@ -385,7 +385,7 @@ https://map.geoportail.lu/theme/main?version=3&zoom=17.77189888003778&X=685434&Y
 
 - **Netherlands, sewer systems** for 170 out of 344 municipalities and 12 out of 21 water boards available in various formats CityGML, GeoPackage, and GML. 
 
-[:fountain:] [🔢]
+[⛲] [🔢]
 
 [[Download](https://apps.gwsw.nl/item_geo?dataset=Delft)] [[More](https://apps.gwsw.nl/)] 
 
