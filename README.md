@@ -310,7 +310,7 @@ https://data.grandlyon.com/jeux-de-donnees/maquettes-3d-texturees-2018-communes-
 
 [🏠][1️⃣][2️⃣][🗻]
 
-[[Download](https://www.lvermgeo.sachsen-anhalt.de/de/kostenfreie_geobasisdaten_lvermgeo.html)] [[More](https://www.lvermgeo.sachsen-anhalt.de/de/kostenfreie_geobasisdaten_lvermgeo.html)]
+[[Download LoD1](https://www.lvermgeo.sachsen-anhalt.de/de/gdp-download-lod1.html)] [[Download LoD2](https://www.lvermgeo.sachsen-anhalt.de/de/gdp-download-lod2.html)] [[More](https://www.lvermgeo.sachsen-anhalt.de/de/gdp-open-data.html)]
 
 - **Schleswig-Holstein (SH)** various datasets of Schleswig-Holstein including LoD1 and LoD2 building models, DTM1, and DTM5
 
