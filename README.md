@@ -481,7 +481,7 @@ https://map.geoportail.lu/theme/main?version=3&zoom=17.77189888003778&X=685434&Y
 
 [🏠] [🌲] [🗻] [🚦] [🎇] [1️⃣] [2️⃣] [3️⃣]
 
-[[Download](http://sip.poznan.pl/sip/dz/get_budynki/id_rap/101/v_lod3/1)] [[Visualisation](http://sip.poznan.pl/model3d/#/legend)] [[More](http://sip.poznan.pl/sip/)] 
+[[Download](http://sip.poznan.pl/sip/dz/get_budynki/id_rap/101/v_lod3/1)] [[Visualisation](http://sip.poznan.pl/model3d/#/legend)] [[More](http://sip.poznan.pl/sip/)] [[TLSpointClouds](https://sip.poznan.pl/sip/zielen2/pcl)]
 
 
 ## Singapore
