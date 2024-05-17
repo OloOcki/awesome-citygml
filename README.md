@@ -166,7 +166,7 @@ Follow the tags to discover what is inside the dataset!
 
 - **Estonia** building models in LoD1 and LoD2 in various formats as well as DTM and DSM
 
-[🗻] [🏠] [🎇] [1️⃣] [2️⃣] 
+[🗻] [🏠] [🚗] [🎇] [1️⃣] [2️⃣] 
 
 
 [[Download](https://geoportaal.maaamet.ee/eng/Download-3D-data-p837.html)] [[More](https://geoportaal.maaamet.ee/eng/Spatial-Data/Geo3D/3D-Data-p836.html)] 
@@ -246,7 +246,7 @@ https://data.grandlyon.com/jeux-de-donnees/maquettes-3d-texturees-2018-communes-
 
 [🏠][1️⃣][2️⃣]
 
-[[Download LoD1](https://www.govdata.de/web/guest/daten/-/details/3d-stadtmodell-freiburg-lod1)] [[Download LoD2](https://www.govdata.de/daten/-/details/3d-stadtmodell-freiburg-lod2)][[Visualisation](https://3d.freiburg.de/#/)] [[More](https://metadaten.geoportal-bw.de/geonetwork/srv/api/records/164ceef4-6c67-4763-8100-c5799a2ea6d8)]
+[[Download LoD1](https://www.govdata.de/web/guest/daten/-/details/3d-stadtmodell-freiburg-i-br-lod16c0f8)] [[Download LoD2](https://www.govdata.de/web/guest/daten/-/details/3d-stadtmodell-freiburg-i-br-lod2b5e02)][[Visualisation](https://3d.freiburg.de/#/)] [[More](https://metadaten.geoportal-bw.de/geonetwork/srv/api/records/164ceef4-6c67-4763-8100-c5799a2ea6d8)]
 
 
 - **Hamburg** 3D models of the city of Hamburg in LoD1 & LoD2. Extended by LoD2 manually improved roof types and texturized.
@@ -304,13 +304,13 @@ https://data.grandlyon.com/jeux-de-donnees/maquettes-3d-texturees-2018-communes-
 
 [🏠][1️⃣][2️⃣][🗻]
 
-[[Download LoD1](https://www.geodaten.sachsen.de/downloadbereich-3d-stadtmodell-lod1-4642.html)] [[Download LoD2](https://www.geodaten.sachsen.de/downloadbereich-3d-stadtmodell-lod2-4644.html)] [[More](https://www.geodaten.sachsen.de/digitale-hoehenmodelle-3994.html)]
+[[Download](https://www.geodaten.sachsen.de/downloadbereich-digitale-3d-stadtmodelle-4875.html)] [[More](https://www.geodaten.sachsen.de/digitale-hoehenmodelle-3994.html)]
 
 - **Sachsen-Anhalt** various datasets of Saxony including LoD1 and LoD2 building models, DSM2, and DEM2 
 
 [🏠][1️⃣][2️⃣][🗻]
 
-[[Download](https://www.lvermgeo.sachsen-anhalt.de/de/kostenfreie_geobasisdaten_lvermgeo.html)] [[More](https://www.lvermgeo.sachsen-anhalt.de/de/kostenfreie_geobasisdaten_lvermgeo.html)]
+[[Download LoD1](https://www.lvermgeo.sachsen-anhalt.de/de/gdp-download-lod1.html)] [[Download LoD2](https://www.lvermgeo.sachsen-anhalt.de/de/gdp-download-lod2.html)] [[More](https://www.lvermgeo.sachsen-anhalt.de/de/gdp-open-data.html)]
 
 - **Schleswig-Holstein (SH)** various datasets of Schleswig-Holstein including LoD1 and LoD2 building models, DTM1, and DTM5
 
@@ -322,16 +322,8 @@ https://data.grandlyon.com/jeux-de-donnees/maquettes-3d-texturees-2018-communes-
 
 [🏠][1️⃣][2️⃣]
 
-[[Download](https://www.geoportal-th.de/de-de/downloadbereiche/downloadoffenegeodatenth%C3%BCringen/download3dgeb%C3%A4ude.aspx)] [[Visualisation](
-https://geoportal5.geoportal-th.de/wega-3d/)] [[More](https://www.geoportal-th.de/de-de/Themen/3D)]
-
-
-## Japan
-
-- **Japan** the PLATEAU project encompassing multiple cities and prefectures in Japan, 3D building models in LoD1 and 2, roads and planning areas. On the way to twin the whole Japan (56 cities right now, such as: Tokyo, Sapporo, Shirakawa, Hokota, Iwaki, Kiryu, Koriyama, Utsunomiya)
-[🏠][🚗][1️⃣][2️⃣][🗻][🎇]
-
-[[Download](https://www.geospatial.jp/ckan/dataset/plateau-08234-hokota-shi-2020)] [[Metadata](https://gic-plateau.s3.ap-northeast-1.amazonaws.com/2020/attributedata.xlsx)][[More](https://www.geospatial.jp/ckan/dataset/plateau)]
+[[Download](https://geoportal.thueringen.de/gdi-th/download-offene-geodaten/download-3d-gebaeudedaten)] [[Visualisation](
+https://geoportal5.geoportal-th.de/wega-3d/)] [[More](https://geoportal.thueringen.de/themen/3d)]
 
 
 ## Ireland
@@ -341,6 +333,14 @@ https://geoportal5.geoportal-th.de/wega-3d/)] [[More](https://www.geoportal-th.d
 [🏠][2️⃣][🚗]
 
 [[Download](https://poly.google.com/view/1H7Ew3x32sC)] [[Visualisation](https://poly.google.com/view/1H7Ew3x32sC)] [[More](https://www.accucities.com/product/free-3d-dublin-city-model-sample/)] 
+
+
+## Japan
+
+- **Japan** the PLATEAU project encompassing multiple cities and prefectures in Japan, 3D building models in LoD1 and 2, roads and planning areas. On the way to twin the whole Japan (56 cities right now, such as: Tokyo, Sapporo, Shirakawa, Hokota, Iwaki, Kiryu, Koriyama, Utsunomiya)
+[🏠][🚗][1️⃣][2️⃣][🗻][🎇]
+
+[[Download](https://www.geospatial.jp/ckan/dataset/plateau-08234-hokota-shi-2020)] [[Metadata](https://gic-plateau.s3.ap-northeast-1.amazonaws.com/2020/attributedata.xlsx)][[More](https://www.geospatial.jp/ckan/dataset/plateau)]
 
 ## Latvia
 
