@@ -304,7 +304,7 @@ https://data.grandlyon.com/jeux-de-donnees/maquettes-3d-texturees-2018-communes-
 
 [🏠][1️⃣][2️⃣][🗻]
 
-[[Download LoD1](https://www.geodaten.sachsen.de/downloadbereich-3d-stadtmodell-lod1-4642.html)] [[Download LoD2](https://www.geodaten.sachsen.de/downloadbereich-3d-stadtmodell-lod2-4644.html)] [[More](https://www.geodaten.sachsen.de/digitale-hoehenmodelle-3994.html)]
+[[Download](https://www.geodaten.sachsen.de/downloadbereich-digitale-3d-stadtmodelle-4875.html)] [[More](https://www.geodaten.sachsen.de/digitale-hoehenmodelle-3994.html)]
 
 - **Sachsen-Anhalt** various datasets of Saxony including LoD1 and LoD2 building models, DSM2, and DEM2 
 
