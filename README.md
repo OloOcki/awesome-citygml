@@ -322,8 +322,8 @@ https://data.grandlyon.com/jeux-de-donnees/maquettes-3d-texturees-2018-communes-
 
 [🏠][1️⃣][2️⃣]
 
-[[Download](https://www.geoportal-th.de/de-de/downloadbereiche/downloadoffenegeodatenth%C3%BCringen/download3dgeb%C3%A4ude.aspx)] [[Visualisation](
-https://geoportal5.geoportal-th.de/wega-3d/)] [[More](https://www.geoportal-th.de/de-de/Themen/3D)]
+[[Download](https://geoportal.thueringen.de/gdi-th/download-offene-geodaten/download-3d-gebaeudedaten)] [[Visualisation](
+https://geoportal5.geoportal-th.de/wega-3d/)] [[More](https://geoportal.thueringen.de/themen/3d)]
 
 
 ## Ireland
