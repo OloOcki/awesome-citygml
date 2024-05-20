@@ -338,17 +338,19 @@ https://geoportal5.geoportal-th.de/wega-3d/)] [[More](https://geoportal.thuering
 ## Japan
 
 - **Japan** the PLATEAU project encompassing multiple cities and prefectures in Japan, 3D building models in LoD1 and 2, roads and planning areas. On the way to twin the whole Japan (around 210 cities, towns, and wards right now, such as: Tokyo, Sapporo, Shirakawa, Hokota, Iwaki, Kiryu, Koriyama, Utsunomiya)
+
 [🏠][🚗][1️⃣][2️⃣][🗻][🎇][⌛]
 
 [[Download](https://www.geospatial.jp/ckan/dataset/plateau)] [[Download (english)](https://www-geospatial-jp.translate.goog/ckan/dataset/plateau?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp)] [[Metadata](https://gic-plateau.s3.ap-northeast-1.amazonaws.com/2020/attributedata.xlsx)] [[Additional Demo by TUM](https://collab.dvb.bayern/display/TUMgisproject/Semantic+3D+City+Model+of+Tokyo)]
 
 ## Latvia
 
-- **Riga** LoD1 and LoD2 buildings available as SketchUp, OBJ, 3DS, GDB, and CityGML datasets. Additionally, tree models and meshes available in the viewer.
+
+- **Riga** LoD1 and LoD2 buildings available as SketchUp, OBJ, 3DS, GDB, and CityGML datasets. Additionally, tree models, meshes, and annotated point clouds avaialbe in the viewer.
 
 [🏠][1️⃣][2️⃣]
 
-[[Download](https://georiga.eu/en/atvertie-dati/lod2/)]  [[Visualisation](https://experience.arcgis.com/experience/1525b7aa346342e6bbcffd99bc96a734)] [[More](https://georiga.eu/en/3d-riga/)] 
+[[Download](https://georiga.eu/en/atvertie-dati/lod2/)]  [[Visualisation](https://experience.arcgis.com/experience/1525b7aa346342e6bbcffd99bc96a734)] [[More](https://georiga.eu/en/3d-riga/)][[pointClouds](https://experience.arcgis.com/experience/d9863aca5f854b89a6844e3cbdbc6df6?locale=lv)]
 
 
 ## Liechtenstein
@@ -481,7 +483,7 @@ https://map.geoportail.lu/theme/main?version=3&zoom=17.77189888003778&X=685434&Y
 
 [🏠] [🌲] [🗻] [🚦] [🎇] [1️⃣] [2️⃣] [3️⃣]
 
-[[Download](http://sip.poznan.pl/sip/dz/get_budynki/id_rap/101/v_lod3/1)] [[Visualisation](http://sip.poznan.pl/model3d/#/legend)] [[More](http://sip.poznan.pl/sip/)] 
+[[Download](http://sip.poznan.pl/sip/dz/get_budynki/id_rap/101/v_lod3/1)] [[Visualisation](http://sip.poznan.pl/model3d/#/legend)] [[More](http://sip.poznan.pl/sip/)] [[TLSpointClouds](https://sip.poznan.pl/sip/zielen2/pcl)]
 
 
 ## Singapore
