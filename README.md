@@ -84,7 +84,7 @@ Follow the tags to discover what is inside the dataset!
 
 [🏠] [🎇] [1️⃣] [2️⃣] [🔢]
 
-[[Download](https://www.land.vic.gov.au/maps-and-spatial/spatial-data/vicmap-catalogue/vicmap-buildings)] [[Visualisation](https://vic.digitaltwin.terria.io/#share=s-nM5NdVNTjXBNrKqSqpK5NNnKuyi)] [[More](https://www.land.vic.gov.au/maps-and-spatial/spatial-data/vicmap-catalogue/vicmap-buildings)] 
+[[Download](https://www.land.vic.gov.au/maps-and-spatial/spatial-data/vicmap-catalogue/vicmap-buildings)] [[Visualisation](https://vic.digitaltwin.terria.io/#share=s-nM5NdVNTjXBNrKqSqpK5NNnKuyi)] [[More](https://www.land.vic.gov.au/maps-and-spatial/spatial-data/vicmap-catalogue/vicmap-buildings)][[Point cloud](https://www.land.vic.gov.au/maps-and-spatial/spatial-data/vicmap-catalogue/vicmap-elevation)] 
 
 
 ## Austria
