@@ -477,7 +477,7 @@ https://map.geoportail.lu/theme/main?version=3&zoom=17.77189888003778&X=685434&Y
 
 [🏠] [1️⃣] [2️⃣]
 
-[[Download](https://mapy.geoportal.gov.pl/imap/Imgp_2.html?gpmap=gp0)] [[Visualisation](https://mapy.geoportal.gov.pl/imap/Imgp_2.html?gpmap=imap3d)] [[More](http://www.gugik.gov.pl/aktualnosci/2020/22.07.2019-wszystkie-modele-budynkow-3d-w-standardzie-lod1-opublikowane)] 
+[[Download](https://mapy.geoportal.gov.pl/imap/Imgp_2.html?gpmap=gp0)] [[Visualisation](https://mapy.geoportal.gov.pl/imap/Imgp_2.html?gpmap=imap3d)] [[More](http://www.gugik.gov.pl/aktualnosci/2020/22.07.2019-wszystkie-modele-budynkow-3d-w-standardzie-lod1-opublikowane)] [[More2](http://www.gugik.gov.pl/__data/assets/pdf_file/0007/89242/SIWZ.pdf)][[More3](https://docplayer.pl/132658493-Dane-i-e-uslugi-3d-w-projekcie-capap.html)]
 
 - **Poznan** City of Poznan with various semantic datasets. Download using the map (use Widget menu -> Export widget) or on website (only for buildings)
 
