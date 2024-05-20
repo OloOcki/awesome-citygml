@@ -130,7 +130,7 @@ Follow the tags to discover what is inside the dataset!
 
 [🗻] [🏠] [🎇] [2️⃣] 
 
-[[Download](https://donnees.montreal.ca/ville-de-montreal/maquette-numerique-plateau-mont-royal-batiments-lod2-avec-textures)] [[More](https://open.canada.ca/data/en/dataset/58dd9b17-8242-4013-bf9d-0c8d3d93f081)] 
+[[Download](https://donnees.montreal.ca/ville-de-montreal/maquette-numerique-plateau-mont-royal-batiments-lod2-avec-textures)] [[Visualisation](https://transfer.hft-stuttgart.de/pages/montreal-citygml/web3Dviewer/)] [[More](https://open.canada.ca/data/en/dataset/58dd9b17-8242-4013-bf9d-0c8d3d93f081)] 
 
 - **Toronto** building models in various formats
 
@@ -495,7 +495,7 @@ https://map.geoportail.lu/theme/main?version=3&zoom=17.77189888003778&X=685434&Y
 
 ## Switzerland
 
-- **Switzerland** buildings for the whole Switzerland in LoD2 in various formats. Also DEM available and other 3D related features (see More)
+- **Switzerland** :large_orange_diamond: buildings for the whole Switzerland in LoD2 in various formats (CityGML only available for a fee). Also DEM available and other 3D related features (see More)
 
 [🏠][2️⃣]
 
