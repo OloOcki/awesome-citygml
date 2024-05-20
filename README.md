@@ -316,7 +316,7 @@ https://data.grandlyon.com/jeux-de-donnees/maquettes-3d-texturees-2018-communes-
 
 [🏠][1️⃣][2️⃣]
 
-[[Download LoD1](https://geodaten.schleswig-holstein.de/gaialight-sh/_apps/dladownload/dl-lod1.html)] [[Dowlonad LOD2](https://geodaten.schleswig-holstein.de/gaialight-sh/_apps/dladownload/dl-lod2.html)] [[More](https://geodaten.schleswig-holstein.de/gaialight-sh/_apps/dladownload/index.php)]
+[[Download LoD1](https://geodaten.schleswig-holstein.de/gaialight-sh/_apps/dladownload/dl-lod1.html)] [[Download LOD2](https://geodaten.schleswig-holstein.de/gaialight-sh/_apps/dladownload/dl-lod2.html)] [[More](https://geodaten.schleswig-holstein.de/gaialight-sh/_apps/dladownload/index.php)]
 
 - **Thüringen** 3D building models of the complete state of Thuringia in LoD1 as well as LoD2
 
@@ -337,12 +337,14 @@ https://geoportal5.geoportal-th.de/wega-3d/)] [[More](https://geoportal.thuering
 
 ## Japan
 
-- **Japan** the PLATEAU project encompassing multiple cities and prefectures in Japan, 3D building models in LoD1 and 2, roads and planning areas. On the way to twin the whole Japan (56 cities right now, such as: Tokyo, Sapporo, Shirakawa, Hokota, Iwaki, Kiryu, Koriyama, Utsunomiya)
-[🏠][🚗][1️⃣][2️⃣][🗻][🎇]
+- **Japan** the PLATEAU project encompassing multiple cities and prefectures in Japan, 3D building models in LoD1 and 2, roads and planning areas. On the way to twin the whole Japan (around 210 cities, towns, and wards right now, such as: Tokyo, Sapporo, Shirakawa, Hokota, Iwaki, Kiryu, Koriyama, Utsunomiya)
 
-[[Download](https://www.geospatial.jp/ckan/dataset/plateau-08234-hokota-shi-2020)] [[Metadata](https://gic-plateau.s3.ap-northeast-1.amazonaws.com/2020/attributedata.xlsx)][[More](https://www.geospatial.jp/ckan/dataset/plateau)]
+[🏠][🚗][1️⃣][2️⃣][🗻][🎇][⌛]
+
+[[Download](https://www.geospatial.jp/ckan/dataset/plateau)] [[Download (english)](https://www-geospatial-jp.translate.goog/ckan/dataset/plateau?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp)] [[Metadata](https://gic-plateau.s3.ap-northeast-1.amazonaws.com/2020/attributedata.xlsx)] [[Additional Demo by TUM](https://collab.dvb.bayern/display/TUMgisproject/Semantic+3D+City+Model+of+Tokyo)]
 
 ## Latvia
+
 
 - **Riga** LoD1 and LoD2 buildings available as SketchUp, OBJ, 3DS, GDB, and CityGML datasets. Additionally, tree models, meshes, and annotated point clouds avaialbe in the viewer.
 
@@ -385,7 +387,7 @@ https://map.geoportail.lu/theme/main?version=3&zoom=17.77189888003778&X=685434&Y
 
 - **Netherlands, sewer systems** for 170 out of 344 municipalities and 12 out of 21 water boards available in various formats CityGML, GeoPackage, and GML. 
 
-[:fountain:] [🔢]
+[⛲] [🔢]
 
 [[Download](https://apps.gwsw.nl/item_geo?dataset=Delft)] [[More](https://apps.gwsw.nl/)] 
 
