@@ -509,7 +509,7 @@ https://map.geoportail.lu/theme/main?version=3&zoom=17.77189888003778&X=685434&Y
 [🏠] [1️⃣] [2️⃣]
 
 
-[[Download](https://data.stadt-zuerich.ch/dataset?q=&tags=3d-stadtmodell)] [[More](https://www.stadt-zuerich.ch/geodaten/)] 
+[[Download](https://data.stadt-zuerich.ch/dataset?q=&tags=3d-stadtmodell)] [[Visualisation](https://3d.stzh.ch/appl/3d/zuerichvirtuell/)] [[More](https://www.stadt-zuerich.ch/geodaten/)] 
 
 
 ## ArtificialCities
