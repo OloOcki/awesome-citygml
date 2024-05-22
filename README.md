@@ -132,7 +132,7 @@ Follow the tags to discover what is inside the dataset!
 
 [[Download](https://donnees.montreal.ca/ville-de-montreal/maquette-numerique-plateau-mont-royal-batiments-lod2-avec-textures)] [[Visualisation](https://transfer.hft-stuttgart.de/pages/montreal-citygml/web3Dviewer/)] [[More](https://open.canada.ca/data/en/dataset/58dd9b17-8242-4013-bf9d-0c8d3d93f081)] 
 
-- **Toronto** building models in various formats
+- **Toronto** :large_orange_diamond: building models in various formats
 
 [🏠][1️⃣] 
 
