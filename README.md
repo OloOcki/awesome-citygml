@@ -249,9 +249,9 @@ https://data.grandlyon.com/jeux-de-donnees/maquettes-3d-texturees-2018-communes-
 [[Download LoD1](https://www.govdata.de/web/guest/daten/-/details/3d-stadtmodell-freiburg-i-br-lod16c0f8)] [[Download LoD2](https://www.govdata.de/web/guest/daten/-/details/3d-stadtmodell-freiburg-i-br-lod2b5e02)][[Visualisation](https://3d.freiburg.de/#/)] [[More](https://metadaten.geoportal-bw.de/geonetwork/srv/api/records/164ceef4-6c67-4763-8100-c5799a2ea6d8)]
 
 
-- **Hamburg** 3D models of the city of Hamburg in LoD1 & LoD2. Extended by LoD2 manually improved roof types and texturized.
+- **Hamburg** 3D models of the city of Hamburg in LoD1 & LoD2 over multiple years. Extended by LoD2 manually improved roof types and texturized.
 
-[🏠][🎇][1️⃣][2️⃣]
+[🏠][🎇][1️⃣][2️⃣][⌛]
 
 [[Download](https://suche.transparenz.hamburg.de/dataset/3d-stadtmodell-lod2-de-hamburg2)] [[Download detailed LoD2](https://metaver.de/trefferanzeige?docuuid=B438AD57-223B-43A4-8E74-767CEC8A96D7)] [[Visualisation](https://geoportal-hamburg.de/geo-online/)] [[More](http://transparenz.hamburg.de/das-transparenzportal/)]
 
