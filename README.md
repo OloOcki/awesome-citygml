@@ -217,6 +217,12 @@ https://data.grandlyon.com/jeux-de-donnees/maquettes-3d-texturees-2018-communes-
 
 ## Germany
 
+- **Baden-Württemberg** the complete state of Baden-Württemberg in LoD1 and LoD2, also including orthopohotos and DEM1
+
+[🏠][1️⃣][2️⃣][🗻]
+
+[[Download LoD1](https://opengeodata.lgl-bw.de/#/(sidenav:product/13)))] [[Download LoD2](https://opengeodata.lgl-bw.de/#/(sidenav:product/12))] [[More](https://www.lgl-bw.de/Produkte/Open-Data/)]
+
 - **Bavaria** the complete state of Bavaria in LoD2, also including orthopohotos and DEM1
 
 [🏠][2️⃣][🗻]
