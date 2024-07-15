@@ -288,6 +288,12 @@ https://data.grandlyon.com/jeux-de-donnees/maquettes-3d-texturees-2018-communes-
 
 [[Download](https://github.com/tum-gis/tum2twin)]
 
+- **Mecklenburg-Vorpommern** Various datasets of Mecklenburg-Vorpommern including LoD2 building models
+
+[🏠][2️⃣][🗻]
+
+[[Download](https://www.geodaten-mv.de/dienste/gebaeude_atom?type=dataset&amp;id=8397b554-5cb9-4274-8be8-c20490d9a6e8)] [[More](https://www.laiv-mv.de/Geoinformation/Geobasisdaten/)]
+
 - **Niedersachsen** LoD1 and LoD2 building models of Lower Saxony including orthoimages and more
 
 [🏠][1️⃣][2️⃣]
@@ -305,6 +311,12 @@ https://data.grandlyon.com/jeux-de-donnees/maquettes-3d-texturees-2018-communes-
 [🏠][2️⃣]
 
 [[Download](https://potsdam.opendatasoft.com/explore/dataset/3d-gebaudemodell-lod2-citygml/information/)]  [[More](https://potsdam.opendatasoft.com/explore/dataset/3d-gebaudemodell-lod2-citygml/information/)]
+
+- **Rheinland-Pfalz** various datasets of Rhineland-Palatinate including LoD2 building models
+
+[🏠][2️⃣][🗻]
+
+[[Download](https://geobasis-rlp.de/data/geb3dlo/current/gml/)] [[More](https://geobasis-rlp.de/data/)]
 
 - **Sachsen** various datasets of Saxony including LoD1 and LoD2 building models
 
