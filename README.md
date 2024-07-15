@@ -13,9 +13,9 @@ If you use this repo please considering linking it or citing:
 
 # Stats
 
-Last update: 13/06/2024
+Last update: 15/07/2024
 
-2️⃣1️⃣ countries + 1️⃣ artificial! **||** 6️⃣0️⃣ regions/cities + 1️⃣ artificial! 
+2️⃣1️⃣ countries + 1️⃣ artificial! **||** 6️⃣2️⃣ regions/cities + 1️⃣ artificial! 
 
 # Tags
 
