@@ -515,11 +515,11 @@ https://map.geoportail.lu/theme/main?version=3&zoom=17.77189888003778&X=685434&Y
 
 ## Switzerland
 
-- **Switzerland** :large_orange_diamond: buildings for the whole Switzerland in LoD2 in various formats (CityGML only available for a fee). Also DEM available and other 3D related features (see More)
+- **Switzerland** :large_orange_diamond: buildings for the whole Switzerland in LoD2 in various formats (CityGML available for a fee in swissBUILDINGS 2.0; and at no cost in swissBUILDINGS 3.0, whereby only several regions available). Also DEM available and other 3D related features (see More)
 
 [🏠][2️⃣]
 
-[[Download](https://www.swisstopo.admin.ch/en/geodata/landscape/buildings3d2.html#technische_details)] [[Visualisation](https://map.geo.admin.ch/?lang=en&topic=ech&bgLayer=ch.swisstopo.pixelkarte-farbe&layers=ch.swisstopo.swissnames3d&lon=7.43291&lat=46.93555&elevation=1494&heading=360.000&pitch=-39.803)] [[More](https://www.swisstopo.admin.ch/en/geodata/landscape.html)]
+[[Download ver 2.0](https://www.swisstopo.admin.ch/en/geodata/landscape/buildings3d2.html#technische_details)] [Download ver 3.0](https://www.swisstopo.admin.ch/de/landschaftmodell-swissbuildings3d-3-0-beta#swissBUILDINGS3D-3.0-Beta---Download)]  [[Visualisation](https://map.geo.admin.ch/?lang=en&topic=ech&bgLayer=ch.swisstopo.pixelkarte-farbe&layers=ch.swisstopo.swissnames3d&lon=7.43291&lat=46.93555&elevation=1494&heading=360.000&pitch=-39.803)] [[More](https://www.swisstopo.admin.ch/en/geodata/landscape.html)]
 
 
 - **Zurich** buildings available for the city of Zurich
