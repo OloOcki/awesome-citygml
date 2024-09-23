@@ -286,7 +286,7 @@ https://data.grandlyon.com/jeux-de-donnees/maquettes-3d-texturees-2018-communes-
 
 [🏠][🎇][2️⃣]
 
-[[Download LoD2](https://opendata.leipzig.de/dataset/3d-stadtmodell)][[Download mesh](https://www.businesslocationcenter.de/berlin3d-downloadportal/?lang=en#/export)] [[Visualisation](https://geoportal.leipzig.de/arcgis/apps/webappviewer3d/index.html?id=636b96152aac4769b6cf316312f3bf70)] [[More](https://www.leipzig.de/bauen-und-wohnen/bauen/geodaten-und-karten/3d-stadtmodell)]
+[[Download LoD2](https://opendata.leipzig.de/dataset/3d-stadtmodell)] [[Visualisation](https://geoportal.leipzig.de/arcgis/apps/webappviewer3d/index.html?id=636b96152aac4769b6cf316312f3bf70)] [[More](https://www.leipzig.de/bauen-und-wohnen/bauen/geodaten-und-karten/3d-stadtmodell)]
 
 
 - **Technical University of Munich (tum2twin)** LoD3 and textured LoD2 building models of the TUM in Munich
