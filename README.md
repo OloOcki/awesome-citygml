@@ -27,6 +27,8 @@ Last update: 19/08/2024
 
 2️⃣1️⃣ countries + 1️⃣ artificial! **||** 6️⃣3️⃣ regions/cities + 1️⃣ artificial! 
 
+More than 2️⃣1️⃣5️⃣ mln buildings freely available - see more details in the [paper](https://isprs-archives.copernicus.org/articles/XLVIII-4-2024/493/2024/)!
+
 # Tags
 
 Follow the tags to discover what is inside the dataset!
