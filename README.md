@@ -557,3 +557,8 @@ https://map.geoportail.lu/theme/main?version=3&zoom=17.77189888003778&X=685434&Y
 
 [[Download](https://filipbiljecki.com/code/Random3Dcity.html)] [[More](https://github.com/tudelft3d/Random3Dcity)] 
 
+- **SamplyCity** : “Simple samples of CityGML 3.0 in the name of simplicity”. Designed as a useful and tiny dataset, suitable for development purposes.
+
+[🏠] [🚗] [🌲] [🗻] [0️⃣] [1️⃣] [2️⃣] [3️⃣] 
+
+[[Download](https://github.com/muratkendir/samplycity/releases)][[Documentation](https://muratkendir.github.io/samplycity/building/)] [[GitHub Repository](https://github.com/muratkendir/samplycity)] 
