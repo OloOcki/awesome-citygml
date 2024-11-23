@@ -561,4 +561,4 @@ https://map.geoportail.lu/theme/main?version=3&zoom=17.77189888003778&X=685434&Y
 
 [🏠] [🚗] [🌲] [🗻] [0️⃣] [1️⃣] [2️⃣] [3️⃣] 
 
-[[Download](https://github.com/muratkendir/samplycity/releases)][[Documentation](https://muratkendir.github.io/samplycity/building/)] [[GitHub Repository](https://github.com/muratkendir/samplycity)] 
+[[Download](https://github.com/muratkendir/samplycity/releases)][[Documentation](https://muratkendir.github.io/samplycity/building/)] [[More](https://github.com/muratkendir/samplycity)] 
