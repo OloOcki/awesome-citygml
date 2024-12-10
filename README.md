@@ -25,7 +25,7 @@ If you use this repo please considering linking it or citing the [paper](https:/
 
 Last update: 22/11/2024
 
-2️⃣1️⃣ countries + :two: artificial! **||** 6️⃣3️⃣ regions/cities + :two: artificial! 
+2️⃣1️⃣ countries + :two: artificial! **||** 6️⃣4️⃣ regions/cities + :two: artificial! 
 
 More than 2️⃣1️⃣5️⃣ mln buildings freely available - see more details in the [paper](https://isprs-archives.copernicus.org/articles/XLVIII-4-2024/493/2024/)!
 
@@ -150,6 +150,11 @@ Follow the tags to discover what is inside the dataset!
 
 [[Download](https://open.toronto.ca/dataset/3d-massing/)] [[More](https://open.toronto.ca/dataset/3d-massing/)] 
 
+- **Winnipeg** :large_orange_diamond: around 240 000 LoD1-like building models in the .shp format 
+
+[🏠][1️⃣] 
+
+[[Download](https://object-arbutus.cloud.computecanada.ca/fes_dataShare/buildings_winnipeg_2024/Buildings_UDT_241125.zip)] [More](https://festudio.ca/research/buildings)
 
 ## China
 
