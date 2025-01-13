@@ -23,7 +23,7 @@ If you use this repo please considering linking it or citing the [paper](https:/
 
 # Stats
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOloOcki%2Fawesome-citygml&count_bg=%234993DB&title_bg=%23555555&icon=&icon_color=%23CF1313&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOloOcki%2Fawesome-citygml&count_bg=%234993DB&title_bg=%23555555&icon=&icon_color=%23CF1313&title=hit+count&edge_flat=false)](https://hits.seeyoufarm.com)
 
 Last update: 10/12/2024
 
