@@ -23,11 +23,14 @@ If you use this repo please considering linking it or citing the [paper](https:/
 
 # Stats
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOloOcki%2Fawesome-citygml&count_bg=%234993DB&title_bg=%23555555&icon=&icon_color=%23CF1313&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 Last update: 10/12/2024
 
 2️⃣1️⃣ countries + :two: artificial! **||** 6️⃣4️⃣ regions/cities + :two: artificial! 
 
 More than 2️⃣1️⃣5️⃣ mln buildings freely available - see more details in the [paper](https://isprs-archives.copernicus.org/articles/XLVIII-4-2024/493/2024/)!
+
 
 # Tags
 
