@@ -25,7 +25,7 @@ If you use this repo please considering linking it or citing the [paper](https:/
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOloOcki%2Fawesome-citygml&count_bg=%234993DB&title_bg=%23555555&icon=&icon_color=%23CF1313&title=hit+count&edge_flat=false)](https://hits.seeyoufarm.com) [today / total] (starting from 13.01.25)
 
-Last update: 10/12/2024
+Last update: 29/01/2025
 
 2️⃣1️⃣ countries + :two: artificial! **||** 6️⃣5️⃣ regions/cities + :two: artificial! 
 
