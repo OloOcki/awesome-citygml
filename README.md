@@ -27,7 +27,7 @@ If you use this repo please considering linking it or citing the [paper](https:/
 
 Last update: 10/12/2024
 
-2️⃣1️⃣ countries + :two: artificial! **||** 6️⃣4️⃣ regions/cities + :two: artificial! 
+2️⃣1️⃣ countries + :two: artificial! **||** 6️⃣5️⃣ regions/cities + :two: artificial! 
 
 More than 2️⃣1️⃣5️⃣ mln buildings freely available - see more details in the [paper](https://isprs-archives.copernicus.org/articles/XLVIII-4-2024/493/2024/)!
 
@@ -161,7 +161,7 @@ Follow the tags to discover what is inside the dataset!
 
 ## China
 
-- **China** LoD1 building models for several cities (Tianjin, Shanghai, Beijing) with the promised nationwide extension. The builidings are saved as .shp files, where the rooftop type is identified but not modeled; Part of the research project.
+- **China** :large_orange_diamond: LoD1 building models for several cities (Tianjin, Shanghai, Beijing) with the promised nationwide extension. The builidings are saved as .shp files, where the rooftop type is identified but not modeled; Part of the research project.
 
 [🏠][1️⃣]
 
@@ -227,6 +227,14 @@ Follow the tags to discover what is inside the dataset!
 [🏠][🎇][2️⃣]
 
 [[Download](https://opendata.bordeaux-metropole.fr/explore/dataset/bati3d/information/)] [[More](https://opendata.bordeaux-metropole.fr/explore/dataset/bati3d/information/)]
+
+- **France** :large_orange_diamond: the dataset covering the whole country. LoD1 heights are derived but not modelled, saved as geopackage
+
+[🏠][1️⃣]
+
+[[Download](https://www.data.gouv.fr/fr/datasets/base-de-donnees-nationale-des-batiments/#/resources)] [[More](https://www.data.gouv.fr/fr/datasets/base-de-donnees-nationale-des-batiments/#/resources)] 
+
+
 
 - **Lyon** has a semantic model and also historic datasets from 2009, 2012 and 2015
 
