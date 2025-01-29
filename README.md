@@ -8,7 +8,7 @@ Please feel free to contribute or write to olaf.wysocki@tum.de!
 
 For *"What software for the models?"* question find an answer [under the subpage](https://github.com/OloOcki/awesome-citygml/blob/main/software.md).
 
-If you use this repo please considering linking it or citing the [paper](https://isprs-archives.copernicus.org/articles/XLVIII-4-2024/493/2024/):
+If you use this repo please considering linking it or citing the [paper](https://isprs-archives.copernicus.org/articles/XLVIII-4-2024/493/2024/) and Zenodo [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5899096.svg)](https://doi.org/10.5281/zenodo.5899096):
 ```plain
 @article{wysocki2024reviewing,
   title={Reviewing Open Data Semantic 3D City Models to Develop Novel 3D Reconstruction Methods},
