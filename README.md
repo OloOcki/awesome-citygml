@@ -305,8 +305,7 @@ https://data.grandlyon.com/jeux-de-donnees/maquettes-3d-texturees-2018-communes-
 
 - **Ingolstadt** 3D models of the city of Ingolstadt in SketchUp and CityGML in LoD3
 
-[🏠][🎇][3️⃣]
-
+[🏠][🚗][🎇][3️⃣]
 
 [[Download](https://github.com/savein/lod3-road-space-models/releases)] [[Visualisation](https://www.3dcitydb.net/3dcitydb-web-map/1.6.1/3dwebclient/?title=Ingolstadt_CityGML_LoD3_Demo&shadows=false&terrainShadows=0&latitude=48.76421616414265&longitude=11.423261087465157&height=189.46220553536946&heading=170.97575939059712&pitch=-39.02715451772515&roll=0.03843163755915946&layer_0=url%3Dhttps%253A%252F%252Fwww.3dcitydb.net%252F3dcitydb%252Ffileadmin%252Fpublic%252F3dwebclientprojects%252Fingolstadt%252Fingolstadt_lod3%252Fkml_ingolstadt_trafficareas%252Fkml_ingolstadt_trafficareas_collada_MasterJSON.json%26name%3DIngolstadt_CityGML_TrafficArea%26active%3Dtrue%26spreadsheetUrl%3D%26cityobjectsJsonUrl%3D%26minLodPixels%3D0%26maxLodPixels%3D1.7976931348623157e%252B308%26maxSizeOfCachedTiles%3D200%26maxCountOfVisibleTiles%3D200&layer_1=url%3Dhttps%253A%252F%252Fwww.3dcitydb.net%252F3dcitydb%252Ffileadmin%252Fpublic%252F3dwebclientprojects%252Fingolstadt%252Fingolstadt_lod3%252Fkml_ingolstadt_auxiliarytrafficareas%252Fkml_ingolstadt_auxiliarytrafficareas_collada_MasterJSON.json%26name%3DIngolstadt_CityGML_AuxiliaryTrafficArea%26active%3Dtrue%26spreadsheetUrl%3D%26cityobjectsJsonUrl%3D%26minLodPixels%3D0%26maxLodPixels%3D1.7976931348623157e%252B308%26maxSizeOfCachedTiles%3D200%26maxCountOfVisibleTiles%3D200&layer_2=url%3Dhttps%253A%252F%252Fwww.3dcitydb.net%252F3dcitydb%252Ffileadmin%252Fpublic%252F3dwebclientprojects%252Fingolstadt_2%255Ckml_building_lod3_ingolstadt_neu%252Fkml_building_lod3_ingolstadt_collada_MasterJSON.json%26name%3DIngolstadt_CityGML_Building_LoD3%26active%3Dtrue%26spreadsheetUrl%3D%26cityobjectsJsonUrl%3D%26minLodPixels%3D0%26maxLodPixels%3D1.7976931348623157e%252B308%26maxSizeOfCachedTiles%3D200%26maxCountOfVisibleTiles%3D200&layer_3=url%3Dhttps%253A%252F%252Fwww.3dcitydb.net%252F3dcitydb%252Ffileadmin%252Fpublic%252F3dwebclientprojects%252Fingolstadt%252Fingolstadt_lod3%252Fkml_ingolstadt_sections%252Fkml_ingolstadt_sections_collada_MasterJSON.json%26name%3DIngolstadt_CityGML_Section%26active%3Dfalse%26spreadsheetUrl%3D%26cityobjectsJsonUrl%3D%26minLodPixels%3D0%26maxLodPixels%3D1.7976931348623157e%252B308%26maxSizeOfCachedTiles%3D200%26maxCountOfVisibleTiles%3D200&layer_4=url%3Dhttps%253A%252F%252Fwww.3dcitydb.net%252F3dcitydb%252Ffileadmin%252Fpublic%252F3dwebclientprojects%252Fingolstadt%252Fingolstadt_lod3%252Fkml_ingolstadt_intersection%252Fkml_ingolstadt_intersection_collada_MasterJSON.json%26name%3DIngolstadt_CityGML_Intersection%26active%3Dfalse%26spreadsheetUrl%3D%26cityobjectsJsonUrl%3D%26minLodPixels%3D0%26maxLodPixels%3D1.7976931348623157e%252B308%26maxSizeOfCachedTiles%3D200%26maxCountOfVisibleTiles%3D200)] [[More](https://github.com/savein/lod3-road-space-models)] 
 
@@ -319,7 +318,7 @@ https://data.grandlyon.com/jeux-de-donnees/maquettes-3d-texturees-2018-communes-
 
 - **Technical University of Munich (tum2twin)** LoD3 and textured LoD2 building models of the TUM in Munich
 
-[🏠][🎇][2️⃣][3️⃣]
+[🏠][🚗][🎇][2️⃣][3️⃣]
 
 [[Download](https://github.com/tum-gis/tum2twin)]
 
@@ -416,13 +415,13 @@ https://geoportal5.geoportal-th.de/wega-3d/)] [[More](https://geoportal.thuering
 
 ## Luxembourg
 
-- **Luxembourg** 3D models for the state of Luxembourg. The sample of LoD2 download for the city of Diekirch and Bastendorf. The LoD2 state-wide creation is pending
+- **Luxembourg** 3D models for the state of Luxembourg with textured LoD2 building models, bridges and railway infrastructure in LoD3, and trees in CityGML 
 
-[🏠][1️⃣][2️⃣]
+[🏠] [🌲] [⛲] [🗻] [1️⃣] [2️⃣] [3️⃣] [🎇] [⌛]
 
+[[Download Lod2](https://data.public.lu/en/datasets/base-de-donnees-nationale-des-batiments-3d-2023/)] [[Download Bridges](https://data.public.lu/en/datasets/modeles-3d-des-ponts/)] [[Download Railway Infrastructure](https://data.public.lu/en/datasets/reseau-ferroviaire-3d/)] [[Download Power Transmission Lines](https://data.public.lu/en/datasets/lignes-electriques-de-hautes-tensions-3d/)] [[Download Trees](https://data.public.lu/en/datasets/lidar-2019-arbres/)] [[Download Point clouds, DSM, DTM](https://data.public.lu/en/datasets/lidar-2024-releve-3d-du-territoire-luxembourgeois/)] [[Download Orthophotos](https://data.public.lu/fr/datasets/orthophoto-officielle-du-grand-duche-de-luxembourg-edition-2023/)] [[Visualisation](https://map.geoportail.lu/theme/main?version=3&X=682206&Y=6374182&zoom=17&rotation=2.79399975819839&features=&3d_enabled=true&3d_lon=6.13413&3d_lat=49.59226&3d_elevation=332&3d_heading=199.920&3d_pitch=-15.170&lang=fr&layers=&opacities=&time=&bgLayer=streets_jpeg&serial=&3d_layers=ACT2022_BD_L_BATI3D_LOD2%252CVDL2022_LOD2_IMPORT_old%252CBridges_LOD2%252CACT2019_LiDAR_Bridges_LOD1%252CACT2019_LiDAR_Vegetation%252CACT2019_LiDAR_Powerlines%252CACT2019_LiDAR_Railwork%252CSharedBikes)]
 
-[[DownloadLod2Sample](https://data.public.lu/en/datasets/5cf4e1230f7fb0030af0771a/)] [[DownloadLod1](https://data.public.lu/en/datasets/5cecd25a4384b06ad27e5c58/)] [[Visualisation](
-https://map.geoportail.lu/theme/main?version=3&zoom=17.77189888003778&X=685434&Y=6423250&lang=fr&layers=&opacities=&bgLayer=basemap_2015_global&3d_enabled=true&3d_lon=6.15736&3d_lat=49.86686&3d_elevation=1000&3d_heading=360.000&3d_pitch=-90.000&rotation=0)] [[More](https://data.public.lu/en/datasets/5cf4e1230f7fb0030af0771a/)] 
+[[Download LoD2 Sample (2017)](https://data.public.lu/en/datasets/5cf4e1230f7fb0030af0771a/)] [[Download LoD1 (2013)](https://data.public.lu/en/datasets/5cecd25a4384b06ad27e5c58/)]
 
 ## Netherlands
 
