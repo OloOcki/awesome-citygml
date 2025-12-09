@@ -27,10 +27,10 @@ If you use this repo please considering linking it or citing the [paper](https:/
 
 Last update: 29/01/2025
 
-2️⃣1️⃣ countries + :two: artificial! **||** 6️⃣5️⃣ regions/cities + :two: artificial! 
+2️⃣1️⃣ countries + :two: artificial! **||** 6️⃣5️⃣ regions/cities + :two: artificial + 1️⃣ world! 
 
 More than 2️⃣1️⃣5️⃣ mln buildings freely available - see more details in the [paper](https://isprs-archives.copernicus.org/articles/XLVIII-4-2024/493/2024/)!
-
++ 2️⃣.7️⃣5️⃣ billion global LoD1!
 
 # Tags
 
@@ -78,6 +78,7 @@ Follow the tags to discover what is inside the dataset!
 - <img src='https://github.com/madebybowtie/FlagKit/blob/master/Assets/PNG/CH@2x.png?raw=true' width='21' height='15'>  [Switzerland](#Switzerland)
 
 - :triangular_flag_on_post: [ArtificialCities](#ArtificialCities)
+- 🌍: [World](#World)
 
 
 
@@ -577,3 +578,12 @@ https://geoportal5.geoportal-th.de/wega-3d/)] [[More](https://geoportal.thuering
 [🏠] [🚗] [🌲] [🗻] [0️⃣] [1️⃣] [2️⃣] [3️⃣] 
 
 [[Download](https://github.com/muratkendir/samplycity/releases)][[Documentation](https://muratkendir.github.io/samplycity/building/)] [[More](https://github.com/muratkendir/samplycity)] 
+
+
+## World
+
+- **GlobalBuildingAtlas**: Complete LoD1 3D models for 97% of buildings worldwide (2.75 billion) with heights derived from Planet satellite imagery, deep learning methods and footprints (models in geojson).
+
+  [🏠] [1️⃣]
+
+  [[Download](https://mediatum.ub.tum.de/1782307)][[Visualisation](https://tubvsig-so2sat-vm1.srv.mwn.de/)] [[More](https://essd.copernicus.org/articles/17/6647/2025/)] 
