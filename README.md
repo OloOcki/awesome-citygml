@@ -27,7 +27,7 @@ If you use this repo please considering linking it or citing the [paper](https:/
 
 Last update: 09/12/2025
 
-2️⃣1️⃣ countries + :two: artificial! **||** 6️⃣5️⃣ regions/cities + :two: artificial + 1️⃣ world! 
+2️⃣1️⃣ countries + :two: artificial! **||** 6️⃣6️⃣ regions/cities + :two: artificial + 1️⃣ world! 
 
 More than 2️⃣1️⃣5️⃣ mln buildings freely available - see more details in the [paper](https://isprs-archives.copernicus.org/articles/XLVIII-4-2024/493/2024/)!
 + 2️⃣.7️⃣5️⃣ billion global LoD1!
@@ -235,14 +235,18 @@ Follow the tags to discover what is inside the dataset!
 
 [[Download](https://www.data.gouv.fr/fr/datasets/base-de-donnees-nationale-des-batiments/#/resources)] [[More](https://www.data.gouv.fr/fr/datasets/base-de-donnees-nationale-des-batiments/#/resources)] 
 
-
-
 - **Lyon** has a semantic model and also historic datasets from 2009, 2012 and 2015
 
 [🏠][🎇][2️⃣] [⌛]
 
 [[Download](
 https://data.grandlyon.com/jeux-de-donnees/maquettes-3d-texturees-2018-communes-metropole-lyon/donnees)] [[Download Historic](https://zenodo.org/record/3611354#.YCFqPS0xm-o)]
+
+- **Marseille** four neighborhoods of Marseille and classified ALS point clouds as a part of a LoD2 reconstruction benchmark dataset
+
+[🏠][2️⃣]
+
+[[Download](https://sites.google.com/view/lod2-building-benchmark)] [[More](https://isprs-archives.copernicus.org/articles/XLVIII-1-W6-2025/83/2025/isprs-archives-XLVIII-1-W6-2025-83-2025.pdf)] 
 
 ## Germany
 
