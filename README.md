@@ -71,6 +71,7 @@ Follow the tags to discover what is inside the dataset!
 - <img src='https://github.com/madebybowtie/FlagKit/blob/master/Assets/PNG/LI@2x.png?raw=true' width='21' height='15'>  [Liechtenstein](#Liechtenstein)
 - <img src='https://github.com/madebybowtie/FlagKit/blob/master/Assets/PNG/LU@2x.png?raw=true' width='21' height='15'>  [Luxembourg](#Luxembourg)
 - <img src='https://github.com/madebybowtie/FlagKit/blob/master/Assets/PNG/NL@2x.png?raw=true' width='21' height='15'>  [Netherlands](#Netherlands)
+- <img src='https://github.com/madebybowtie/FlagKit/raw/master/Assets/PNG/NG@2x.png?raw=true' width='21' height='15'>  [Nigeria](#Nigeria)
 - <img src='https://github.com/madebybowtie/FlagKit/blob/master/Assets/PNG/GB@2x.png?raw=true' width='21' height='15'>  [UK](#UK)
 - <img src='https://github.com/madebybowtie/FlagKit/blob/master/Assets/PNG/US@2x.png?raw=true' width='21' height='15'>  [USA](#USA)
 - <img src='https://github.com/madebybowtie/FlagKit/blob/master/Assets/PNG/PL@2x.png?raw=true' width='21' height='15'>  [Poland](#Poland)
@@ -455,6 +456,20 @@ https://geoportal5.geoportal-th.de/wega-3d/)] [[More](https://geoportal.thuering
 
 [[Download](https://www.3drotterdam.nl/#/export)] [[Visualization](https://www.3drotterdam.nl)] 
 
+
+## Nigeria
+
+* **Enugu** City-scale model
+generated from building footprints(with accurate number of floor details) and DEM using FME Workbench, conforming
+to OGC CityGML 2.0 standard.
+
+  Building height H was derived using the following formula, applied via AttributeCreator transformers in FME.
+  
+  H  =  Nfloors  x  hfloor,     where     hfloor = 4.0 m
+
+[🏠] [1️⃣]
+
+[[Download](https://zenodo.org/records/19401438)] [[More](https://github.com/Sochukwumaobim)]
 
 ## UK
 
