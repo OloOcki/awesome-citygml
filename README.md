@@ -23,11 +23,9 @@ If you use this repo please considering linking it or citing the [paper](https:/
 
 # Stats
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOloOcki%2Fawesome-citygml&count_bg=%234993DB&title_bg=%23555555&icon=&icon_color=%23CF1313&title=hit+count&edge_flat=false)](https://hits.seeyoufarm.com) [today / total] (starting from 13.01.25)
+Last update: 14/05/2026
 
-Last update: 09/12/2025
-
-2️⃣1️⃣ countries + :two: artificial! **||** 6️⃣6️⃣ regions/cities + :two: artificial + 1️⃣ world! 
+2️⃣2️⃣ countries + :two: artificial! **||** 6️⃣7️⃣ regions/cities + :two: artificial + 1️⃣ world! 
 
 More than 2️⃣1️⃣5️⃣ mln buildings freely available - see more details in the [paper](https://isprs-archives.copernicus.org/articles/XLVIII-4-2024/493/2024/)!
 + 2️⃣.7️⃣5️⃣ billion global LoD1!
@@ -75,6 +73,7 @@ Follow the tags to discover what is inside the dataset!
 - <img src='https://github.com/madebybowtie/FlagKit/blob/master/Assets/PNG/US@2x.png?raw=true' width='21' height='15'>  [USA](#USA)
 - <img src='https://github.com/madebybowtie/FlagKit/blob/master/Assets/PNG/PL@2x.png?raw=true' width='21' height='15'>  [Poland](#Poland)
 - <img src='https://github.com/madebybowtie/FlagKit/blob/master/Assets/PNG/SG@2x.png?raw=true' width='21' height='15'>  [Singapore](#Singapore)
+- <img src='https://github.com/madebybowtie/FlagKit/blob/master/Assets/PNG/SG@2x.png?raw=true' width='21' height='15'>  [Spain](#Spain)
 - <img src='https://github.com/madebybowtie/FlagKit/blob/master/Assets/PNG/CH@2x.png?raw=true' width='21' height='15'>  [Switzerland](#Switzerland)
 
 - :triangular_flag_on_post: [ArtificialCities](#ArtificialCities)
@@ -551,6 +550,13 @@ https://geoportal5.geoportal-th.de/wega-3d/)] [[More](https://geoportal.thuering
 
 [[Download](https://github.com/ualsg/hdb3d-data)] [[More](https://github.com/ualsg/hdb3d-data)] 
 
+## Spain
+
+- **Barcelona** Buildings in LoD1 and LoD2 available (look under Products under the download link)
+
+[🏠] [1️⃣][2️⃣] 
+
+[[Download](https://w20.bcn.cat/cartobcn/default.aspx?lang=en)] [[Visualisation](https://geo.bcn.cat/agisportal/apps/experiencebuilder/experience/?id=b0850352771a4f648837e0cbd6968561)] [[More](https://www.barcelona.cat/geoportal/en)] 
 
 ## Switzerland
 
