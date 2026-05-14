@@ -73,7 +73,7 @@ Follow the tags to discover what is inside the dataset!
 - <img src='https://github.com/madebybowtie/FlagKit/blob/master/Assets/PNG/US@2x.png?raw=true' width='21' height='15'>  [USA](#USA)
 - <img src='https://github.com/madebybowtie/FlagKit/blob/master/Assets/PNG/PL@2x.png?raw=true' width='21' height='15'>  [Poland](#Poland)
 - <img src='https://github.com/madebybowtie/FlagKit/blob/master/Assets/PNG/SG@2x.png?raw=true' width='21' height='15'>  [Singapore](#Singapore)
-- <img src='https://github.com/madebybowtie/FlagKit/blob/master/Assets/PNG/SG@2x.png?raw=true' width='21' height='15'>  [Spain](#Spain)
+- <img src='https://github.com/madebybowtie/FlagKit/blob/master/Assets/PNG/ES@2x.png?raw=true' width='21' height='15'>  [Spain](#Spain)
 - <img src='https://github.com/madebybowtie/FlagKit/blob/master/Assets/PNG/CH@2x.png?raw=true' width='21' height='15'>  [Switzerland](#Switzerland)
 
 - :triangular_flag_on_post: [ArtificialCities](#ArtificialCities)
