@@ -25,7 +25,7 @@ If you use this repo please considering linking it or citing the [paper](https:/
 
 Last update: 14/05/2026
 
-2️⃣2️⃣ countries + :two: artificial! **||** 6️⃣7️⃣ regions/cities + :two: artificial + 1️⃣ world! 
+2️⃣2️⃣ countries + :two: artificial! **||** 6️⃣8️⃣ regions/cities + :two: artificial + 1️⃣ world! 
 
 More than 2️⃣1️⃣5️⃣ mln buildings freely available - see more details in the [paper](https://isprs-archives.copernicus.org/articles/XLVIII-4-2024/493/2024/)!
 + 2️⃣.7️⃣5️⃣ billion global LoD1!
@@ -456,6 +456,12 @@ https://geoportal5.geoportal-th.de/wega-3d/)] [[More](https://geoportal.thuering
 
 
 ## UK
+
+- **Glasgow** LoD1 and LoD2 building models created in a research project using the open-source City3D
+
+[🏠] [1️⃣] [2️⃣]
+
+[[Download](https://zenodo.org/records/15000747)] [[More](https://github.com/QiaosiLi/glasgow_3d_city_model)] 
 
 - **London** :large_orange_diamond: 1000 x 1000 m of London city centre. CAD models obtained from aerial imagery (15 cm accuracy) with roof structure of LoD2 buildings (LoD 3 concerns only roof structure (more or fewer details))
 
