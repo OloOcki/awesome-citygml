@@ -23,7 +23,7 @@ If you use this repo please considering linking it or citing the [paper](https:/
 
 # Stats
 
-Last update: 14/05/2026
+Last update: 18/05/2026
 
 2️⃣2️⃣ countries + :two: artificial! **||** 6️⃣8️⃣ regions/cities + :two: artificial + 1️⃣ world! 
 
