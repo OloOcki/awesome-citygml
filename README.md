@@ -472,11 +472,7 @@ https://geoportal5.geoportal-th.de/wega-3d/)] [[More](https://geoportal.thuering
 
 * **Enugu** City-scale model
 generated from building footprints(with accurate number of floor details) and DEM using FME Workbench, conforming
-to OGC CityGML 2.0 standard.
-
-  Building height H was derived using the following formula, applied via AttributeCreator transformers in FME.
-  
-  H  =  Nfloors  x  hfloor,     where     hfloor = 4.0 m
+to OGC CityGML 2.0 standard. Building height H was derived using the following formula, applied via AttributeCreator transformers in FME. H  =  Nfloors  x  hfloor,     where     hfloor = 4.0 m
 
 [🏠] [1️⃣]
 
