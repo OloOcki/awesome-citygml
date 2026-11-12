@@ -25,7 +25,7 @@ If you use this repo please considering linking it or citing the [paper](https:/
 
 Last update: 18/05/2026
 
-2️⃣2️⃣ countries + :two: artificial! **||** 7️⃣0️⃣ regions/cities + :two: artificial + 1️⃣ world! 
+2️⃣3️⃣ countries + :two: artificial! **||** 7️⃣1️⃣ regions/cities + :two: artificial + 1️⃣ world! 
 
 More than 2️⃣1️⃣5️⃣ mln buildings freely available - see more details in the [paper](https://isprs-archives.copernicus.org/articles/XLVIII-4-2024/493/2024/)!
 + 2️⃣.7️⃣5️⃣ billion global LoD1!
